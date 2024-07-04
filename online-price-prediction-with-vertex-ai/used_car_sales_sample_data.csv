@@ -1,0 +1,2308 @@
+price,year,brand_and_model,condition,fuel,odometer,transmission,drive,type
+1000,2021,x special finance program 2021,fair,other,1400,other,x,bus
+1000,2006,toyota camry,fair,gas,250000,automatic,fwd,sedan
+1200,2008,x 1996 madza mx5,good,gas,202000,manual,fwd,convertible
+1200,2005,chevrolet impala,fair,gas,256806,automatic,fwd,sedan
+1200,1996,x madza mx5  miaita.,good,gas,201000,manual,fwd,coupe
+1250,1988,ford bronco ii,fair,gas,90000,manual,4wd,SUV
+1500,2007,chrysler pt cruiser,good,gas,131000,automatic,fwd,hatchback
+1500,2005,toyota solara,good,gas,222100,automatic,fwd,sedan
+1500,2004,chevrolet colorado,fair,gas,150000,automatic,rwd,truck
+1500,1983,x 1983 mustange convertible,fair,gas,48580,automatic,rwd,convertible
+1700,2002,buick lesabre,good,gas,171690,automatic,x,sedan
+1800,2007,nissan pathfinder,fair,gas,147000,automatic,fwd,SUV
+1800,2003,honda accord coupe,good,gas,152735,automatic,fwd,coupe
+1800,2002,ford sport trac,fair,gas,280000,automatic,rwd,pickup
+1950,1999,dodge caravan,x,x,227794,automatic,fwd,van
+1950,1985,x merkur xr4ti,good,gas,28500,manual,rwd,hatchback
+2000,2011,lexus ls 430 4dr sedan,good,gas,117852,automatic,rwd,sedan
+2000,2007,jeep commander 4x4,fair,gas,188000,automatic,4wd,SUV
+2000,2006,x bmw745i,good,gas,100000,automatic,x,coupe
+2000,2005,ford five hundred,good,gas,165000,automatic,fwd,sedan
+2000,2005,bmw x3,fair,gas,200000,automatic,4wd,SUV
+2000,2002,volkswagen jetta tdi,good,diesel,284000,manual,x,sedan
+2000,1995,chevrolet s10,fair,gas,159000,automatic,rwd,pickup
+2100,2006,subaru impreza,fair,gas,97000,automatic,x,hatchback
+2200,2001,mitsubishi montero sport,x,gas,289419,automatic,rwd,SUV
+2300,1997,buick lesabre,x,gas,201566,automatic,fwd,sedan
+2350,2001,gmc safari slt,fair,gas,250000,automatic,rwd,van
+2450,2001,ford taurus,x,gas,161662,automatic,fwd,sedan
+2450,2000,infiniti qx4,good,gas,246653,automatic,4wd,SUV
+2500,2008,honda accord,good,gas,204561,automatic,fwd,sedan
+2500,2006,dodge durango,good,gas,205000,automatic,4wd,SUV
+2500,2003,honda accord ex,good,gas,277958,automatic,fwd,sedan
+2500,2002,chevrolet silverado 1500,like new,gas,300402,automatic,4wd,truck
+2500,2000,ford mustang,excellent,gas,80000,automatic,x,coupe
+2500,2000,dodge grand caravan,good,gas,131000,automatic,x,mini-van
+2500,1995,bmw 525i,fair,gas,110661,automatic,rwd,sedan
+2500,1987,x 1987 saab 900 turbo,fair,gas,125000,manual,fwd,coupe
+2500,1966,x 1966 c-30 1 ton,good,gas,47000,manual,rwd,pickup
+2550,2004,cadillac srx,x,gas,224105,automatic,rwd,SUV
+2595,2003,ford f-150,excellent,gas,149055,automatic,4wd,pickup
+2600,2002,honda odyssey,good,gas,202000,automatic,fwd,mini-van
+2600,2000,buick lesabre,x,gas,212061,automatic,fwd,sedan
+2650,1998,honda accord,x,gas,156000,automatic,fwd,sedan
+2675,1996,toyota camry,x,gas,164719,automatic,fwd,sedan
+2700,2005,gmc envoy,good,gas,183876,automatic,rwd,SUV
+2700,2004,nissan maxima,good,gas,200000,automatic,fwd,sedan
+2750,2000,x lexuse rx,fair,gas,276000,automatic,rwd,SUV
+2800,2006,x suzuki reno,fair,gas,167000,automatic,fwd,sedan
+2800,2006,ford taurus,x,gas,230108,automatic,fwd,sedan
+2800,2004,acura rl 3.5,good,gas,167500,automatic,fwd,sedan
+2800,2001,ford sport trac,good,gas,225000,automatic,rwd,pickup
+2800,1999,gmc suburban k1500 4x4,good,gas,300000,automatic,4wd,SUV
+2850,2001,ford taurus,x,gas,161662,automatic,fwd,sedan
+2888,1973,x 1973volkswagen beetle,good,gas,111111,manual,rwd,coupe
+2900,2007,nissan altima,like new,gas,176067,automatic,rwd,sedan
+2900,2003,x yamaha xvs650/a/c/ac/at/atc/v st,x,gas,36737,manual,x,other
+2900,1999,lexus gs400,good,gas,378000,automatic,x,sedan
+2950,2004,ford taurus,good,gas,193049,automatic,fwd,sedan
+2950,1996,ford explorer xlt,good,gas,218822,automatic,rwd,SUV
+2950,1963,chevrolet corvair convertible,fair,gas,1164,manual,rwd,convertible
+2975,2006,x suzuki xl-7,x,gas,217353,automatic,rwd,SUV
+2977,2003,acura rsx,good,gas,163000,automatic,fwd,coupe
+2999,2007,ford taurus,x,gas,162029,automatic,fwd,sedan
+2999,2007,saturn ion,good,gas,202500,automatic,fwd,sedan
+2999,2005,ford taurus,x,gas,226797,automatic,fwd,sedan
+3000,2006,chevrolet trailblazer,x,gas,124095,automatic,x,SUV
+3000,2006,chevrolet cobalt,x,gas,213149,automatic,fwd,sedan
+3000,2005,ford f-150 lariat,fair,gas,150000,automatic,rwd,truck
+3000,2005,buick lacrosse,x,gas,191064,automatic,fwd,sedan
+3000,2004,chevrolet blazer,good,gas,131500,automatic,4wd,SUV
+3000,2004,chrysler town & country,good,gas,176144,automatic,fwd,mini-van
+3000,2002,buick lesabre,excellent,gas,101000,automatic,fwd,sedan
+3000,2002,ram 1500,good,gas,176000,automatic,rwd,pickup
+3000,2000,chevrolet s10 pickup,good,gas,178000,automatic,rwd,truck
+3000,1998,ford mustang,good,gas,119000,automatic,rwd,convertible
+3000,1982,ford f100,fair,gas,42000,automatic,rwd,pickup
+3100,2006,volvo xc90,fair,gas,200238,automatic,4wd,SUV
+3200,2008,mercedes-benz benz c300,good,gas,118000,automatic,x,sedan
+3200,2006,chevrolet trailblazer,good,gas,178762,automatic,rwd,SUV
+3200,2004,chevrolet suburban lt,fair,gas,222753,automatic,x,SUV
+3200,1997,honda crv ex awd,good,gas,155000,automatic,4wd,SUV
+3250,1997,lincoln town car,good,gas,142000,other,rwd,sedan
+3250,1997,ford crown victoria,x,gas,210965,automatic,rwd,sedan
+3277,2004,honda accord ex,good,gas,256000,automatic,fwd,sedan
+3299,2003,chevrolet cavalier,x,gas,176354,automatic,fwd,coupe
+3300,2009,ford focus ses,good,gas,260000,automatic,fwd,sedan
+3300,1999,chrysler 300m,x,gas,162026,automatic,fwd,sedan
+3300,1994,bmw 318ic cabrio,fair,gas,304000,manual,rwd,convertible
+3350,2010,chevrolet hhr,x,x,177602,automatic,rwd,SUV
+3399,2006,buick lacrosse,x,gas,160218,automatic,fwd,sedan
+3400,2006,ford taurus,x,gas,126139,automatic,fwd,sedan
+3450,2007,ford taurus,x,gas,164421,automatic,fwd,sedan
+3450,2006,toyota corolla,x,gas,206058,automatic,fwd,sedan
+3450,2003,ford explorer,x,x,228634,automatic,rwd,SUV
+3450,2002,chrysler 300m,x,gas,144934,automatic,fwd,sedan
+3450,2001,acura tl,x,gas,204764,automatic,fwd,sedan
+3450,1997,honda accord sedan,x,gas,172295,automatic,fwd,sedan
+3475,2005,cadillac escalade,x,gas,259337,automatic,x,SUV
+3477,2010,honda civic lx,good,gas,204000,automatic,fwd,sedan
+3477,2007,hyundai accent,x,gas,141000,automatic,fwd,hatchback
+3495,2008,chevrolet malibu,x,gas,157305,automatic,fwd,sedan
+3500,2009,hyundai accent,x,gas,111387,automatic,fwd,sedan
+3500,2009,hyundai sonata,good,gas,213159,automatic,fwd,sedan
+3500,2008,pontiac g6,good,gas,150575,automatic,fwd,sedan
+3500,2008,acura tl,good,gas,242000,automatic,fwd,sedan
+3500,2007,hyundai sonata,x,gas,227356,automatic,fwd,sedan
+3500,2006,ford freestyle,x,gas,214775,automatic,fwd,SUV
+3500,2006,nissan altima 3.5 sl,good,gas,287000,automatic,fwd,sedan
+3500,2005,honda accord,good,gas,140600,automatic,fwd,sedan
+3500,2005,honda odyssey,x,gas,197742,automatic,fwd,van
+3500,2005,honda crv,good,gas,300000,automatic,fwd,SUV
+3500,2003,honda accord,good,gas,201580,automatic,fwd,sedan
+3500,2003,x chevelet venture,good,gas,230000,automatic,rwd,mini-van
+3500,2003,cadillac deville,good,gas,268000,automatic,fwd,sedan
+3500,2001,buick park avenue,good,gas,1000,automatic,fwd,sedan
+3500,1998,jeep cherokee,x,gas,273000,automatic,4wd,SUV
+3500,1997,ford f l50 xl long bed,fair,gas,160,automatic,4wd,truck
+3500,1996,chevrolet tahoe,excellent,gas,237000,automatic,4wd,offroad
+3500,1995,honda civic del sol si,good,gas,215000,manual,fwd,convertible
+3500,1994,ford f450,fair,diesel,190000,manual,rwd,truck
+3500,1991,honda accord,x,gas,153919,automatic,fwd,sedan
+3500,1981,mercedes-benz 380sl,fair,gas,121000,automatic,rwd,convertible
+3500,1972,buick ,fair,gas,100000,automatic,rwd,coupe
+3525,2005,mercedes-benz c-class,x,gas,79101,automatic,rwd,sedan
+3550,2009,kia rio,x,gas,167205,automatic,rwd,sedan
+3550,2008,dodge caliber,x,gas,127083,automatic,fwd,hatchback
+3600,2010,buick lacrosse,good,gas,155000,automatic,fwd,sedan
+3600,2002,honda accord sedan,x,gas,272068,automatic,fwd,sedan
+3600,1997,jaguar xk8,good,gas,79997,automatic,fwd,convertible
+3600,1997,ford f150,good,gas,206000,manual,x,truck
+3650,2009,saturn aura,like new,gas,127658,automatic,fwd,sedan
+3650,2008,kia rio,x,gas,115124,automatic,fwd,sedan
+3650,2008,hyundai elantra,x,gas,137161,manual,fwd,sedan
+3650,2008,chevrolet impala,x,x,149186,automatic,fwd,sedan
+3650,2006,chevrolet trailblazer,x,gas,184925,automatic,4wd,SUV
+3650,1999,jeep grand cherokee,x,gas,151379,automatic,rwd,SUV
+3730,1987,x 1987 saab 900 turbo,fair,gas,125000,manual,fwd,coupe
+3799,2007,buick lacrosse,excellent,gas,140500,automatic,x,sedan
+3799,2002,chevrolet tahoe,x,gas,200121,automatic,rwd,SUV
+3800,2006,kia optima,x,gas,112412,automatic,fwd,sedan
+3800,2005,chrysler pt cruiser gt,good,gas,135034,automatic,fwd,convertible
+3800,2003,chrysler pt cruiser gt,good,gas,150000,automatic,x,sedan
+3800,2001,ford f-150,good,gas,206000,automatic,rwd,truck
+3800,2000,toyota camry,x,gas,164814,automatic,fwd,sedan
+3850,2010,toyota scion,good,gas,168000,automatic,fwd,SUV
+3850,2004,nissan titan,x,gas,319746,automatic,4wd,pickup
+3850,2003,dodge durango,x,gas,215604,automatic,rwd,SUV
+3900,2010,chevrolet cobalt,x,gas,162218,automatic,fwd,sedan
+3900,2009,hyundai elantra,x,gas,162005,automatic,rwd,sedan
+3900,2009,honda pilot,good,gas,228000,automatic,x,SUV
+3900,2007,ford fusion,x,gas,216585,automatic,fwd,sedan
+3900,2007,chevrolet colorado,good,gas,220000,automatic,rwd,truck
+3900,2001,honda civic,x,gas,144000,automatic,fwd,sedan
+3950,2008,kia spectra ex,excellent,gas,247377,automatic,x,sedan
+3950,2006,volvo v-70 2.5t,good,gas,272641,automatic,fwd,wagon
+3950,1997,lincoln town car,x,gas,116895,automatic,rwd,sedan
+3950,1997,ford crown victoria,x,gas,210965,automatic,rwd,sedan
+3975,2010,chevrolet cobalt,x,gas,162455,automatic,fwd,sedan
+3980,2002,ford f-150,x,gas,197070,manual,rwd,pickup
+3995,2003,chrysler pt cruiser,excellent,gas,142000,automatic,fwd,SUV
+3995,1989,dodge dakota regular cab long be,x,gas,101958,automatic,rwd,pickup
+3999,2009,volvo s60,x,gas,182005,automatic,fwd,sedan
+3999,2008,dodge caliber,x,gas,127083,automatic,fwd,hatchback
+3999,2006,pontiac grand prix,x,gas,207238,automatic,fwd,sedan
+3999,2006,honda accord sedan,x,gas,253076,automatic,fwd,sedan
+3999,2003,infiniti g35 sedan,x,gas,233830,automatic,rwd,sedan
+4000,2014,chevrolet sonic lt,like new,gas,135000,manual,fwd,sedan
+4000,2010,hyundai elantra,good,gas,179076,automatic,x,sedan
+4000,2007,cadillac dts,fair,gas,141000,automatic,rwd,sedan
+4000,2006,hyundai sonata,x,gas,161530,automatic,fwd,sedan
+4000,2006,jeep grand cherokee laredo,good,gas,281000,automatic,rwd,SUV
+4000,2005,honda pilot,fair,gas,215290,automatic,4wd,SUV
+4000,2004,ram 1500,excellent,gas,250000,automatic,fwd,pickup
+4000,2002,toyota corolla le,like new,gas,125000,automatic,fwd,sedan
+4000,2002,toyota echo,excellent,gas,155000,automatic,fwd,sedan
+4000,2002,toyota camry,like new,gas,160000,automatic,fwd,sedan
+4000,2001,jeep grand cherokee,fair,gas,117000,automatic,rwd,SUV
+4000,2001,x 2001,excellent,gas,158094,automatic,fwd,sedan
+4000,1992,x 1992 corvette,fair,gas,105000,manual,fwd,coupe
+4000,1992,x f350 drw,good,diesel,225000,manual,rwd,truck
+4000,1972,mercedes-benz benz,fair,gas,88100,automatic,rwd,coupe
+4000,1964,ford galaxie,good,gas,123456,automatic,rwd,wagon
+4000,1962,chevrolet corvair,good,gas,66000,manual,rwd,truck
+4100,2010,hyundai elantra touring,x,gas,130206,manual,fwd,wagon
+4100,2004,nissan armada,good,gas,226000,automatic,4wd,SUV
+4199,2008,buick lucerne,excellent,gas,163500,automatic,fwd,sedan
+4200,2009,hyundai sonata,excellent,gas,93000,automatic,fwd,sedan
+4200,2007,honda odyssey,good,gas,195000,automatic,fwd,mini-van
+4250,2007,chrysler pt cruiser,x,gas,94093,automatic,fwd,sedan
+4250,2003,ford crown victoria,x,gas,131282,automatic,rwd,sedan
+4275,2006,jeep liberty,x,gas,174132,automatic,4wd,SUV
+4299,2007,nissan sentra,x,gas,189321,automatic,fwd,sedan
+4299,2005,honda accord,good,gas,206500,automatic,fwd,sedan
+4299,2004,ford econoline cargo van,good,gas,213500,automatic,rwd,van
+4300,2012,kia soul,x,gas,174053,automatic,fwd,wagon
+4300,2004,honda accord,excellent,gas,180000,automatic,fwd,sedan
+4350,2015,x smart fortwo,good,gas,69974,automatic,x,coupe
+4380,2007,hyundai entourage,x,gas,185852,automatic,fwd,van
+4400,2006,buick lacrosse,x,gas,124201,automatic,fwd,sedan
+4400,2003,lexus rx 300,x,gas,193058,automatic,fwd,SUV
+4425,2004,honda accord sedan,x,gas,192275,automatic,fwd,sedan
+4450,2004,cadillac srx,x,gas,144850,automatic,rwd,SUV
+4475,2008,hyundai sonata,x,gas,116916,automatic,fwd,sedan
+4477,2006,chevrolet express 3500 van,x,gas,250000,automatic,x,van
+4488,2001,ford f350 dually utility,good,gas,200000,automatic,rwd,truck
+4488,2000,nissan pathfinder,good,gas,220000,automatic,rwd,SUV
+4499,2010,ford crown victoria,x,gas,138895,automatic,rwd,sedan
+4499,2005,toyota camry,x,gas,170687,automatic,fwd,sedan
+4500,2015,chevrolet impala,excellent,gas,127000,automatic,4wd,sedan
+4500,2012,chevrolet malibu,good,gas,160000,automatic,fwd,sedan
+4500,2011,ford fusion,x,gas,167870,automatic,fwd,sedan
+4500,2008,ford mustang,x,gas,187016,automatic,rwd,coupe
+4500,2008,dodge durango,excellent,gas,190000,automatic,rwd,SUV
+4500,2007,buick lucerne,x,gas,116250,automatic,fwd,sedan
+4500,2006,cadillac dts,good,gas,100000,automatic,fwd,sedan
+4500,2006,mercedes-benz c-class,good,gas,158325,automatic,rwd,sedan
+4500,2006,honda civic,good,gas,170000,automatic,fwd,sedan
+4500,2006,jaguar xj8,good,gas,186394,automatic,rwd,sedan
+4500,2006,ford expedition,good,gas,243000,automatic,4wd,SUV
+4500,2005,chevrolet cobalt,x,gas,136796,manual,fwd,sedan
+4500,2005,toyota camry xle,like new,gas,170000,automatic,fwd,sedan
+4500,2005,acura mdx,x,gas,279000,automatic,x,SUV
+4500,2002,ford mustang gt,x,gas,190000,manual,rwd,coupe
+4500,2002,ford svt focus,excellent,gas,190500,manual,fwd,hatchback
+4500,2000,x bmw528i,excellent,gas,256000,automatic,rwd,sedan
+4500,1994,honda accord,good,gas,184000,manual,fwd,sedan
+4550,2002,lincoln ls,good,gas,221916,automatic,x,sedan
+4650,2002,chevrolet trailblazer,excellent,gas,139000,automatic,x,SUV
+4700,1988,honda crx,like new,gas,104266,automatic,fwd,hatchback
+4719,2007,honda civic,x,gas,299776,automatic,fwd,sedan
+4795,2001,chevrolet silverado,excellent,gas,141005,automatic,x,pickup
+4799,2014,dodge caravan,excellent,gas,206500,automatic,fwd,mini-van
+4800,2010,chevrolet malibu ls,like new,gas,155071,automatic,fwd,sedan
+4800,2007,chevrolet silverado,good,gas,206000,automatic,rwd,truck
+4800,2005,chrysler 300c,good,gas,204000,automatic,rwd,sedan
+4800,2004,chevrolet avalanche,good,gas,226386,automatic,4wd,pickup
+4800,2004,nissan altima,x,gas,262876,automatic,fwd,sedan
+4800,1996,toyota 4runner 4wd,good,gas,314000,automatic,4wd,SUV
+4850,2002,gmc yukon xl slt,good,gas,220000,automatic,4wd,SUV
+4877,2005,acura tsx,excellent,gas,173000,automatic,fwd,sedan
+4882,2005,honda pilot,excellent,gas,135977,automatic,x,SUV
+4900,2008,chrysler town & country,excellent,gas,186000,automatic,fwd,mini-van
+4900,2007,volkswagen jetta gli fahrenheit,good,gas,243730,manual,fwd,sedan
+4950,2002,acura rl,excellent,gas,201000,automatic,x,sedan
+4950,2001,toyota 4runner limited,x,gas,266000,automatic,rwd,SUV
+4950,1997,chevrolet astro 1997,excellent,gas,114268,automatic,fwd,van
+4978,2004,jeep grand cherokee,x,gas,192759,automatic,rwd,SUV
+4980,2011,chevrolet cruze,x,gas,197456,automatic,fwd,sedan
+4980,2011,nissan murano,x,gas,199524,manual,rwd,SUV
+4980,2010,dodge grand caravan,x,gas,134819,manual,rwd,van
+4980,2010,chevrolet traverse,x,gas,208122,manual,rwd,SUV
+4980,2007,ford edge,x,gas,178095,automatic,4wd,sedan
+4980,2005,cadillac sts,x,gas,129448,automatic,rwd,sedan
+4980,2004,gmc yukon xl,x,x,248251,automatic,rwd,SUV
+4980,2001,ford crown victoria,x,gas,106554,automatic,rwd,sedan
+4995,2007,toyota camry,excellent,gas,166000,automatic,fwd,sedan
+4999,2008,chrysler pacifica,excellent,gas,166500,automatic,fwd,SUV
+4999,2008,honda pilot,excellent,gas,195500,automatic,x,SUV
+4999,2003,x saab 9-3,excellent,gas,146005,automatic,fwd,sedan
+4999,2002,toyota camry,good,gas,152212,manual,fwd,sedan
+5000,2013,chrysler 200,x,gas,146252,automatic,fwd,sedan
+5000,2006,jeep liberty,x,diesel,194000,automatic,x,SUV
+5000,2005,honda element ex,good,gas,182000,automatic,fwd,SUV
+5000,2004,infiniti g35,like new,gas,150000,automatic,rwd,sedan
+5000,1989,pontiac firebird,good,gas,142307,automatic,fwd,coupe
+5000,1988,dodge w150,good,gas,90000,automatic,4wd,truck
+5150,2008,toyota sienna,excellent,gas,108000,automatic,rwd,mini-van
+5177,2009,honda civic sedan,excellent,gas,146000,automatic,fwd,sedan
+5199,2005,honda element,excellent,gas,230500,automatic,fwd,SUV
+5250,1999,ford f-150,fair,gas,248000,automatic,rwd,pickup
+5250,1999,toyota 4runner,good,gas,335000,automatic,4wd,SUV
+5277,2009,honda civic lx,excellent,gas,145000,automatic,fwd,sedan
+5299,2012,ford fusion se,excellent,gas,148500,automatic,fwd,sedan
+5299,2005,ford expedition,excellent,gas,205500,automatic,rwd,SUV
+5300,2005,mercedes-benz c230,good,gas,158610,automatic,rwd,sedan
+5400,2012,chevrolet cruze,like new,gas,1000,automatic,x,sedan
+5400,2001,ram 1500,like new,gas,198000,automatic,x,truck
+5477,2008,subaru impreza 2.5i,excellent,gas,138000,manual,x,hatchback
+5480,2013,chevrolet sonic,x,gas,121954,automatic,fwd,sedan
+5480,2013,chevrolet captiva sport,x,gas,182711,automatic,fwd,SUV
+5480,2005,dodge durango,x,gas,178667,automatic,rwd,SUV
+5495,2008,cadillac dts,good,gas,125896,automatic,x,sedan
+5500,2010,hyundai accent,good,gas,114988,automatic,fwd,hatchback
+5500,2009,honda civic,x,gas,156869,automatic,fwd,sedan
+5500,2009,jeep patriot,good,gas,158000,automatic,rwd,SUV
+5500,2009,audi a5,excellent,gas,211000,automatic,x,coupe
+5500,2008,ford focus,excellent,gas,115000,automatic,x,sedan
+5500,2008,nissan altima,like new,gas,150000,automatic,fwd,sedan
+5500,2008,ford mustang gt premium,good,gas,150000,manual,rwd,coupe
+5500,2008,dodge grand caravan,excellent,gas,174651,automatic,fwd,mini-van
+5500,2008,bmw 3 series 328i xdrive,like new,gas,200000,automatic,x,coupe
+5500,2007,toyota yaris,excellent,gas,51000,manual,fwd,hatchback
+5500,2007,honda accord se,good,gas,155000,manual,fwd,sedan
+5500,2007,nissan maxima,excellent,gas,175000,manual,x,sedan
+5500,2007,honda odyssey ex-l,good,gas,215000,automatic,fwd,mini-van
+5500,2006,saturn solstice,good,gas,128000,automatic,rwd,convertible
+5500,2005,mercedes-benz benz s430,like new,gas,79350,automatic,rwd,sedan
+5500,2005,ford explorer,x,gas,231284,automatic,x,SUV
+5500,2003,ford explorer sport trac,excellent,gas,191000,automatic,rwd,truck
+5500,2003,lexus ls 430,good,gas,202000,automatic,rwd,sedan
+5500,2001,ford e350 van,fair,diesel,340000,automatic,fwd,van
+5500,1999,x blue bird bus,excellent,diesel,220000,automatic,rwd,bus
+5500,1992,jeep wrangler,good,gas,103500,manual,4wd,offroad
+5500,1988,mercedes-benz 560,fair,diesel,177607,manual,x,convertible
+5500,1985,chevrolet ,good,diesel,15405,automatic,4wd,pickup
+5500,1978,ford f-150,good,gas,239000,automatic,x,truck
+5500,1974,mercedes-benz 1929 ssk replica,good,gas,9999,automatic,rwd,convertible
+5599,2010,toyota camry,excellent,gas,210500,automatic,fwd,sedan
+5599,2009,toyota yaris s,excellent,gas,73500,automatic,fwd,hatchback
+5600,2013,dodge dart,good,gas,88000,manual,fwd,sedan
+5600,2008,toyota camry,good,diesel,133244,automatic,fwd,sedan
+5600,1994,cadillac deville,good,gas,120000,automatic,fwd,sedan
+5700,2007,jeep grand cherokee,excellent,gas,164000,automatic,4wd,SUV
+5700,2007,jeep grand cherokee laredo,excellent,gas,164000,automatic,4wd,SUV
+5790,2008,cadillac srx,x,gas,189294,automatic,rwd,SUV
+5795,2007,cadillac dts,excellent,gas,104500,automatic,x,sedan
+5800,2012,ford escape,excellent,gas,160000,automatic,fwd,SUV
+5800,2007,lexus is 250,good,gas,168000,automatic,rwd,sedan
+5800,2003,toyota matrix,good,gas,162000,automatic,fwd,hatchback
+5804,2005,toyota prius,x,hybrid,146675,automatic,fwd,sedan
+5900,2010,pontiac vibe,x,gas,182199,automatic,fwd,sedan
+5900,2009,buick enclave,x,gas,163783,automatic,fwd,wagon
+5900,2008,honda civic lx,excellent,gas,207000,automatic,fwd,sedan
+5900,2005,acura tl,good,gas,148542,automatic,fwd,sedan
+5900,1998,ford f150,excellent,gas,214000,automatic,x,truck
+5940,2011,kia soul,x,gas,163385,manual,rwd,wagon
+5940,2009,mini cooper hardtop 2 door,x,gas,149835,manual,fwd,coupe
+5950,2012,ford escape xlt,good,gas,182705,automatic,fwd,SUV
+5950,2008,honda accord,excellent,gas,190000,automatic,fwd,sedan
+5950,2007,mitsubishi eclipse,good,gas,72000,manual,fwd,hatchback
+5950,2006,toyota camry xle,like new,gas,119817,automatic,fwd,sedan
+5950,2004,honda cr-v,excellent,gas,209166,automatic,fwd,SUV
+5950,1980,x triumph spitfire,excellent,gas,82000,manual,rwd,convertible
+5970,2010,nissan altima,x,gas,122584,automatic,fwd,sedan
+5977,2012,honda accord lx,excellent,gas,174000,automatic,fwd,sedan
+5977,2011,honda accord lx-p,excellent,gas,149000,automatic,fwd,sedan
+5977,2010,nissan rogue,excellent,gas,137000,automatic,fwd,SUV
+5977,2008,nissan altima,x,gas,141085,automatic,fwd,sedan
+5980,2013,jeep patriot,x,gas,106290,manual,fwd,SUV
+5980,2010,ford fusion,x,gas,178753,manual,fwd,sedan
+5980,2010,gmc terrain,x,gas,208359,manual,rwd,SUV
+5980,2009,buick enclave,x,gas,160419,manual,rwd,SUV
+5980,2008,chevrolet impala,x,x,165596,automatic,fwd,sedan
+5980,2006,chrysler 300,x,gas,160566,automatic,rwd,sedan
+5980,2006,honda odyssey,x,gas,167440,automatic,fwd,van
+5980,2006,nissan murano,x,gas,178388,automatic,fwd,SUV
+5980,2005,cadillac sts,x,gas,129448,automatic,rwd,sedan
+5980,2005,acura tl,x,gas,179721,automatic,fwd,sedan
+5980,2005,nissan xterra,x,gas,198576,manual,x,SUV
+5990,1995,volvo coe semi w/18 feet frame,x,diesel,590000,manual,rwd,truck
+5995,2006,dodge durango,x,gas,183645,automatic,rwd,SUV
+5998,2013,kia rio,x,gas,204797,automatic,fwd,sedan
+5998,2005,honda odyssey,x,gas,251262,automatic,fwd,van
+5999,2013,mazda sx4 se,like new,gas,91000,automatic,fwd,sedan
+5999,2012,chevrolet equinox lt,excellent,gas,158500,automatic,fwd,SUV
+5999,2011,ford fusion,x,gas,146161,automatic,fwd,sedan
+5999,2009,acura tl,good,gas,154000,automatic,rwd,sedan
+6000,2011,acura mdx,good,gas,197331,automatic,x,SUV
+6000,2010,chevrolet cobalt,fair,gas,80000,automatic,x,coupe
+6000,2007,mercedes-benz e320 cdi,good,diesel,124000,automatic,rwd,sedan
+6000,2004,toyota sequoia sr5,good,gas,261000,automatic,rwd,SUV
+6000,2000,chevrolet camaro,like new,gas,54825,automatic,x,coupe
+6095,2007,lexus rx 350,good,gas,221000,automatic,fwd,SUV
+6150,2013,kia soul,excellent,gas,130200,automatic,rwd,SUV
+6199,2011,nissan altima,good,gas,166000,automatic,x,sedan
+6200,1984,gmc sierra,fair,gas,51000,manual,4wd,truck
+6250,2009,mercedes-benz clk350,excellent,gas,132000,automatic,rwd,coupe
+6250,2008,honda pilot ex-l,excellent,gas,150000,automatic,fwd,SUV
+6350,2013,toyota corolla le,excellent,gas,184000,automatic,fwd,sedan
+6380,2013,kia optima,x,gas,193254,automatic,fwd,sedan
+6400,2009,buick enclave,x,gas,163783,automatic,fwd,wagon
+6400,2007,lincoln mkx,good,gas,159938,automatic,x,SUV
+6400,2006,lexus es 330,like new,gas,130000,automatic,fwd,sedan
+6400,2006,mercedes-benz s500,excellent,gas,145000,automatic,fwd,sedan
+6480,2012,jeep compass,x,gas,180096,manual,fwd,SUV
+6480,2008,buick enclave,x,gas,183858,automatic,rwd,SUV
+6499,2012,chevrolet cruze ls,excellent,gas,138000,automatic,fwd,sedan
+6499,2012,nissan altima,excellent,gas,140000,automatic,fwd,sedan
+6499,2006,lexus rx 300,like new,gas,190000,automatic,rwd,SUV
+6500,2013,volkswagen jetta,excellent,gas,135000,automatic,fwd,sedan
+6500,2011,hyundai genesis coupe 2.0t,excellent,gas,197000,automatic,rwd,coupe
+6500,2011,toyota camry xle,good,gas,214000,automatic,x,sedan
+6500,2010,honda accord coupe,like new,gas,170000,automatic,fwd,coupe
+6500,2010,honda accord,good,gas,174000,automatic,x,sedan
+6500,2008,lexus es 350,good,gas,139000,automatic,fwd,sedan
+6500,2007,subaru forrester,good,gas,148980,automatic,4wd,hatchback
+6500,2007,chevrolet silverado,good,gas,233000,automatic,4wd,truck
+6500,2006,chevrolet impala,x,gas,131803,automatic,fwd,sedan
+6500,2005,chevrolet silverado 2500hd,good,gas,97000,automatic,rwd,pickup
+6500,2003,chevrolet tahoe z71,like new,gas,245700,automatic,4wd,SUV
+6500,2003,chevrolet tahoe,excellent,gas,257000,automatic,rwd,SUV
+6500,2003,chevrolet tahoe,fair,gas,285247,automatic,fwd,SUV
+6500,2001,dodge dakota,good,gas,140200,automatic,rwd,pickup
+6500,1999,ford mustang,good,gas,126000,automatic,x,coupe
+6500,1986,chevrolet k10 4x4,good,gas,123456,automatic,4wd,pickup
+6500,1984,chevrolet k5 blazer,fair,gas,123456,automatic,4wd,SUV
+6599,2010,toyota sienna xle,good,gas,174000,automatic,fwd,mini-van
+6599,2008,mercedes-benz benz gl450,excellent,gas,148335,automatic,x,SUV
+6599,2004,gmc sierra,good,gas,223500,automatic,rwd,truck
+6700,2014,chrysler 200,good,gas,110000,automatic,fwd,sedan
+6790,2012,ford focus,x,gas,83694,automatic,fwd,hatchback
+6800,2018,lexus rx 350,good,gas,220000,automatic,fwd,SUV
+6800,2012,toyota corolla,excellent,gas,137454,manual,fwd,sedan
+6800,2010,nissan altima,like new,gas,139000,automatic,fwd,coupe
+6800,2005,x blue bird bus,excellent,diesel,180000,automatic,rwd,bus
+6800,2004,mercedes-benz clk320,good,gas,116700,automatic,rwd,convertible
+6800,2003,ford f-150,excellent,gas,190000,automatic,x,truck
+6877,2010,acura tsx tech pkg,excellent,gas,159000,automatic,fwd,sedan
+6877,2009,acura tsx,excellent,gas,179000,automatic,fwd,sedan
+6882,2008,acura rdx,excellent,gas,140000,automatic,x,SUV
+6895,2008,mercedes-benz benz e320,good,diesel,179350,automatic,rwd,sedan
+6895,1995,gmc sonoma,good,gas,186500,automatic,rwd,pickup
+6900,2015,honda cbr650,x,gas,16402,manual,x,other
+6900,2012,ford focus se,excellent,gas,151000,automatic,fwd,sedan
+6900,2010,chevrolet malibu lt,excellent,gas,143978,automatic,x,sedan
+6900,2010,mazda 3i,good,gas,165255,automatic,fwd,sedan
+6900,2009,x volkwagen beetle convertible,excellent,gas,89000,automatic,fwd,convertible
+6900,2009,volkswagen beetle convertible,excellent,gas,89000,automatic,fwd,convertible
+6900,2009,mercury mariner,x,gas,133654,automatic,x,SUV
+6900,2008,ford escape hev,good,hybrid,103550,automatic,fwd,SUV
+6900,2006,pontiac solstice,like new,gas,106000,manual,x,convertible
+6900,2003,ford ranger edge 4x4,good,gas,230000,automatic,4wd,pickup
+6900,2003,ford ranger edge 4x4,good,gas,247500,automatic,4wd,pickup
+6900,2001,jeep cherokee sport,excellent,gas,144445,automatic,rwd,SUV
+6950,2011,volkswagen jetta,excellent,gas,116000,automatic,fwd,sedan
+6950,2008,honda civic exl,excellent,gas,135000,automatic,fwd,sedan
+6950,1998,ford f150 xlt,excellent,gas,206000,automatic,rwd,truck
+6977,2011,acura tsx w/tech,excellent,gas,167000,automatic,fwd,sedan
+6980,2013,nissan juke,x,gas,170273,automatic,x,wagon
+6980,2012,nissan maxima,x,gas,170461,automatic,fwd,sedan
+6980,2011,bmw 3 series,x,gas,147608,manual,rwd,sedan
+6980,2011,kia sorento,x,gas,182321,other,rwd,SUV
+6980,2010,nissan pathfinder,x,gas,186334,manual,rwd,SUV
+6980,2008,mercedes-benz c-class,x,gas,148095,automatic,rwd,sedan
+6980,2008,toyota avalon,x,gas,158888,automatic,fwd,sedan
+6980,2006,infiniti g35 sedan,x,gas,144632,automatic,x,sedan
+6980,2006,nissan pathfinder,x,gas,146779,automatic,rwd,SUV
+6988,2005,toyota 4runner,good,gas,236000,automatic,4wd,SUV
+6989,2009,chrysler town & country,x,gas,146391,automatic,fwd,van
+6992,2006,honda pilot,x,gas,187101,automatic,fwd,SUV
+6995,2012,honda odyssey,x,gas,236025,automatic,fwd,van
+6995,2011,volkswagen jetta sel,excellent,gas,172752,automatic,fwd,sedan
+6995,2007,toyota highlander,x,gas,251165,automatic,fwd,SUV
+6999,2012,honda civic,good,gas,120800,automatic,fwd,sedan
+7000,2013,ford fusion se,excellent,gas,150000,automatic,fwd,sedan
+7000,2011,ford escape,good,gas,126000,automatic,x,SUV
+7000,2004,jaguar xjr s,good,gas,135185,automatic,rwd,sedan
+7000,2001,ford f250 super duty,good,gas,199300,automatic,x,truck
+7000,1996,x 1996 s10 ss,good,gas,200000,automatic,rwd,pickup
+7000,1979,toyota corolla,good,gas,28342,manual,rwd,hatchback
+7000,1979,ford thunderbird,excellent,gas,99500,automatic,rwd,sedan
+7200,2013,nissan sentra,excellent,gas,117500,automatic,fwd,sedan
+7200,2010,honda accord ex,good,gas,178000,automatic,fwd,sedan
+7200,2007,toyota highlander,excellent,gas,155490,automatic,fwd,SUV
+7200,1993,pontiac firebird trans am,good,gas,111000,automatic,rwd,coupe
+7280,2014,nissan altima,x,gas,135412,automatic,fwd,sedan
+7300,2007,lexus rx350,good,gas,181000,automatic,fwd,SUV
+7400,2007,lexus rx350,good,gas,181000,automatic,fwd,SUV
+7420,2012,kia forte,x,gas,123245,automatic,fwd,sedan
+7442,2013,nissan altima,excellent,gas,86356,automatic,x,sedan
+7442,2007,chevrolet colorado,excellent,gas,150000,automatic,x,sedan
+7450,2004,toyota 4runner sr5,like new,gas,218000,automatic,rwd,SUV
+7477,2016,kia forte lx,excellent,gas,84000,automatic,fwd,sedan
+7480,2013,hyundai sonata,x,gas,117271,automatic,fwd,sedan
+7480,2012,chrysler 300,x,gas,187910,automatic,rwd,sedan
+7499,2011,honda accord,x,gas,167430,automatic,x,sedan
+7499,2011,hyundai elantra limited,excellent,gas,178000,automatic,fwd,sedan
+7500,2014,volkswagen passat se,good,gas,130000,automatic,fwd,sedan
+7500,2013,toyota prius,good,gas,123168,automatic,fwd,hatchback
+7500,2013,subaru legacy,good,gas,159001,automatic,4wd,sedan
+7500,2012,volkswagen cc,x,gas,110589,automatic,x,sedan
+7500,2012,chrysler town and country,good,gas,133000,automatic,fwd,van
+7500,2012,chevrolet silverado,excellent,gas,212000,automatic,rwd,truck
+7500,2011,kia soul,excellent,gas,51000,automatic,fwd,SUV
+7500,2008,chrysler aspen,like new,gas,191000,automatic,rwd,SUV
+7500,2007,gmc sierra,fair,gas,240000,automatic,4wd,pickup
+7500,2004,gmc sierra,good,gas,187265,automatic,rwd,pickup
+7500,2000,toyota 4runner,good,gas,212000,automatic,rwd,SUV
+7500,1969,x oldsmobile cutlass,x,gas,80000,automatic,x,convertible
+7500,1968,chevrolet caprice,good,gas,59176,automatic,rwd,sedan
+7788,2006,toyota sequoia,x,gas,227990,automatic,rwd,SUV
+7800,2006,chevrolet tahoe z71,good,gas,200000,automatic,rwd,SUV
+7800,1999,toyota tacoma,good,gas,242068,automatic,4wd,truck
+7850,2014,toyota corolla,good,gas,87321,automatic,fwd,sedan
+7895,2006,honda ridgeline,excellent,gas,220000,automatic,fwd,truck
+7900,2013,nissan pathfinder,good,gas,152400,automatic,fwd,SUV
+7900,2011,cadillac cts sedan,excellent,gas,99800,automatic,x,sedan
+7900,2009,nissan maxima,x,gas,148470,automatic,fwd,sedan
+7950,2015,chrysler 200 limited,good,gas,153140,automatic,fwd,sedan
+7950,2014,buick verano convenience group,excellent,gas,177554,automatic,fwd,sedan
+7950,2012,toyota prius v hatchback,good,hybrid,156553,automatic,fwd,hatchback
+7950,2010,honda odyssey,excellent,gas,138896,automatic,fwd,mini-van
+7950,2010,cadillac cts 4,good,gas,229707,automatic,4wd,sedan
+7950,2008,chevrolet impala lt,excellent,gas,84162,automatic,fwd,sedan
+7950,2008,ford f-150 xl,x,gas,147700,automatic,rwd,truck
+7950,2008,toyota highlander v-6,good,gas,201920,automatic,rwd,SUV
+7950,2007,chevrolet tahoe lt,good,gas,208000,automatic,rwd,SUV
+7950,2006,ford f-350 xl cab & chassis,good,gas,216486,manual,rwd,truck
+7980,2015,kia forte,x,gas,121682,automatic,fwd,sedan
+7980,2013,bmw x3,x,gas,156295,manual,rwd,SUV
+7980,2009,bmw x5,x,gas,123000,manual,rwd,SUV
+7980,2009,nissan maxima,x,gas,163837,automatic,fwd,sedan
+7980,2008,nissan titan,x,x,200850,automatic,rwd,pickup
+7990,2011,bmw 328i,excellent,gas,123000,automatic,rwd,sedan
+7991,2011,dodge caliber mainstreet,excellent,gas,93333,automatic,fwd,hatchback
+7995,2015,x smart fortwo pure,excellent,gas,22250,automatic,rwd,coupe
+7995,2011,nissan altima 2.5 s,excellent,gas,91763,automatic,fwd,sedan
+7998,2008,jeep commander,x,gas,153663,automatic,4wd,SUV
+7999,2013,volkswagen jetta,x,gas,101833,automatic,x,sedan
+7999,2010,honda accord ex-l coupe 2d,like new,gas,147909,automatic,fwd,coupe
+7999,2009,honda accord ex-l,excellent,gas,154000,automatic,x,sedan
+7999,2008,toyota camry xle,excellent,gas,108000,automatic,x,sedan
+7999,2008,bmw 5,excellent,gas,131000,automatic,x,sedan
+7999,2008,toyota sienna xle,excellent,gas,169000,automatic,x,mini-van
+7999,2007,toyota camry,x,gas,67650,automatic,fwd,sedan
+7999,2007,toyota 4runner sr5 premium,excellent,gas,202000,automatic,rwd,SUV
+8000,2013,kia soul,excellent,gas,89800,automatic,fwd,hatchback
+8000,2012,kia soul,excellent,gas,132423,automatic,fwd,hatchback
+8000,2011,jeep grand cherokee limited 4x4,good,gas,262542,automatic,4wd,SUV
+8000,2005,mercedes-benz benz clk 350,excellent,gas,119000,automatic,fwd,convertible
+8000,2002,lexus ls430,excellent,gas,119000,automatic,rwd,sedan
+8000,2002,ford f-150,good,gas,219000,automatic,4wd,truck
+8100,2011,ford escape,excellent,hybrid,140000,automatic,fwd,SUV
+8201,2007,toyota rav4,x,gas,169579,automatic,fwd,SUV
+8222,1962,dodge polara 500,good,gas,33000,automatic,rwd,sedan
+8299,2015,nissan altima 2.5 s,good,gas,41000,automatic,fwd,sedan
+8299,2012,kia optima ex,excellent,gas,141000,automatic,x,sedan
+8312,2014,ford focus,x,gas,93662,manual,fwd,sedan
+8342,2008,toyota highlander,x,gas,176397,automatic,fwd,SUV
+8450,2014,buick verano convenience group,excellent,gas,177554,automatic,fwd,sedan
+8450,2007,acura tl type-s,good,gas,185598,automatic,fwd,sedan
+8477,2015,nissan altima 2.5 s,excellent,gas,123000,automatic,x,sedan
+8477,2008,infiniti g37s coupe,excellent,gas,160000,manual,rwd,coupe
+8490,2011,honda civic,good,gas,155142,manual,fwd,sedan
+8495,2013,kia optima,good,gas,127000,automatic,rwd,sedan
+8495,2010,hyundai santa fe gls,excellent,gas,125082,automatic,fwd,SUV
+8499,2011,toyota corolla s sedan 4d,like new,gas,97318,automatic,fwd,sedan
+8499,2009,toyota highlander,excellent,gas,184000,automatic,x,SUV
+8500,2015,nissan altima 2.5 s,excellent,gas,100000,automatic,fwd,sedan
+8500,2014,dodge charger,excellent,gas,101000,automatic,rwd,sedan
+8500,2014,dodge grand caravan,good,gas,156000,automatic,fwd,mini-van
+8500,2012,dodge charger se,excellent,gas,151636,automatic,rwd,sedan
+8500,2011,toyota camry,excellent,gas,114500,automatic,fwd,sedan
+8500,2011,nissan quest s,like new,gas,121000,automatic,fwd,mini-van
+8500,2010,ford taurus,x,gas,159224,automatic,4wd,sedan
+8500,2010,ford expedition,excellent,gas,187000,automatic,rwd,SUV
+8500,2008,lexus es350,good,gas,155374,automatic,rwd,sedan
+8500,2008,jeep commander sport,good,gas,198000,automatic,rwd,SUV
+8500,2008,gmc sierra,excellent,gas,250000,automatic,rwd,pickup
+8500,2007,cadillac dts,x,gas,98394,automatic,fwd,sedan
+8500,2007,toyota tundra sr5 tss edition,good,gas,247000,automatic,rwd,pickup
+8500,2006,rover ,good,gas,139445,automatic,4wd,SUV
+8500,2005,dodge grand caravan,good,gas,118160,automatic,x,mini-van
+8500,2005,ford excursion limited,good,gas,217000,automatic,4wd,SUV
+8500,2004,bmw z4,excellent,gas,116014,automatic,rwd,other
+8500,1968,ford fairlane ranchero,excellent,gas,100000,automatic,fwd,other
+8598,2009,subaru forester,x,gas,125391,automatic,4wd,SUV
+8599,2014,honda civic lx,excellent,gas,106500,automatic,fwd,sedan
+8600,2010,ford escape,good,gas,40500,automatic,fwd,SUV
+8700,2014,ford focus se flex fuel,like new,gas,44000,automatic,fwd,sedan
+8700,1979,lincoln town car,excellent,gas,22964,automatic,rwd,sedan
+8700,1979,lincoln town car,excellent,gas,23000,automatic,rwd,sedan
+8750,2006,subaru outback,excellent,gas,92000,manual,4wd,SUV
+8799,2006,acura tsx,x,gas,89375,automatic,fwd,sedan
+8800,2012,hyundai sonata limited,excellent,gas,107534,automatic,x,sedan
+8800,2007,lexus es 350 sedan,like new,gas,153000,automatic,fwd,sedan
+8877,2015,nissan altima,x,gas,153034,automatic,fwd,sedan
+8888,2005,nissan altima 3.5 sl,excellent,gas,53320,automatic,fwd,sedan
+8890,2011,ford ranger,excellent,gas,181759,automatic,rwd,truck
+8897,2015,ford fusion,x,gas,179871,other,fwd,sedan
+8897,2014,kia sorento,x,gas,189392,other,fwd,SUV
+8900,2014,fiat 500l lounge,good,gas,84778,automatic,fwd,hatchback
+8900,2013,toyota prius,excellent,hybrid,142900,automatic,fwd,wagon
+8900,2011,toyota camry se,excellent,gas,164000,automatic,fwd,sedan
+8900,2010,honda accord lx,good,gas,134037,automatic,fwd,sedan
+8900,2009,toyota highlander suv,excellent,gas,186000,automatic,fwd,SUV
+8900,2003,ford f250 lariat,good,diesel,247000,automatic,rwd,truck
+8925,2013,toyota prius c,x,hybrid,107441,automatic,fwd,sedan
+8950,2015,volkswagen passat tsi wolfsburg,excellent,gas,100274,automatic,fwd,sedan
+8950,2015,mazda cx-5 sport,good,gas,170231,automatic,fwd,SUV
+8950,2014,nissan altima 2.5 4dr.,excellent,gas,121984,automatic,fwd,sedan
+8950,2014,toyota corolla,good,gas,131681,automatic,fwd,sedan
+8950,2013,volkswagen jetta gli,good,gas,123904,automatic,fwd,sedan
+8950,2013,chevrolet cruze lt,good,gas,128760,automatic,fwd,sedan
+8950,2011,ford f-150,excellent,gas,164000,automatic,fwd,truck
+8950,2011,honda odyssey ex-l,good,gas,164406,automatic,fwd,mini-van
+8950,2011,ford e-series cargo e350 super d,x,other,180502,automatic,rwd,van
+8950,2009,lexus is 250 awd nav,good,gas,134730,automatic,4wd,sedan
+8950,2009,infiniti g37 sedan,like new,gas,140589,automatic,fwd,sedan
+8950,2009,infiniti ex35,excellent,gas,159294,automatic,fwd,SUV
+8950,2008,infiniti ex35 journey,excellent,gas,159294,automatic,fwd,SUV
+8950,2005,audi tt1.8t convertible,like new,gas,70000,automatic,rwd,convertible
+8970,2008,audi a4,x,gas,97334,other,4wd,sedan
+8977,2006,toyota tundra,x,gas,229973,automatic,rwd,truck
+8980,2011,jeep grand cherokee,x,x,173787,manual,rwd,SUV
+8980,2010,dodge charger,x,gas,207260,automatic,rwd,sedan
+8988,2001,chevrolet silverado 1500,good,gas,189000,automatic,4wd,truck
+8989,2011,cadillac cts coupe,x,gas,125420,automatic,rwd,coupe
+8990,2013,x smart fortwo passion hatchback,good,gas,59072,automatic,rwd,coupe
+8990,2013,chevrolet equinox,good,gas,127100,automatic,fwd,wagon
+8990,2008,ford edge,x,gas,152772,automatic,4wd,sedan
+8990,2006,infiniti m35,good,gas,133130,automatic,fwd,sedan
+8995,2012,ford fusion sel,excellent,gas,90468,automatic,fwd,sedan
+8995,2012,volkswagen passat,good,gas,102191,automatic,rwd,sedan
+8995,2011,nissan murano sl,excellent,gas,113374,automatic,fwd,SUV
+8995,2010,nissan xterra,excellent,gas,107678,automatic,fwd,SUV
+8995,2009,dodge nitro slt,like new,gas,83000,automatic,fwd,SUV
+8995,2005,nissan altima 3.5 sl,excellent,gas,53320,automatic,fwd,sedan
+8995,2004,mercedes-benz c-class,excellent,gas,83276,automatic,4wd,wagon
+8999,2015,hyundai elantra,x,gas,93346,automatic,fwd,sedan
+8999,2014,nissan sentra sv sedan 4d,like new,gas,73262,automatic,fwd,sedan
+8999,2012,honda civic,x,gas,103787,automatic,fwd,coupe
+8999,2011,mercedes-benz benz c300,excellent,gas,103025,automatic,rwd,sedan
+8999,2009,mercedes-benz c-class,x,gas,107862,automatic,x,sedan
+9000,2015,volkswagen passat wolfsburg,excellent,gas,99000,automatic,fwd,sedan
+9000,2011,audi a5,good,gas,102380,automatic,4wd,coupe
+9000,2008,mazda miata mx-5,excellent,gas,56700,automatic,rwd,convertible
+9000,2006,mazda miata,excellent,gas,70000,manual,rwd,convertible
+9000,2004,chevrolet silverado 2500,good,gas,157000,automatic,rwd,truck
+9000,1976,alfa-romeo romeo spider,excellent,gas,88627,manual,rwd,convertible
+9000,1972,chevrolet c20,good,gas,121000,manual,rwd,truck
+9250,2007,gmc yukon slt,good,gas,181000,automatic,rwd,SUV
+9299,2007,toyota 4runner sr5,excellent,gas,157000,automatic,x,SUV
+9300,2010,chrysler town & country touring,good,gas,93809,automatic,fwd,mini-van
+9300,2009,honda accord,x,gas,161177,automatic,fwd,sedan
+9400,2008,mercedes-benz benz c350,good,gas,129473,automatic,rwd,sedan
+9495,2013,toyota camry,excellent,gas,152000,automatic,fwd,sedan
+9495,2008,toyota rav4,excellent,gas,144657,automatic,fwd,SUV
+9495,1968,chevrolet corvette coupe,fair,gas,80000,manual,rwd,coupe
+9499,2012,honda odyssey ex-l,excellent,gas,132000,automatic,x,mini-van
+9500,2015,volkswagen passat,x,gas,103630,automatic,fwd,sedan
+9500,2014,toyota prius v hybrid,good,gas,136128,automatic,fwd,hatchback
+9500,2014,ford transit connect,excellent,gas,219581,automatic,fwd,van
+9500,2013,hyundai sonata,excellent,gas,125000,automatic,fwd,sedan
+9500,2010,honda pilot ex,excellent,gas,166129,automatic,4wd,SUV
+9500,2003,chrysler town & country,excellent,gas,30376,automatic,fwd,mini-van
+9500,1985,chrysler 5th avenue,excellent,gas,35300,automatic,rwd,sedan
+9500,1968,pontiac firebird,x,gas,175000,automatic,x,convertible
+9600,2005,toyota tundra,good,gas,217000,automatic,rwd,pickup
+9634,2009,toyota camry,x,gas,98799,other,fwd,sedan
+9650,2012,toyota avalon limited,excellent,gas,157400,automatic,fwd,sedan
+9788,2009,acura mdx,x,gas,147547,automatic,4wd,SUV
+9800,2013,chevrolet equinox,excellent,gas,125000,automatic,4wd,SUV
+9800,2012,kia soul,good,gas,76117,automatic,fwd,wagon
+9800,2010,cadillac srx luxury,good,gas,132815,automatic,fwd,SUV
+9800,2008,mazda cx-9 touring,good,gas,138266,automatic,fwd,SUV
+9850,2015,nissan altima 2.5 s,excellent,gas,88500,automatic,fwd,sedan
+9860,2011,honda cr-v,x,gas,127858,automatic,4wd,SUV
+9900,2016,x scion ia,excellent,gas,21000,automatic,fwd,sedan
+9900,2012,mini cooper countryman s,excellent,gas,108301,automatic,fwd,hatchback
+9900,2011,bmw 128 i coupe,like new,gas,109000,automatic,fwd,coupe
+9900,2011,bmw 5 series 535i,good,gas,123789,automatic,rwd,sedan
+9900,2009,cadillac cts,x,gas,80748,automatic,rwd,sedan
+9930,2011,toyota sienna,x,gas,262907,automatic,fwd,mini-van
+9950,2014,nissan altima 2014,excellent,gas,121984,automatic,fwd,sedan
+9950,2014,ford flex se,excellent,gas,145635,automatic,fwd,mini-van
+9950,2013,volvo s-60 t5,good,gas,90562,automatic,fwd,sedan
+9950,2011,ford f-150 xl 4x4,good,gas,136341,automatic,4wd,pickup
+9950,2010,ford e250,excellent,gas,177000,automatic,rwd,van
+9950,2007,jaguar s-type r,excellent,gas,97687,automatic,rwd,sedan
+9980,2014,ford escape se,excellent,gas,124725,automatic,fwd,SUV
+9980,2013,infiniti jx35,x,gas,171226,automatic,fwd,SUV
+9988,2014,kia sorento lx,good,gas,121259,automatic,fwd,SUV
+9988,2004,chevrolet silverado 2500hd,good,diesel,400000,automatic,4wd,truck
+9989,2015,hyundai elantra,x,gas,122666,other,fwd,sedan
+9990,2015,toyota corolla le,excellent,gas,125224,automatic,fwd,sedan
+9990,2013,ford escape se 4wd,excellent,gas,111000,automatic,4wd,SUV
+9990,2009,bmw x5,excellent,gas,93659,automatic,4wd,SUV
+9990,2009,lexus rx350,excellent,gas,163230,automatic,fwd,SUV
+9990,1991,honda acty,good,gas,38700,other,4wd,truck
+9995,2016,nissan sentra,x,gas,96471,automatic,fwd,sedan
+9995,2014,nissan altima 2.5 sv,excellent,gas,111737,automatic,fwd,sedan
+9995,2011,nissan rogue sv,excellent,gas,92496,automatic,fwd,SUV
+9995,2011,toyota prius prius v,x,x,104087,other,fwd,hatchback
+9995,2010,honda odyssey,excellent,gas,160964,automatic,fwd,mini-van
+9995,1986,ford f-150 regular cab short bed,x,gas,46789,automatic,rwd,pickup
+9996,2014,ford fusion,x,gas,123347,automatic,fwd,sedan
+9997,2009,honda civic,x,gas,72253,automatic,fwd,sedan
+9998,2013,hyundai sonata,x,gas,98797,automatic,fwd,sedan
+10000,2015,chrysler 200,like new,gas,73381,automatic,fwd,sedan
+10000,2012,bmw 740li,excellent,gas,150700,automatic,x,sedan
+10000,1989,gmc sierra 1500,excellent,gas,155778,automatic,rwd,truck
+10000,1975,bmw 2002,good,gas,100000,manual,rwd,sedan
+10184,2009,toyota sienna,x,gas,125058,automatic,fwd,van
+10358,2012,honda accord ex-l sedan 4d,like new,gas,112988,automatic,fwd,sedan
+10373,2011,honda cr-v,x,gas,129641,automatic,fwd,SUV
+10392,2014,volkswagen jetta,x,diesel,106469,automatic,fwd,sedan
+10400,2011,toyota sienna xle,excellent,gas,159400,automatic,x,mini-van
+10400,2006,dodge dakota laramie quad cab,excellent,gas,89200,automatic,rwd,pickup
+10442,2013,acura ilx,excellent,gas,72785,automatic,x,sedan
+10495,2013,ford escape sel,excellent,gas,109004,automatic,fwd,SUV
+10500,2014,toyota camry se,x,gas,145000,automatic,x,sedan
+10500,2013,kia sorento,excellent,gas,96988,automatic,fwd,SUV
+10500,2013,bmw 3 series 328i,excellent,gas,131661,automatic,rwd,sedan
+10500,2012,honda accord,excellent,gas,95000,automatic,fwd,coupe
+10500,2011,lincoln mks,excellent,gas,162200,automatic,rwd,sedan
+10500,2010,acura mdx,excellent,gas,173000,automatic,4wd,SUV
+10500,2009,mercedes-benz c300 sport,excellent,gas,87000,automatic,x,sedan
+10500,2008,chevrolet tahoe ltz,x,gas,118524,automatic,x,SUV
+10500,2008,infiniti ex35,good,gas,122904,automatic,rwd,wagon
+10500,2007,ford f-150,excellent,gas,183000,automatic,4wd,truck
+10531,2012,buick enclave,x,gas,169108,automatic,fwd,SUV
+10750,2016,toyota corolla,x,gas,141781,automatic,fwd,sedan
+10750,2006,toyota tacoma,good,gas,223160,automatic,rwd,pickup
+10788,2014,chevrolet malibu,x,gas,103589,automatic,fwd,sedan
+10788,2014,toyota prius,x,hybrid,135339,automatic,fwd,hatchback
+10800,2013,toyota camry,excellent,hybrid,147000,automatic,fwd,sedan
+10880,2017,ford focus,excellent,gas,68004,automatic,fwd,sedan
+10888,2014,kia sorento lx,good,gas,121259,automatic,fwd,SUV
+10897,2010,ford f-150,x,gas,236479,other,rwd,truck
+10900,2015,jeep cherokee,x,gas,160328,automatic,fwd,SUV
+10900,2013,nissan juke,x,gas,92675,automatic,4wd,wagon
+10900,2012,mini cooper hardtop s,excellent,gas,92000,automatic,fwd,hatchback
+10900,2011,ford expedition,good,gas,158371,automatic,rwd,SUV
+10900,2010,honda accord crosstour exl,good,gas,97804,automatic,fwd,wagon
+10900,2009,nissan titan,good,gas,199912,automatic,rwd,truck
+10903,2013,nissan pathfinder,x,gas,147988,automatic,fwd,SUV
+10950,2009,lexus rx350,excellent,gas,191955,automatic,4wd,SUV
+10950,2007,mazda miata touring,x,gas,57323,automatic,rwd,convertible
+10950,2004,cadillac escalade,like new,gas,76046,automatic,4wd,SUV
+10950,2004,cadillac escalade,excellent,gas,76046,automatic,4wd,SUV
+10977,2011,audi q5,x,gas,110574,automatic,rwd,SUV
+10978,2014,chevrolet equinox,x,gas,110572,automatic,fwd,SUV
+10980,2012,ford mustang,x,gas,159559,manual,rwd,coupe
+10980,2012,ford f-150,x,x,178802,automatic,4wd,pickup
+10980,2007,gmc yukon xl denali,x,gas,181633,automatic,x,SUV
+10985,2016,ford fusion,x,gas,121229,automatic,fwd,sedan
+10989,2012,cadillac cts sedan,x,gas,119810,automatic,x,sedan
+10990,2013,nissan sentra s sedan 4d,good,gas,81557,other,fwd,sedan
+10990,2011,mercedes-benz ml350,excellent,gas,119172,automatic,4wd,SUV
+10990,2009,lexus es 350,good,gas,102078,automatic,fwd,sedan
+10991,2013,honda civic,x,gas,102534,automatic,fwd,sedan
+10995,2016,kia forte,x,gas,61500,automatic,fwd,sedan
+10995,2016,toyota corolla,excellent,gas,82631,automatic,fwd,sedan
+10995,2011,nissan frontier s,good,gas,139100,automatic,x,pickup
+10995,2008,lexus gs 350,x,gas,128854,automatic,4wd,sedan
+10998,2013,nissan murano,x,gas,143392,automatic,fwd,SUV
+10999,2013,volkswagen passat se,excellent,gas,68110,automatic,fwd,sedan
+11000,2015,toyota camry hybrid le,good,gas,108000,automatic,fwd,other
+11000,2014,chevrolet equinox lt,good,gas,143000,manual,x,SUV
+11000,2012,dodge challenger,excellent,gas,153000,automatic,fwd,coupe
+11000,2007,honda ridgeline,good,gas,125000,automatic,4wd,pickup
+11199,2011,toyota camry,x,gas,98605,other,fwd,sedan
+11200,2012,audi q5 2.0t premium plus,good,gas,106605,automatic,x,SUV
+11268,2014,toyota prius v,x,hybrid,143978,automatic,fwd,wagon
+11275,2013,volkswagen cc,x,gas,78436,automatic,fwd,sedan
+11295,2014,chevrolet sonic,x,gas,49019,automatic,fwd,hatchback
+11400,2013,kia sportage,x,gas,92986,other,4wd,SUV
+11400,2009,chevrolet colorado crew cab,x,gas,95490,automatic,x,pickup
+11480,2017,hyundai elantra,excellent,gas,65955,automatic,fwd,sedan
+11499,2010,mercedes-benz m-class,x,gas,94305,automatic,x,SUV
+11500,2015,volkswagen passat,excellent,gas,59271,automatic,x,sedan
+11500,2014,chevrolet equinox,good,gas,96650,automatic,fwd,SUV
+11500,2013,honda odyssey ex,good,gas,92000,automatic,x,van
+11500,2013,chevrolet express,excellent,gas,228699,automatic,rwd,van
+11500,2012,kia optima,excellent,gas,64000,automatic,fwd,sedan
+11500,2012,x mazdaspeed3,good,gas,79000,manual,fwd,hatchback
+11500,2012,nissan armada,like new,gas,150000,automatic,rwd,SUV
+11500,2011,bmw 328i,excellent,gas,126000,automatic,rwd,sedan
+11500,2008,ford f-250 super duty xl,good,diesel,283356,automatic,rwd,pickup
+11500,1953,chevrolet 210 club coupe,good,gas,1000,other,rwd,coupe
+11587,2013,ford escape,x,gas,215046,other,fwd,SUV
+11667,2016,toyota corolla,x,gas,90731,automatic,fwd,sedan
+11685,2016,toyota corolla,x,gas,106668,automatic,fwd,sedan
+11700,2007,chevrolet silverado classic,good,gas,155000,automatic,4wd,pickup
+11700,2000,ford f-350,good,diesel,274000,manual,rwd,truck
+11740,2014,ford flex,x,gas,144642,automatic,fwd,wagon
+11750,2011,chevrolet tahoe,good,gas,170000,automatic,rwd,SUV
+11769,2014,buick verano,x,gas,89401,automatic,fwd,sedan
+11850,2008,rover ,good,gas,111254,other,x,SUV
+11897,2014,ford explorer,x,gas,139281,other,fwd,SUV
+11897,2013,gmc terrain,x,gas,166458,other,fwd,SUV
+11950,2014,honda odyssey,excellent,gas,141834,automatic,fwd,van
+11950,2014,ford focus st,good,gas,150710,manual,fwd,hatchback
+11950,2013,bmw 328i nav sport pkg.,excellent,gas,85798,automatic,rwd,sedan
+11950,2012,lexus es350 nav,good,gas,134049,automatic,fwd,sedan
+11950,2012,chevrolet tahoe,like new,gas,210916,automatic,rwd,SUV
+11950,2011,ford edge sport,excellent,gas,154733,automatic,x,SUV
+11950,2010,ford f-150 xlt crew 4x4,good,gas,252140,automatic,4wd,truck
+11950,2009,chevrolet 1500 avalanche ltz 4x4,good,gas,179935,automatic,4wd,pickup
+11987,2012,lexus ct 200h f-sport,excellent,gas,117000,automatic,fwd,hatchback
+11988,2016,kia soul,x,gas,78642,automatic,fwd,wagon
+11989,2008,bmw z4,x,gas,90935,automatic,rwd,convertible
+11990,2011,audi a3 tdi premium plus,like new,diesel,70000,automatic,fwd,sedan
+11990,2011,honda crv ex-l,excellent,gas,109000,automatic,fwd,SUV
+11995,2012,honda cr-v ex,excellent,gas,126810,automatic,fwd,SUV
+11998,2012,ford mustang,x,gas,88880,automatic,rwd,convertible
+11999,2013,audi a4 2.0t premium plus,like new,gas,96000,automatic,x,sedan
+12000,2011,chevrolet tahoe,good,gas,200000,automatic,x,SUV
+12000,1998,ford f800,good,diesel,169901,automatic,rwd,truck
+12000,1955,chrysler windsor deluxe,excellent,gas,85000,automatic,rwd,coupe
+12300,2013,chevrolet silverado,excellent,gas,133832,automatic,fwd,pickup
+12400,2011,mercedes-benz glk-class glk350,excellent,gas,144000,automatic,x,SUV
+12423,2011,lexus ct 200h,x,hybrid,79519,automatic,fwd,sedan
+12450,2013,kia optima sx turbo,like new,gas,95730,automatic,fwd,sedan
+12450,2012,honda cr-v ex-l,excellent,gas,119549,automatic,fwd,SUV
+12477,2016,honda hrv,excellent,gas,74000,automatic,fwd,SUV
+12478,2014,honda cr-v,x,gas,124592,automatic,fwd,SUV
+12488,2016,chevrolet malibu limited,x,gas,95307,automatic,fwd,sedan
+12495,2015,jeep compass,x,gas,60145,automatic,fwd,SUV
+12499,2012,toyota camry,x,gas,64950,automatic,fwd,sedan
+12500,2017,toyota corolla,good,gas,33591,automatic,fwd,sedan
+12500,2015,kia soul,excellent,gas,51752,automatic,fwd,hatchback
+12500,2014,toyota prius v five,excellent,hybrid,94000,automatic,fwd,wagon
+12500,2011,gmc yukon denali,excellent,gas,185000,automatic,x,SUV
+12500,2009,chevrolet tahoe,x,other,189188,automatic,x,SUV
+12500,2008,ford ranger xlt,excellent,gas,141345,automatic,rwd,truck
+12500,2008,gmc yukon xl,excellent,gas,177326,automatic,rwd,SUV
+12500,2003,jeep wrangler,good,gas,107860,manual,4wd,SUV
+12500,2002,x 2002   corvette convertible,good,gas,87000,automatic,rwd,convertible
+12500,1999,toyota 4runner,excellent,gas,172000,automatic,rwd,SUV
+12551,2015,nissan altima,x,gas,71048,automatic,fwd,sedan
+12590,2015,volvo xc90 r-design,excellent,gas,99391,automatic,4wd,SUV
+12590,2013,x scion xd hatchback 4d,good,gas,91825,other,fwd,hatchback
+12590,2012,x scion xd hatchback 4d,good,gas,60589,other,fwd,hatchback
+12595,2016,chrysler 200,x,gas,54241,automatic,fwd,sedan
+12700,2015,hyundai sonata,like new,gas,79439,other,fwd,coupe
+12716,2014,ford escape,x,gas,87767,automatic,fwd,SUV
+12777,2013,honda accord,like new,gas,92414,automatic,fwd,sedan
+12788,2013,ford transit connect,x,gas,76980,automatic,fwd,van
+12788,2010,lexus gs 350,like new,gas,139260,automatic,rwd,sedan
+12788,2009,ford f-150,x,gas,202458,automatic,rwd,pickup
+12870,2017,kia forte,x,gas,76751,automatic,fwd,sedan
+12875,2002,toyota tacoma,x,gas,176966,automatic,rwd,truck
+12882,2013,toyota tacoma,excellent,gas,175951,manual,x,pickup
+12882,2010,chevrolet silverado 1500,excellent,gas,189509,automatic,x,sedan
+12895,1991,chevrolet corvette,x,gas,43725,automatic,rwd,hatchback
+12897,2016,kia forte 5-door,x,gas,71985,other,fwd,sedan
+12897,2016,buick encore,x,gas,83501,other,fwd,SUV
+12900,2015,volkswagen passat,excellent,diesel,74400,automatic,fwd,sedan
+12900,2014,nissan rogue sv,good,gas,120211,automatic,fwd,SUV
+12900,2013,nissan frontier s king cab,good,gas,47751,manual,rwd,pickup
+12900,2013,ford f-150,good,gas,216000,automatic,4wd,truck
+12900,2011,lincoln mkx,like new,gas,77101,automatic,fwd,SUV
+12900,2010,chevrolet silverado 1500 crew cab,x,other,190088,automatic,x,pickup
+12900,1999,jeep wrangler,good,gas,178587,manual,4wd,SUV
+12950,2014,ford taurus limited,excellent,gas,91309,automatic,fwd,sedan
+12950,2011,honda crv ex,excellent,gas,87994,automatic,fwd,SUV
+12950,2011,mercedes-benz benz ml 350 4-matic,excellent,gas,108527,automatic,4wd,SUV
+12950,2007,mazda mx-5 miata touring,excellent,gas,90610,automatic,rwd,convertible
+12950,2005,bmw z4,excellent,gas,69586,automatic,rwd,convertible
+12967,2013,gmc terrain,x,gas,82820,automatic,fwd,SUV
+12977,2014,toyota corolla,x,gas,50756,automatic,fwd,sedan
+12977,2011,cadillac dts,x,gas,42826,automatic,fwd,sedan
+12978,2014,nissan murano,x,gas,100578,automatic,4wd,SUV
+12980,2016,jeep patriot,x,gas,72719,automatic,4wd,SUV
+12989,2013,cadillac cts sedan,x,x,73857,automatic,rwd,sedan
+12990,2014,x scion xd hatchback 4d,good,other,81350,other,fwd,hatchback
+12990,2013,volvo s60 t5 sedan 4d,good,gas,86614,other,fwd,sedan
+12990,2008,ford f-150,good,gas,150075,automatic,rwd,truck
+12991,2010,honda cr-v,x,gas,79135,automatic,fwd,SUV
+12995,2013,toyota camry se,excellent,gas,68436,automatic,fwd,sedan
+12999,2014,dodge charger,good,gas,137000,automatic,rwd,sedan
+13015,2016,chevrolet equinox,x,gas,74429,automatic,fwd,SUV
+13129,2014,ford escape,x,gas,65612,automatic,fwd,SUV
+13186,2017,kia forte,x,gas,40236,automatic,fwd,sedan
+13298,2019,nissan versa sedan,x,gas,61917,automatic,fwd,sedan
+13353,2014,lexus ct 200h,x,hybrid,126186,automatic,fwd,sedan
+13400,2012,nissan murano sl,x,gas,90255,automatic,x,SUV
+13419,2012,audi q5,x,gas,154728,automatic,4wd,SUV
+13450,2006,dodge magnum srt8,excellent,gas,134341,automatic,x,wagon
+13454,2012,honda cr-v,excellent,gas,27326,automatic,fwd,SUV
+13495,2015,buick encore convenience,excellent,gas,69430,automatic,fwd,SUV
+13495,2014,chevrolet malibu,x,gas,100022,automatic,fwd,sedan
+13500,2016,audi a3 premium,excellent,gas,98000,automatic,x,sedan
+13500,2015,gmc acadia slt,good,gas,111073,automatic,x,SUV
+13500,2013,infiniti jx35,excellent,gas,108829,automatic,fwd,SUV
+13500,2012,honda odyssey,excellent,gas,138258,automatic,fwd,van
+13500,2011,lexus rx 450h,good,hybrid,112000,automatic,4wd,SUV
+13500,2004,jeep wrangler tj rubicon,good,gas,199000,manual,4wd,offroad
+13500,2000,chevrolet corvette,like new,gas,92000,manual,x,hatchback
+13500,2000,jeep wrangler sport,good,gas,149980,automatic,4wd,SUV
+13500,1999,x international 4700,excellent,diesel,79000,manual,rwd,truck
+13551,2014,bmw 3 series,x,gas,94133,automatic,rwd,sedan
+13555,2018,chevrolet equinox,x,gas,94360,automatic,4wd,SUV
+13590,2014,kia soul + wagon 4d,good,gas,80164,other,fwd,wagon
+13590,2010,kia soul ! wagon 4d,good,other,94587,other,x,wagon
+13630,2011,lexus rx 450h,x,hybrid,151146,automatic,4wd,SUV
+13677,2014,honda accord,like new,gas,105393,automatic,fwd,SUV
+13740,2014,ford flex,x,gas,110137,automatic,fwd,wagon
+13763,2013,nissan maxima s sedan 4d,like new,gas,36959,automatic,fwd,sedan
+13788,2017,hyundai elantra,x,gas,94901,automatic,fwd,sedan
+13788,2014,ford mustang,x,gas,87179,automatic,rwd,coupe
+13890,2013,ford e150 cargo van,excellent,gas,179592,automatic,rwd,truck
+13900,2019,buick encore,excellent,gas,26000,automatic,fwd,SUV
+13900,2016,dodge grand caravan,good,gas,99950,automatic,x,mini-van
+13900,2014,nissan altima 2.5 s,excellent,gas,34761,automatic,fwd,sedan
+13900,2013,honda cr-v lx,good,gas,86933,automatic,fwd,SUV
+13945,2013,acura tsx sedan 4d,like new,gas,57189,automatic,fwd,sedan
+13950,2013,chevrolet suburban ltz,good,gas,212134,automatic,rwd,SUV
+13950,2011,mazda mx-5 miata grand touring,excellent,gas,138235,automatic,rwd,convertible
+13950,2011,toyota tacoma,good,gas,151060,automatic,rwd,truck
+13950,2008,mazda miata,excellent,gas,86650,manual,rwd,convertible
+13950,2008,chevrolet silverado 2500hd,fair,diesel,332488,automatic,4wd,pickup
+13950,2006,lexus gx470,good,gas,178790,automatic,4wd,SUV
+13951,2010,ram pickup 1500,x,gas,100673,automatic,rwd,pickup
+13958,2015,toyota prius,x,hybrid,102524,automatic,fwd,sedan
+13966,2014,bmw x1 sdrive28i,x,gas,97107,automatic,rwd,SUV
+13977,2016,chevrolet impala,x,gas,121792,automatic,fwd,sedan
+13988,2013,toyota sienna,x,gas,170406,automatic,fwd,van
+13990,2014,lincoln mkz,good,gas,91537,automatic,fwd,sedan
+13995,2014,lincoln mkz,excellent,gas,40994,automatic,fwd,sedan
+13998,2012,honda cr-v,x,gas,96602,automatic,4wd,SUV
+13999,2018,kia soul,x,gas,46848,automatic,fwd,wagon
+13999,2017,nissan rogue,x,gas,36574,automatic,fwd,wagon
+14000,2012,honda odyssey,excellent,gas,95000,automatic,fwd,mini-van
+14000,2008,ford f250 super duty lariat,good,diesel,217000,automatic,4wd,truck
+14000,1991,dodge ,excellent,gas,67000,manual,4wd,coupe
+14141,2017,ram promaster city cargo van,like new,gas,102386,automatic,fwd,van
+14152,2015,toyota sienna,x,gas,105429,automatic,fwd,van
+14200,2016,gmc terrain slt 2wd,excellent,gas,135000,automatic,fwd,SUV
+14299,2015,chevrolet traverse,x,gas,96000,automatic,fwd,SUV
+14395,2016,kia soul,x,gas,32819,automatic,fwd,wagon
+14400,2017,jeep cherokee latitude 2wd,excellent,gas,105000,automatic,fwd,SUV
+14447,2015,ford explorer,x,gas,149785,automatic,fwd,SUV
+14459,2014,nissan rogue,x,gas,91021,automatic,fwd,wagon
+14475,2011,ford ranger,excellent,gas,142842,manual,4wd,pickup
+14499,2016,nissan murano,x,gas,124543,other,4wd,wagon
+14500,2015,honda crosstour ex-l,excellent,gas,60201,automatic,x,hatchback
+14500,2013,lexus gs 350,good,gas,110850,automatic,rwd,sedan
+14500,2009,chevrolet silverado 1500 extended cab,x,other,146875,automatic,4wd,pickup
+14590,2016,ford transit connect xlt,like new,gas,125929,automatic,fwd,van
+14590,2012,bmw 1 series 128i coupe 2d,good,other,80465,other,x,coupe
+14655,2015,toyota camry,x,gas,133131,automatic,fwd,sedan
+14691,2013,honda cr-v,x,gas,77228,automatic,4wd,SUV
+14700,2015,honda cr-v ex-l,excellent,gas,70672,automatic,4wd,SUV
+14700,2010,chevrolet silverado 1500,x,other,200392,automatic,4wd,other
+14747,2012,toyota highlander,x,gas,200342,automatic,fwd,SUV
+14789,2018,chevrolet cruze,x,gas,34983,automatic,fwd,hatchback
+14800,2014,honda odyssey ex-l,excellent,gas,115000,automatic,fwd,mini-van
+14810,2016,ford edge,x,gas,88055,automatic,fwd,SUV
+14818,2017,kia sorento,x,gas,99007,automatic,fwd,SUV
+14875,2013,cadillac ats,x,gas,58506,automatic,rwd,sedan
+14882,2018,nissan maxima,excellent,gas,20890,automatic,x,sedan
+14888,2007,jeep wrangler unlimited sahara,good,gas,163169,automatic,4wd,SUV
+14888,2005,toyota tacoma,excellent,gas,147040,automatic,rwd,truck
+14890,2015,ram promaster city,like new,gas,70350,automatic,fwd,van
+14890,2015,chevrolet express 2500 cargo van,excellent,gas,167675,automatic,rwd,van
+14890,2012,chevrolet silverado 1500 ls,excellent,gas,146979,automatic,rwd,truck
+14895,2015,audi a3,x,gas,92822,automatic,x,sedan
+14897,2012,jeep grand cherokee,x,gas,112510,other,rwd,SUV
+14900,2018,hyundai sonata,like new,gas,37900,automatic,fwd,sedan
+14900,2015,subaru xv crosstrek,good,gas,97061,automatic,4wd,SUV
+14900,2015,honda cr-v,x,gas,110027,automatic,fwd,SUV
+14900,2012,jeep wrangler,excellent,gas,180000,manual,4wd,SUV
+14900,2007,toyota tacoma double cab sr5,excellent,gas,163211,automatic,rwd,truck
+14900,1999,jeep wrangler,good,gas,140212,manual,4wd,SUV
+14900,1972,mercedes-benz 350sl,excellent,gas,282000,automatic,rwd,convertible
+14950,2016,toyota sienna le,excellent,gas,118000,automatic,fwd,van
+14975,2014,chrysler 300 sedan 4d,like new,gas,61825,automatic,fwd,sedan
+14978,2014,ford explorer,x,gas,166859,automatic,fwd,SUV
+14980,2016,nissan nv1500 cargo van,excellent,gas,185193,automatic,rwd,van
+14988,2013,toyota avalon,x,gas,76634,automatic,fwd,sedan
+14989,2014,chevrolet express cargo van,x,gas,204477,automatic,rwd,van
+14989,2012,audi q7,x,diesel,164360,automatic,x,SUV
+14990,2019,kia soul wagon 4d,good,gas,7007,other,fwd,wagon
+14990,2017,dodge journey,good,gas,96577,automatic,fwd,SUV
+14990,2016,kia soul + wagon 4d,good,gas,43223,other,fwd,wagon
+14990,2016,x scion im hatchback 4d,good,gas,65203,other,fwd,hatchback
+14990,2012,ford econoline,good,gas,67820,automatic,rwd,truck
+14993,2013,honda cr-v,x,gas,118829,automatic,fwd,SUV
+14995,2016,hyundai sonata,x,gas,71733,automatic,fwd,sedan
+14995,2014,jeep grand cherokee limited,excellent,gas,126200,automatic,rwd,van
+14995,2007,jeep wrangler unlimited sahara,good,gas,163169,automatic,4wd,SUV
+15000,2017,dodge charger rt 4dr sedan,excellent,gas,90000,automatic,rwd,sedan
+15000,2016,audi a3,excellent,gas,85000,automatic,x,sedan
+15000,2015,dodge charger,like new,gas,93000,automatic,rwd,sedan
+15000,2013,acura tl,excellent,gas,64450,automatic,fwd,sedan
+15000,2013,chevrolet silverado,excellent,gas,75000,automatic,rwd,truck
+15000,2013,acura tl,excellent,gas,80000,manual,x,sedan
+15000,2013,ford f-150 xlt,excellent,gas,128000,automatic,rwd,truck
+15000,2012,toyota rav-4,excellent,gas,74000,automatic,fwd,wagon
+15000,2009,toyota tacoma 4x4,good,gas,213800,automatic,4wd,truck
+15000,2004,ford thunderbird,excellent,gas,131000,automatic,x,convertible
+15000,2003,volvo vnl 780,good,diesel,1000000,manual,x,truck
+15000,1997,chevrolet 1500,good,gas,269000,automatic,x,truck
+15000,1966,chevrolet c10 truck,like new,gas,77000,manual,rwd,truck
+15065,2016,jeep cherokee,x,gas,92714,automatic,fwd,SUV
+15116,2007,chevrolet avalanche,x,gas,138619,automatic,4wd,truck
+15156,2016,nissan rogue,x,gas,78000,automatic,fwd,SUV
+15299,2017,toyota camry se,excellent,gas,60000,automatic,fwd,sedan
+15493,2010,ford mustang,x,gas,136145,other,rwd,convertible
+15499,2016,jeep cherokee,x,gas,94983,automatic,4wd,SUV
+15500,2017,x 2017 impala,like new,gas,21000,automatic,fwd,sedan
+15500,2010,ford f-150 platinum,good,gas,141000,manual,rwd,truck
+15500,1973,chevrolet elcamino,excellent,gas,46000,automatic,rwd,coupe
+15578,2011,ford f-150,x,gas,177689,automatic,rwd,pickup
+15590,2016,chevrolet cruze limited 1lt,good,gas,7076,automatic,fwd,sedan
+15590,2016,kia soul wagon 4d,good,gas,23972,other,fwd,wagon
+15590,2016,x scion im hatchback 4d,good,gas,32573,other,fwd,hatchback
+15590,2016,x scion im hatchback 4d,good,other,41036,other,x,hatchback
+15590,2016,x scion im hatchback 4d,good,other,64923,other,fwd,hatchback
+15590,2015,mitsubishi outlander sport es,good,gas,30811,automatic,x,hatchback
+15590,2014,kia soul wagon 4d,good,gas,11657,other,fwd,wagon
+15590,2014,acura ilx 2.0l sedan 4d,good,gas,100391,automatic,fwd,sedan
+15590,2013,acura ilx 2.0l sedan 4d,good,other,69626,other,fwd,sedan
+15590,2012,mitsubishi outlander se sport,good,gas,55110,automatic,4wd,SUV
+15590,2012,acura tsx sedan 4d,good,other,71123,other,fwd,sedan
+15599,2015,toyota avalon,x,gas,80551,automatic,fwd,sedan
+15619,2015,x scion fr-s,x,gas,93539,manual,rwd,coupe
+15685,2014,subaru legacy,x,gas,76653,automatic,4wd,sedan
+15795,2019,toyota yaris,x,gas,29919,automatic,fwd,sedan
+15845,2014,toyota tacoma,x,gas,56205,manual,rwd,truck
+15882,2017,ram 1500,excellent,gas,138000,automatic,x,pickup
+15890,2016,chevrolet express,excellent,gas,152745,automatic,rwd,van
+15890,2015,gmc savana g2500,like new,gas,181006,automatic,rwd,van
+15897,2018,chevrolet malibu,x,gas,50153,other,fwd,sedan
+15897,2018,chevrolet malibu,x,gas,65950,other,fwd,sedan
+15897,2017,hyundai veloster,x,gas,30844,other,fwd,coupe
+15897,2016,ford transit connect wagon,x,gas,71097,other,fwd,van
+15900,2017,nissan frontier sv,good,gas,28650,automatic,rwd,truck
+15900,2013,lexus es 350,excellent,gas,81000,automatic,fwd,sedan
+15900,2013,toyota highlander,like new,gas,120000,automatic,fwd,SUV
+15900,2011,mercedes-benz benz glk 350,excellent,gas,63000,automatic,rwd,SUV
+15900,2011,jeep wrangler,excellent,gas,165000,automatic,4wd,SUV
+15950,2016,x volkwagen gti,like new,gas,65809,manual,fwd,hatchback
+15950,2013,ford f-150 xlt 4x2 4dr supercrew,excellent,gas,159796,automatic,rwd,truck
+15950,2011,toyota 4runner sr5,x,gas,195416,automatic,rwd,SUV
+15976,2016,volkswagen jetta,x,gas,48619,automatic,fwd,sedan
+15978,2017,chevrolet equinox,x,gas,59889,automatic,fwd,SUV
+15981,2018,ford focus,x,gas,11151,automatic,fwd,sedan
+15988,2013,toyota highlander,excellent,gas,138733,automatic,fwd,SUV
+15989,2011,cadillac escalade,x,gas,143811,automatic,x,SUV
+15990,2018,ford focus se hatchback 4d,good,other,14178,other,x,hatchback
+15990,2017,ford c-max hybrid se wagon 4d,good,hybrid,48195,other,fwd,wagon
+15990,2017,hyundai sonata sport sedan 4d,good,gas,55105,other,fwd,sedan
+15990,2016,x scion im hatchback 4d,good,gas,29652,other,fwd,hatchback
+15990,2016,x scion im hatchback 4d,good,gas,40668,other,fwd,hatchback
+15990,2016,chevrolet cruze limited ltz,good,gas,46252,other,fwd,sedan
+15990,2015,chevrolet camaro,x,gas,53000,automatic,rwd,other
+15990,2015,toyota camry le sedan 4d,good,hybrid,56696,other,fwd,sedan
+15990,2014,volvo s60 t5 premier plus sedan,good,gas,46169,other,fwd,sedan
+15990,2013,ford explorer,excellent,gas,87000,automatic,4wd,SUV
+15995,2017,nissan rogue,x,gas,39455,automatic,fwd,wagon
+15995,2015,chevrolet camaro,x,gas,109629,automatic,rwd,coupe
+15995,1994,chevrolet corvette,like new,gas,34160,automatic,rwd,convertible
+15995,1992,chevrolet corvette coupe,like new,gas,36350,automatic,rwd,coupe
+15997,2007,lexus ls 460,x,gas,126495,automatic,rwd,sedan
+15998,2010,toyota 4runner,x,gas,167847,automatic,rwd,SUV
+15999,2018,toyota prius,x,hybrid,104494,automatic,fwd,hatchback
+16000,2018,nissan rogue awd 4dr sv,excellent,gas,53111,automatic,4wd,SUV
+16000,2016,dodge charger,like new,gas,62000,automatic,rwd,sedan
+16300,2007,toyota tacoma,x,gas,162572,automatic,rwd,truck
+16306,2017,mazda mazda3 4-door,x,gas,101982,automatic,fwd,sedan
+16340,2007,toyota fj cruiser,x,gas,260428,automatic,4wd,SUV
+16350,2013,ford econoline cargo,good,gas,83000,automatic,rwd,van
+16407,2013,chevrolet silverado 1500,x,gas,79605,automatic,rwd,truck
+16481,2017,jeep cherokee,x,gas,81914,automatic,fwd,SUV
+16489,2015,buick enclave,x,gas,107711,automatic,fwd,SUV
+16495,2008,ford f-150 supercrew limited,excellent,gas,154069,automatic,4wd,truck
+16499,2019,nissan rogue,x,gas,84232,automatic,fwd,SUV
+16499,2016,honda accord,x,gas,83123,automatic,fwd,sedan
+16500,2018,ford fusion,x,gas,58059,other,fwd,sedan
+16500,2013,ford escape sel,excellent,gas,51500,automatic,fwd,SUV
+16500,2011,ford f250 super duty,excellent,gas,201766,automatic,4wd,truck
+16560,2014,gmc acadia,x,gas,103252,automatic,4wd,SUV
+16589,2018,ford fusion,excellent,gas,84867,automatic,fwd,sedan
+16590,2018,ford c-max hybrid se wagon 4d,good,hybrid,42749,other,fwd,wagon
+16590,2016,jeep renegade sport suv 4d,good,gas,35835,other,4wd,other
+16590,2016,hyundai sonata eco sedan 4d,good,gas,39763,other,fwd,sedan
+16590,2015,hyundai sonata sport sedan 4d,good,gas,26655,other,fwd,sedan
+16590,2015,volkswagen beetle 1.8t fleet,good,gas,39649,other,fwd,hatchback
+16590,2014,volkswagen jetta sportwagen 2.0l,good,gas,40364,automatic,fwd,wagon
+16590,2013,lincoln mkz sedan 4d,good,gas,61087,other,fwd,sedan
+16600,2014,acura rdx technology,good,gas,100784,automatic,fwd,SUV
+16700,2013,ford f-150,x,gas,180917,other,4wd,truck
+16700,2010,chevrolet tahoe,excellent,gas,184222,automatic,rwd,SUV
+16788,2018,toyota corolla,x,gas,68374,automatic,fwd,sedan
+16788,2016,dodge journey,x,gas,67613,automatic,fwd,SUV
+16854,2012,nissan frontier,x,gas,95922,automatic,4wd,truck
+16868,2017,kia sedona,x,gas,88062,automatic,fwd,van
+16888,2008,toyota fj cruiser 4x4,good,gas,188096,automatic,4wd,SUV
+16897,2018,chevrolet malibu,x,gas,56280,other,fwd,sedan
+16897,2018,hyundai elantra,x,gas,71224,other,fwd,sedan
+16897,2015,buick enclave,x,gas,122128,other,fwd,SUV
+16899,2019,volkswagen jetta,x,gas,20944,automatic,x,sedan
+16900,2017,chrysler pacifica l,good,gas,88987,automatic,fwd,mini-van
+16900,2015,chevrolet traverse l t,excellent,gas,71363,automatic,rwd,SUV
+16900,2015,nissan pathfinder sv,like new,gas,78808,automatic,fwd,SUV
+16900,2015,kia optima,good,gas,82999,automatic,fwd,sedan
+16900,2015,ram 1500 slt,good,gas,97563,automatic,rwd,pickup
+16900,2014,ford transit connect,excellent,gas,35173,automatic,fwd,van
+16935,2018,kia sportage,x,gas,65096,automatic,4wd,SUV
+16950,2007,toyota tacoma double cab,good,gas,156792,automatic,rwd,truck
+16977,2015,honda cr-v,x,gas,134543,automatic,fwd,SUV
+16989,2014,gmc acadia,x,gas,82459,automatic,fwd,SUV
+16989,2012,rover lr4,x,gas,121609,automatic,x,SUV
+16989,2002,ford super duty f-450 drw cab-chassis,x,gas,228546,automatic,4wd,pickup
+16990,2019,toyota corolla,x,gas,44752,automatic,fwd,sedan
+16990,2018,chevrolet trax ls sport utility,good,gas,25697,other,fwd,hatchback
+16990,2018,hyundai sonata se sedan 4d,good,other,30948,other,x,sedan
+16990,2018,hyundai sonata se sedan 4d,good,gas,31871,other,fwd,sedan
+16990,2016,kia forte koup ex coupe 2d,good,gas,17631,other,fwd,coupe
+16990,2015,honda accord sedan,x,gas,82023,automatic,fwd,sedan
+16990,2014,acura ilx 2.0l sedan 4d,good,other,44473,other,x,sedan
+16990,2013,acura ilx 2.0l sedan 4d,good,gas,59536,other,fwd,sedan
+16990,2011,gmc sierra 1500 regular cab work,good,gas,39219,other,x,pickup
+16990,2011,bmw x5 xdrive35i premium sport,good,gas,71204,automatic,x,SUV
+16990,2010,cadillac escalade 4wd,excellent,gas,155000,automatic,4wd,SUV
+16995,2018,hyundai elantra,good,gas,53427,automatic,rwd,sedan
+16995,2014,chrysler 300,x,gas,53584,automatic,4wd,sedan
+16995,2011,rover lr4 hse,excellent,gas,100929,automatic,4wd,SUV
+16997,2003,x hummer h2,excellent,gas,161865,automatic,4wd,SUV
+16998,2017,ford expedition el,x,gas,173042,automatic,4wd,SUV
+16998,2013,toyota sienna,x,gas,76688,automatic,fwd,wagon
+16999,2017,infiniti q50 premium,excellent,gas,27000,automatic,rwd,sedan
+17000,2019,chevrolet trax,good,gas,14898,automatic,4wd,SUV
+17000,2019,chevrolet impala lt,good,gas,39000,automatic,fwd,sedan
+17000,2003,chevrolet silverado 2500hd,x,diesel,233000,automatic,4wd,truck
+17200,2014,ford transit connect,excellent,gas,45026,automatic,fwd,van
+17240,2014,chevrolet express passenger,x,gas,69634,automatic,rwd,van
+17278,2016,ford f-150,x,gas,96809,automatic,rwd,pickup
+17345,2016,mazda cx-5,x,gas,29883,automatic,fwd,SUV
+17450,2014,nissan 370z,excellent,gas,146711,automatic,x,coupe
+17473,2015,ford explorer,x,gas,99902,automatic,fwd,SUV
+17490,2017,kia sportage,x,gas,48011,automatic,fwd,SUV
+17500,2015,toyota camry,x,gas,13690,automatic,fwd,sedan
+17500,2015,ford edge,x,gas,103223,automatic,x,SUV
+17500,2010,jeep wrangler unlimited,good,gas,176000,automatic,4wd,other
+17500,2008,toyota fj cruiser,good,gas,201300,manual,4wd,offroad
+17500,2001,ram 3500,good,diesel,178000,manual,4wd,truck
+17590,2017,toyota camry le sedan 4d,good,other,41606,other,fwd,sedan
+17590,2016,hyundai sonata se sedan 4d,good,gas,9570,other,fwd,sedan
+17590,2015,kia soul ! wagon 4d,good,gas,25491,other,fwd,wagon
+17590,2015,volvo s60 t5 premier sedan 4d,good,gas,63512,automatic,x,sedan
+17664,2018,honda civic,x,gas,39984,automatic,fwd,sedan
+17679,2007,toyota fj cruiser,x,gas,173202,automatic,4wd,SUV
+17695,2017,ford fusion,excellent,hybrid,33896,automatic,fwd,sedan
+17788,2013,chevrolet silverado 2500hd,x,gas,208814,automatic,rwd,pickup
+17850,1992,chevrolet corvette,like new,gas,16003,manual,rwd,coupe
+17875,1995,chevrolet corvette,x,gas,85970,automatic,x,convertible
+17897,2016,honda civic,x,gas,63269,other,fwd,sedan
+17897,2015,lincoln mkz,x,gas,91067,other,fwd,sedan
+17900,2014,gmc sierra 1500 4x4,good,gas,200000,automatic,4wd,truck
+17900,2013,ram 1500,good,gas,153943,automatic,4wd,truck
+17900,2012,ford f-150,x,other,159936,automatic,4wd,pickup
+17900,2011,chevrolet camaro ss,good,gas,133847,manual,rwd,coupe
+17900,2005,jeep wrangler,excellent,gas,117716,manual,4wd,SUV
+17900,2004,jeep wrangler,excellent,gas,113661,automatic,fwd,SUV
+17940,2015,chevrolet camaro,x,gas,38787,automatic,rwd,coupe
+17978,2012,ford f-150,x,gas,174196,automatic,4wd,pickup
+17990,2020,mitsubishi outlander sport es,good,other,16631,other,x,hatchback
+17990,2018,toyota corolla le sedan 4d,good,other,14277,other,fwd,sedan
+17990,2018,chevrolet cruze lt diesel,good,gas,41076,other,fwd,hatchback
+17990,2018,ford edge sel,like new,gas,101000,automatic,fwd,SUV
+17990,2018,ford edge sel,like new,gas,1111111,automatic,fwd,SUV
+17990,2015,volkswagen golf tdi sel,good,diesel,51482,other,fwd,sedan
+17990,2013,subaru xv crosstrek premium,good,gas,57371,other,x,hatchback
+17990,2012,volkswagen touareg tdi sport suv,good,gas,93185,other,x,other
+17995,2019,mitsubishi outlander sport,good,gas,41828,automatic,rwd,SUV
+17995,2013,gmc sierra 1500 sle,excellent,gas,107000,automatic,x,truck
+17998,2014,infiniti qx60,x,gas,87060,automatic,fwd,SUV
+17999,2012,jeep wrangler,excellent,gas,125000,automatic,4wd,offroad
+18000,2016,x focus st,excellent,gas,68000,manual,fwd,hatchback
+18000,1948,chevrolet aero 2 door sedan,good,gas,21000,automatic,rwd,coupe
+18053,2016,bmw x3,like new,gas,110000,automatic,4wd,SUV
+18199,2018,nissan maxima,x,gas,101821,automatic,fwd,sedan
+18217,2011,toyota tacoma,x,gas,150700,automatic,rwd,truck
+18272,2015,nissan rogue,x,gas,71676,automatic,4wd,SUV
+18395,2013,lexus rx 350,x,gas,98230,automatic,fwd,SUV
+18400,2012,ford f-150,x,other,159936,automatic,4wd,pickup
+18452,2018,ford edge,x,gas,49464,automatic,fwd,SUV
+18499,2018,nissan altima,x,gas,57053,automatic,fwd,sedan
+18500,2016,cadillac srx,like new,gas,44000,automatic,rwd,SUV
+18500,2016,ford transit van,excellent,gas,92000,automatic,rwd,van
+18500,2009,jeep wrangler unlimited x,good,gas,76641,automatic,4wd,SUV
+18500,2002,ford f-350,like new,diesel,203000,automatic,rwd,truck
+18530,2014,honda cr-v,x,gas,36103,automatic,fwd,SUV
+18568,2019,chevrolet equinox,x,gas,28990,automatic,fwd,SUV
+18590,2018,hyundai sonata sel sedan 4d,good,gas,22075,other,fwd,sedan
+18590,2018,hyundai sonata sel sedan 4d,good,gas,24703,other,fwd,sedan
+18590,2018,honda civic lx sedan 4d,good,gas,28942,other,fwd,sedan
+18590,2017,mitsubishi outlander sport es,good,other,18994,other,4wd,hatchback
+18590,2017,kia soul ! wagon 4d,good,gas,20729,other,fwd,wagon
+18590,2017,toyota camry le sedan 4d,good,gas,30223,other,fwd,sedan
+18600,2015,toyota sienna xle,excellent,gas,114542,automatic,fwd,mini-van
+18700,2012,gmc 4wd z71,like new,gas,90000,automatic,4wd,pickup
+18777,2016,volvo s60 inscription platinum,like new,gas,38561,automatic,fwd,sedan
+18777,2013,toyota highlander,x,gas,120856,automatic,fwd,SUV
+18778,2016,buick enclave,x,gas,116431,automatic,fwd,SUV
+18800,1978,chevrolet ,good,gas,9999,automatic,rwd,pickup
+18897,2016,toyota camry,x,gas,41378,other,fwd,sedan
+18897,2016,kia optima,x,gas,73330,other,fwd,sedan
+18897,2014,toyota rav4,x,gas,90824,other,fwd,SUV
+18897,2012,bmw 535i,x,gas,105766,other,rwd,sedan
+18900,2019,nissan altima,good,gas,44276,automatic,fwd,sedan
+18900,2019,nissan altima,good,gas,47421,automatic,fwd,sedan
+18900,2017,fiat 124 spider,excellent,gas,16200,manual,rwd,convertible
+18900,2015,x voltswagon beetle convertible,excellent,gas,23988,automatic,fwd,convertible
+18900,2015,ford f-150 supercab xlt,good,gas,112165,automatic,rwd,truck
+18950,2010,ford f150 lariat supercrew 4x4,good,gas,151403,automatic,4wd,pickup
+18951,1951,ford custom,excellent,gas,46016,manual,rwd,coupe
+18978,2019,dodge journey,x,gas,47132,automatic,fwd,SUV
+18985,2016,buick enclave,x,gas,107813,automatic,fwd,SUV
+18989,2014,bmw 5 series,x,diesel,78499,automatic,x,sedan
+18990,2018,mitsubishi eclipse cross es,good,other,15808,other,x,hatchback
+18990,2018,honda civic lx sedan 4d,good,other,31419,other,fwd,sedan
+18990,2015,volvo s60 t5 premier sedan 4d,good,other,37238,other,x,sedan
+18990,2010,ford econoline cargo van,good,gas,32988,automatic,rwd,van
+18990,2010,ford mustang,x,gas,41564,automatic,rwd,coupe
+18995,2019,toyota camry,x,gas,71223,automatic,fwd,sedan
+18995,2012,mercedes-benz m-class,excellent,gas,75125,automatic,4wd,SUV
+18995,1992,chevrolet corvette coupe,like new,gas,17240,automatic,rwd,coupe
+18998,2018,nissan rogue,x,gas,24371,automatic,4wd,SUV
+18998,2015,acura tlx,x,gas,56476,automatic,fwd,sedan
+18999,2016,bmw 3 series,x,gas,14844,automatic,rwd,sedan
+18999,2010,ford f250 king ranch,excellent,diesel,264315,automatic,4wd,truck
+19000,2017,subaru forester,like new,gas,22700,automatic,x,SUV
+19000,2013,cadillac escalade,like new,gas,133012,automatic,rwd,SUV
+19000,2013,gmc sierra,excellent,gas,172699,automatic,4wd,truck
+19000,2011,chevrolet silverado 1500,good,gas,187700,automatic,4wd,pickup
+19276,2016,subaru crosstrek,x,gas,122963,automatic,4wd,SUV
+19478,2019,ford fusion,x,gas,35255,automatic,4wd,sedan
+19496,2010,toyota tacoma,x,gas,42733,automatic,rwd,pickup
+19499,2019,kia sportage,x,gas,46299,automatic,4wd,SUV
+19500,2014,ram promaster 2500,excellent,gas,61661,automatic,fwd,van
+19500,2014,ford mustang,x,gas,82283,manual,rwd,coupe
+19500,2013,infiniti qx 56,like new,gas,119895,automatic,4wd,SUV
+19500,2013,jeep wrangler,excellent,gas,124055,automatic,4wd,SUV
+19500,2008,ram 3500,good,diesel,161000,manual,4wd,truck
+19565,2018,honda civic lx,like new,gas,15545,automatic,fwd,sedan
+19590,2018,honda civic lx coupe 2d,good,gas,35931,other,fwd,coupe
+19590,2017,kia soul ! wagon 4d,good,other,13688,other,fwd,wagon
+19590,2017,acura ilx sedan 4d,good,diesel,29014,other,fwd,sedan
+19615,2019,ford edge,x,gas,82337,automatic,fwd,SUV
+19691,2015,jeep cherokee,x,gas,70452,automatic,4wd,SUV
+19730,2016,honda cr-v,x,gas,38386,automatic,fwd,SUV
+19850,2013,bmw 750li,good,gas,90822,other,x,sedan
+19888,2015,mercedes-benz benz ml 450,excellent,gas,111261,automatic,4wd,SUV
+19890,2017,ford expedition xlt,like new,gas,139449,automatic,rwd,SUV
+19899,2020,nissan rogue sport,x,gas,10588,automatic,fwd,hatchback
+19900,2019,hyundai sonata,good,gas,21872,automatic,fwd,sedan
+19900,2018,kia sportage,good,gas,35823,automatic,fwd,SUV
+19900,2018,nissan rogue sv,excellent,gas,66300,automatic,fwd,SUV
+19900,2011,cadillac escalade,good,gas,133257,automatic,rwd,SUV
+19900,2004,chevrolet ssr,good,gas,72333,automatic,rwd,pickup
+19900,2004,ford f250 super duty,good,diesel,88000,automatic,4wd,pickup
+19900,2002,x maserati spyder,excellent,gas,42000,other,rwd,convertible
+19940,2016,toyota sienna,x,gas,108249,automatic,fwd,van
+19950,2009,porsche boxster,excellent,gas,80190,automatic,rwd,convertible
+19950,1955,chevrolet bel air,good,gas,96867,automatic,rwd,sedan
+19977,2016,bmw 328i,x,gas,45218,automatic,rwd,sedan
+19978,2019,mazda cx-3,x,gas,28122,automatic,4wd,wagon
+19978,2016,chevrolet silverado 1500,x,gas,194142,automatic,rwd,pickup
+19978,2015,honda cr-v,x,gas,72363,automatic,4wd,SUV
+19978,2015,ram pickup 1500,x,gas,112594,automatic,rwd,pickup
+19978,2013,chevrolet silverado 2500hd,x,gas,176765,automatic,rwd,pickup
+19989,2016,ford flex,x,gas,73898,automatic,fwd,SUV
+19989,2015,audi q5,x,gas,48837,automatic,x,SUV
+19989,2014,bmw 5 series,x,diesel,78499,automatic,x,sedan
+19990,2020,mitsubishi outlander sport es,good,other,11103,other,x,hatchback
+19990,2017,subaru legacy 2.5i premium sedan,good,gas,10309,other,x,sedan
+19990,2017,hyundai sonata plug-in hybrid,good,hybrid,29254,manual,fwd,sedan
+19990,2017,nissan pathfinder,x,gas,53950,automatic,x,SUV
+19990,2015,infiniti qx60 3.5 sport utility,good,other,96003,other,x,SUV
+19990,2015,infiniti qx60 3.5 sport utility,good,other,96003,other,x,other
+19990,2013,volkswagen eos sport convertible,good,gas,24294,automatic,fwd,convertible
+19995,2011,jeep wrangler right hand drive,x,x,87857,manual,4wd,SUV
+19995,2011,ford f-150,good,gas,103554,automatic,4wd,truck
+19997,2009,dodge challenger,excellent,gas,83491,automatic,rwd,coupe
+19998,2013,lexus rx 350,x,gas,100305,automatic,4wd,SUV
+19999,2019,mitsubishi outlander sport se,excellent,gas,32000,automatic,4wd,SUV
+19999,2016,bmw 2 series,x,gas,50208,automatic,rwd,coupe
+20000,2020,kia optima,like new,gas,16362,automatic,fwd,sedan
+20000,2015,cadillac srx premium,excellent,gas,75500,automatic,x,SUV
+20000,2014,jeep grand cherokee,like new,gas,167821,automatic,x,SUV
+20000,2010,toyota 4runner limited,excellent,gas,113750,automatic,fwd,SUV
+20288,2015,mercedes-benz glk,x,gas,48889,automatic,rwd,SUV
+20289,2017,acura rdx,x,gas,105821,automatic,fwd,SUV
+20300,2017,ford transit 150,excellent,gas,141625,automatic,rwd,van
+20385,2014,lexus is 350,x,gas,94044,automatic,rwd,sedan
+20400,2012,chevrolet avalanche,x,other,101507,automatic,4wd,other
+20447,2018,kia sorento,x,gas,42159,automatic,fwd,SUV
+20478,2014,dodge challenger,x,gas,96780,automatic,rwd,coupe
+20495,2015,lexus es 300h,x,hybrid,61063,automatic,fwd,sedan
+20499,2015,jeep grand cherokee,x,gas,90890,automatic,4wd,SUV
+20500,2015,toyota highlander,x,gas,130651,automatic,fwd,SUV
+20590,2020,kia soul lx wagon 4d,good,gas,2834,other,fwd,wagon
+20590,2018,chrysler 300 limited sedan 4d,good,gas,71021,other,rwd,sedan
+20590,2017,lincoln mkz premiere sedan 4d,good,gas,36436,other,fwd,sedan
+20590,2015,volkswagen eos komfort,good,gas,43470,automatic,fwd,convertible
+20590,2013,acura mdx sport utility 4d,good,gas,77087,other,x,other
+20590,2013,nissan frontier crew cab sv,good,gas,98591,other,4wd,pickup
+20599,2017,nissan frontier,x,gas,100977,automatic,fwd,pickup
+20678,2014,toyota highlander,x,gas,95388,automatic,fwd,SUV
+20788,2006,chevrolet corvette,x,gas,81980,manual,rwd,convertible
+20875,2019,hyundai santa fe,x,gas,38702,automatic,4wd,SUV
+20888,2015,mercedes-benz benz ml 450,excellent,gas,111261,automatic,4wd,SUV
+20900,2016,toyota avalon,excellent,gas,100318,automatic,rwd,sedan
+20900,2013,ford f-150,good,gas,152233,automatic,4wd,truck
+20917,2019,honda civic,x,gas,9414,automatic,fwd,sedan
+20970,2014,ford f-150,x,gas,119239,automatic,4wd,pickup
+20978,2018,toyota camry,x,gas,55935,automatic,fwd,sedan
+20978,2015,ford expedition,x,gas,126349,automatic,rwd,SUV
+20985,2016,ford explorer,x,gas,116875,automatic,4wd,SUV
+20990,2020,kia soul s wagon 4d,good,gas,2421,other,fwd,wagon
+20990,2018,acura ilx special edition sedan,good,other,18972,other,x,sedan
+20990,2010,ram 2500,good,gas,121850,automatic,4wd,truck
+20990,2006,chevrolet express cargo van,good,diesel,134296,automatic,rwd,truck
+20995,2019,dodge journey,x,gas,37923,automatic,4wd,SUV
+20995,2011,rover sport,excellent,gas,79015,automatic,4wd,SUV
+20995,2011,chevrolet silverado 1500 ltz crew cab 4wd,x,x,137701,automatic,4wd,pickup
+20998,2021,chevrolet malibu,x,gas,4121,automatic,x,sedan
+21000,2011,jeep wrangler unlimited sport,good,gas,169000,automatic,4wd,SUV
+21099,2013,dodge challenger,x,gas,90418,automatic,rwd,coupe
+21194,2019,chevrolet trax,x,gas,8189,other,4wd,SUV
+21250,2002,ford thunderbird,like new,gas,15962,automatic,fwd,convertible
+21250,2002,ford thunderbird deluxe,like new,gas,15962,automatic,fwd,convertible
+21250,2002,ford thunderbird,new,gas,15996,automatic,fwd,convertible
+21425,2013,gmc sierra 1500,x,gas,100008,automatic,4wd,pickup
+21500,2014,ford f150,excellent,gas,164000,automatic,4wd,truck
+21500,2013,jeep wrangler,excellent,gas,78270,manual,4wd,convertible
+21500,2011,jeep wrangler,x,gas,110929,automatic,4wd,other
+21500,1990,toyota hilux,new,diesel,72000,manual,4wd,truck
+21551,2015,honda cr-v,x,gas,58147,automatic,4wd,SUV
+21590,2018,honda civic ex sedan 4d,good,gas,7885,other,fwd,sedan
+21590,2018,toyota camry hybrid le sedan 4d,good,other,24527,other,fwd,sedan
+21590,2017,buick regal premium ii sedan 4d,good,gas,14934,other,fwd,sedan
+21590,2016,ram 1500 regular cab tradesman,good,gas,35391,other,x,pickup
+21590,2016,acura rdx sport utility 4d,good,other,37793,automatic,fwd,SUV
+21590,2016,dodge charger sxt sedan 4d,good,other,45097,automatic,rwd,sedan
+21590,2013,bmw 3 series 335i xdrive sedan,good,gas,62993,other,x,sedan
+21600,2013,bmw 650i,excellent,gas,86611,automatic,rwd,sedan
+21678,2019,hyundai santa fe,x,gas,33032,automatic,fwd,SUV
+21690,2016,mercedes-benz c-class,x,gas,53511,automatic,rwd,sedan
+21790,2016,chevrolet silverado 1500 lt,good,gas,100662,automatic,rwd,pickup
+21880,2015,ram 1500,excellent,diesel,134936,automatic,fwd,truck
+21900,2013,dodge challenger,x,gas,90418,automatic,rwd,coupe
+21900,2012,gmc sierra 1500,good,gas,118000,automatic,4wd,pickup
+21900,2011,chevrolet camaro 2ss,good,gas,93096,automatic,rwd,convertible
+21950,2012,toyota tacoma 4x4,excellent,gas,143060,manual,4wd,truck
+21978,2019,hyundai santa fe,x,gas,29829,automatic,4wd,SUV
+21989,2013,lexus ls 460,x,gas,143101,automatic,x,sedan
+21990,2020,mitsubishi outlander sport es,good,gas,3553,other,x,hatchback
+21990,2020,hyundai sonata se sedan 4d,good,other,13793,other,x,sedan
+21990,2019,toyota camry l sedan 4d,good,other,5607,other,x,sedan
+21990,2019,jeep renegade sport suv 4d,good,gas,13869,other,4wd,other
+21990,2018,buick regal sportback preferred,good,gas,4988,other,fwd,sedan
+21990,2018,hyundai sonata limited sedan 4d,good,other,14945,other,fwd,sedan
+21990,2018,nissan maxima,good,gas,25500,automatic,fwd,sedan
+21990,2017,chrysler pacifica touring-l,good,gas,20941,other,fwd,van
+21990,2017,infiniti qx50 sport utility 4d,good,other,27629,automatic,x,hatchback
+21990,2017,honda accord sport se sedan 4d,good,gas,33449,other,fwd,sedan
+21990,2017,infiniti qx50 sport utility 4d,good,other,37011,automatic,x,hatchback
+21990,2017,gmc acadia sle-1 sport utility,good,gas,48959,other,fwd,SUV
+21990,2016,mazda mx-5 miata club,good,other,41251,other,rwd,convertible
+21990,2015,mercedes-benz glk,x,diesel,90508,automatic,x,SUV
+21990,2014,lincoln navigator,x,gas,106148,automatic,4wd,SUV
+21990,2013,toyota tacoma access cab,good,other,77018,other,x,pickup
+21990,2011,ford ranger super cab xlt pickup,good,gas,32652,other,x,pickup
+21990,2005,ford econoline commercial cutaway,good,gas,45554,automatic,rwd,truck
+21998,2019,volkswagen tiguan,x,gas,6611,automatic,x,SUV
+21998,2018,volkswagen tiguan,x,gas,23046,automatic,fwd,SUV
+21998,2015,audi q7,x,gas,76280,automatic,x,SUV
+21998,2009,chevrolet suburban,x,gas,92518,automatic,4wd,SUV
+22000,2013,rover lr4 hse,good,gas,119550,automatic,4wd,SUV
+22000,1958,ford fairlane,good,gas,97000,manual,rwd,sedan
+22200,2015,dodge durango sxt,excellent,gas,57000,automatic,rwd,SUV
+22234,2014,toyota 4runner,x,gas,166062,automatic,rwd,SUV
+22249,2018,toyota rav4,x,gas,39919,automatic,fwd,SUV
+22300,2017,ford transit 150,excellent,gas,113617,automatic,rwd,van
+22478,2015,chevrolet camaro,x,gas,32159,automatic,rwd,coupe
+22490,2018,honda cr-v,x,gas,16584,automatic,fwd,SUV
+22495,2013,chevrolet silverado 1500,excellent,gas,52686,automatic,rwd,truck
+22497,2016,lexus es 350,x,gas,33524,automatic,fwd,sedan
+22499,2020,chrysler voyager,x,gas,40481,automatic,fwd,mini-van
+22499,2018,volkswagen tiguan,x,gas,24942,automatic,x,SUV
+22500,2001,ford f450,good,diesel,144700,manual,rwd,truck
+22500,1947,ford coupe,good,gas,57000,manual,rwd,coupe
+22510,2015,mercedes-benz m-class,excellent,gas,74909,automatic,4wd,SUV
+22590,2020,buick encore gx select sport,good,other,5144,other,x,SUV
+22590,2018,subaru impreza 2.0i sport wagon,good,gas,17472,other,x,wagon
+22590,2017,ram 1500 regular cab tradesman,good,gas,39508,other,x,pickup
+22590,2016,volvo s60 t5 cross country,good,gas,42755,other,x,sedan
+22590,2013,ford f150 super cab xl pickup 4d,good,other,14169,other,x,pickup
+22590,2010,chevrolet silverado 1500,good,gas,71229,other,x,pickup
+22678,2016,mercedes-benz e-class,x,gas,85046,automatic,rwd,sedan
+22788,2019,honda accord,x,gas,36657,automatic,fwd,sedan
+22788,2019,toyota camry,x,gas,53496,automatic,fwd,sedan
+22795,2015,mercedes-benz c-class,x,gas,67870,automatic,x,sedan
+22861,2011,toyota tundra,x,gas,198020,automatic,4wd,truck
+22900,2018,nissan frontier,good,gas,14570,automatic,rwd,truck
+22950,2014,ford f150 supercrew cab xlt,excellent,gas,166380,automatic,4wd,truck
+22950,2011,ford e-450,excellent,gas,64351,automatic,rwd,bus
+22978,2019,jeep compass,x,gas,19383,automatic,4wd,SUV
+22989,2016,bmw x1,x,gas,34532,automatic,4wd,SUV
+22989,2013,lexus rx 350,x,gas,53779,automatic,fwd,SUV
+22990,2017,infiniti qx50 sport utility 4d,good,other,21297,other,x,hatchback
+22990,2016,ford econoline commercial cutaway,good,gas,181410,automatic,rwd,truck
+22990,2015,bmw 5 series 535i sedan 4d,good,gas,53216,other,rwd,sedan
+22990,2014,lexus is 250,x,gas,72526,automatic,x,sedan
+22990,2013,mazda mx-5 miata grand touring,good,other,20125,other,rwd,other
+22990,2012,toyota tacoma access cab pickup,good,gas,37725,other,x,pickup
+22990,2010,ford econoline commercial cutaway,good,gas,121911,automatic,rwd,truck
+22995,2019,buick envision,x,gas,28676,automatic,fwd,SUV
+22995,2018,toyota rav4,x,gas,27528,automatic,fwd,SUV
+22995,2012,chevrolet tahoe,x,other,109937,automatic,4wd,SUV
+22995,2010,toyota tacoma,good,gas,157471,automatic,4wd,truck
+22998,2016,cadillac xts,x,gas,38309,automatic,4wd,sedan
+23000,2010,jeep wrangler unlimited,excellent,gas,112000,automatic,4wd,SUV
+23000,2009,bmw 750il,excellent,gas,80000,automatic,rwd,sedan
+23000,1967,chevrolet c10 truck,good,gas,999999,automatic,rwd,truck
+23173,2012,chevrolet silverado 1500,x,gas,131352,automatic,4wd,truck
+23299,2012,ford f-150,x,gas,101760,automatic,4wd,pickup
+23395,2016,ram 2500 tradesman crew cab,excellent,gas,182466,automatic,x,pickup
+23480,2014,gmc sierra 1500,excellent,gas,163665,automatic,4wd,truck
+23500,2016,acura rdx awd,good,gas,71000,automatic,4wd,SUV
+23500,2014,chevrolet silverado 2500 hd crew cab,x,other,12345,automatic,x,pickup
+23500,2008,lexus sc430,excellent,gas,73500,automatic,rwd,convertible
+23590,2018,chrysler 300 touring l sedan 4d,good,gas,19677,other,x,sedan
+23590,2018,subaru crosstrek 2.0i limited,good,gas,44201,automatic,x,hatchback
+23590,2018,mitsubishi outlander phev gt,good,other,48933,other,4wd,other
+23590,2017,nissan frontier king cab sv,good,other,29935,other,fwd,pickup
+23590,2017,nissan frontier king cab sv,good,gas,37091,other,fwd,pickup
+23590,2012,ford f150 supercrew cab xlt,good,gas,53752,other,x,pickup
+23590,2012,infiniti qx qx56 sport utility,good,other,94053,other,4wd,SUV
+23590,2009,dodge challenger r/t coupe 2d,good,gas,34818,other,rwd,coupe
+23606,2018,honda civic,x,gas,30305,manual,fwd,coupe
+23699,2012,chevrolet silverado,x,other,102212,automatic,4wd,pickup
+23775,2018,dodge charger,x,gas,34402,automatic,rwd,sedan
+23788,2015,dodge durango,x,gas,61256,automatic,rwd,SUV
+23888,2014,ram 1500 express,like new,diesel,110789,automatic,rwd,pickup
+23895,2016,ford f-150 xlt supercrew,excellent,gas,148832,automatic,x,truck
+23900,2017,jeep grand cherokee,good,gas,50543,automatic,rwd,SUV
+23900,2017,ford transit 150,excellent,gas,108482,automatic,rwd,van
+23900,2015,jeep wrangler,excellent,gas,77785,manual,4wd,SUV
+23900,2015,ram 1500,x,diesel,107663,automatic,4wd,pickup
+23900,2015,ram 1500,x,diesel,107670,automatic,4wd,pickup
+23900,2013,ford f150,x,gas,147898,automatic,4wd,other
+23900,2012,chevrolet silverado,x,other,100000,automatic,4wd,pickup
+23900,2011,jeep wrangler,x,gas,117430,automatic,4wd,SUV
+23900,2006,x lbz duramax,x,diesel,195000,automatic,4wd,truck
+23950,2015,nissan 370z,excellent,gas,65919,manual,rwd,coupe
+23978,2016,mercedes-benz e-class,x,gas,71061,automatic,rwd,sedan
+23990,2019,acura ilx premium pkg sedan 4d,good,gas,7281,other,fwd,sedan
+23990,2019,mitsubishi outlander gt sport,good,gas,20657,other,4wd,SUV
+23990,2018,acura rdx sport utility 4d,good,gas,49760,automatic,x,SUV
+23990,2017,lincoln mkz reserve sedan 4d,good,gas,28565,other,fwd,sedan
+23990,2016,chevrolet silverado 1500 regular,good,gas,41568,other,x,pickup
+23990,2015,lexus nx 200t sport utility 4d,good,other,48462,other,x,hatchback
+23990,2014,acura mdx sh-awd sport utility,good,gas,62390,other,x,SUV
+23990,2010,chevrolet camaro,excellent,gas,19000,manual,rwd,coupe
+23990,2007,chevrolet silverado 3500 classic,good,gas,32853,automatic,rwd,truck
+23995,2018,jeep compass,x,gas,28332,automatic,fwd,SUV
+23995,2018,jeep compass,x,gas,31029,automatic,4wd,SUV
+23995,2013,ford f-150,x,other,58093,automatic,4wd,pickup
+23995,2013,ford f-150,good,gas,139863,automatic,rwd,truck
+23997,2017,infiniti qx70,excellent,gas,84416,automatic,rwd,SUV
+23998,2018,dodge challenger,x,gas,48482,automatic,rwd,coupe
+23998,2017,audi a6,x,gas,30326,automatic,x,sedan
+23999,2017,jeep cherokee,x,gas,62307,automatic,4wd,SUV
+24399,2019,volkswagen tiguan,x,gas,26305,automatic,x,SUV
+24490,2019,ford flex,x,gas,59342,automatic,fwd,wagon
+24500,2014,lexus gs350,like new,gas,78050,automatic,rwd,sedan
+24500,2010,toyota tundra crewmax,excellent,gas,81100,automatic,rwd,pickup
+24500,2008,gmc sierra,excellent,gas,49000,manual,x,truck
+24500,2006,ford f550,excellent,diesel,147000,automatic,rwd,truck
+24590,2019,chrysler 300 touring l sedan 4d,good,gas,15557,other,rwd,sedan
+24590,2019,nissan frontier king cab s,good,gas,26351,other,fwd,pickup
+24590,2018,lincoln mkz select sedan 4d,good,gas,16081,automatic,fwd,sedan
+24590,2018,nissan frontier crew cab pro-4x,good,gas,33036,other,4wd,pickup
+24590,2018,bmw 3 series 330i xdrive sedan,good,other,38872,other,x,sedan
+24590,2017,dodge challenger sxt coupe 2d,good,gas,31936,automatic,rwd,coupe
+24590,2017,chevrolet silverado 1500 regular,good,gas,40784,other,x,pickup
+24590,2016,jeep wrangler sport suv 2d,good,gas,66313,other,4wd,other
+24590,2013,gmc sierra 1500 extended cab slt,good,other,80318,other,x,pickup
+24667,2019,honda accord,x,gas,25400,automatic,fwd,sedan
+24699,2019,volkswagen jetta,x,gas,11478,automatic,x,sedan
+24699,2019,lincoln mkz,x,gas,40056,automatic,fwd,sedan
+24699,2018,audi a4,x,gas,67294,automatic,x,sedan
+24788,2016,gmc canyon,x,gas,64441,automatic,rwd,pickup
+24788,2014,chevrolet silverado 1500,x,gas,159821,automatic,4wd,pickup
+24880,2012,ford f250 super duty,excellent,diesel,252298,automatic,4wd,truck
+24888,2019,ford f150 regular cab xl,excellent,gas,8176,automatic,rwd,pickup
+24900,2016,ford econoline,excellent,gas,122238,automatic,rwd,truck
+24900,2015,chevrolet silverado 1500,good,gas,119569,automatic,rwd,truck
+24900,2013,jeep wrangler,x,gas,110974,automatic,4wd,SUV
+24900,2012,mercedes-benz c-class,like new,gas,42953,automatic,rwd,sedan
+24900,2012,jeep wrangler,excellent,gas,113761,automatic,4wd,SUV
+24950,2008,ram 3500,excellent,diesel,94509,automatic,rwd,truck
+24977,2015,audi q7,x,gas,90753,automatic,x,SUV
+24989,2019,honda hr-v,x,gas,3435,automatic,fwd,wagon
+24989,2017,honda accord,x,gas,30459,automatic,fwd,sedan
+24989,2008,cadillac xlr,x,gas,71637,automatic,rwd,convertible
+24989,2006,x hummer h2,x,gas,124175,automatic,x,SUV
+24990,2020,buick encore gx select sport,good,gas,4414,other,fwd,SUV
+24990,2020,mitsubishi outlander gt sport,good,other,28945,other,4wd,SUV
+24990,2019,acura ilx premium pkg sedan 4d,good,other,5334,other,fwd,sedan
+24990,2019,subaru crosstrek 2.0i premium,good,gas,12495,other,x,hatchback
+24990,2018,ford explorer sport utility 4d,good,gas,24652,other,fwd,other
+24990,2018,gmc canyon extended cab pickup,good,other,32329,other,x,pickup
+24990,2018,bmw 3 series 330i xdrive sedan,good,gas,34454,automatic,x,sedan
+24990,2017,audi a4 ultra premium sedan 4d,good,other,21314,other,fwd,sedan
+24990,2017,lexus es 350 sedan 4d,good,gas,40338,automatic,fwd,sedan
+24990,2017,gmc savana commercial cutaway,good,gas,136965,automatic,rwd,truck
+24990,2014,acura mdx sh-awd sport utility,good,gas,52396,automatic,x,SUV
+24990,2014,mitsubishi fuso fe,good,diesel,117851,automatic,rwd,truck
+24990,2014,x hino 195,good,hybrid,118693,automatic,rwd,truck
+24990,2013,lexus rx 350 sport utility 4d,good,gas,27623,other,fwd,SUV
+24990,2013,x isuzu npr,good,diesel,65902,automatic,rwd,truck
+24990,2013,gmc sierra 1500 extended cab sle,good,gas,70559,other,4wd,pickup
+24990,2012,chevrolet silverado 1500 regular,good,gas,26460,other,x,pickup
+24990,2009,chevrolet 3500 lcf gas,good,gas,72789,automatic,rwd,truck
+24990,2008,ford econoline cargo van,good,gas,139567,automatic,rwd,truck
+24990,2007,ford super duty f-450 drw,good,gas,46463,automatic,rwd,truck
+24995,2008,x hummer h2,excellent,gas,243806,automatic,4wd,SUV
+24995,2006,x hummer h2 lifted 4x4,x,gas,130066,automatic,4wd,SUV
+24997,2014,mercedes-benz m-class,x,gas,82553,automatic,x,SUV
+24999,2015,chevrolet silverado 2500hd,x,gas,114825,automatic,4wd,pickup
+25000,2017,ram 1500,excellent,gas,96000,automatic,4wd,truck
+25289,2018,infiniti qx30,x,gas,24966,automatic,4wd,wagon
+25378,2016,ford f-150,x,gas,122702,automatic,rwd,pickup
+25395,2018,subaru outback,x,gas,28591,automatic,4wd,wagon
+25425,2016,ram pickup 1500,x,gas,80464,automatic,4wd,pickup
+25495,2017,mercedes-benz c-class,x,gas,42056,automatic,x,sedan
+25500,2016,ford explorer,like new,gas,98000,automatic,4wd,SUV
+25500,2015,jaguar xj,x,x,71114,automatic,rwd,sedan
+25590,2020,buick encore gx select sport,good,gas,1113,automatic,fwd,SUV
+25590,2018,chrysler pacifica touring plus,good,gas,8666,other,fwd,van
+25590,2018,mitsubishi outlander phev sel,good,other,25384,other,4wd,other
+25590,2018,lincoln mkz reserve hybrid sedan,good,hybrid,33467,other,fwd,sedan
+25590,2017,ford mustang v6 convertible 2d,good,gas,11325,other,rwd,convertible
+25590,2017,jaguar xf 20d premium sedan 4d,good,other,27662,automatic,rwd,sedan
+25590,2017,jeep grand cherokee laredo sport,good,other,31315,other,4wd,SUV
+25590,2017,infiniti q70 3.7 sedan 4d,good,other,66632,other,rwd,sedan
+25590,2015,gmc sierra 1500 regular cab,good,other,35290,other,x,pickup
+25598,2017,lexus is 200t,x,gas,29403,automatic,rwd,sedan
+25677,2017,toyota tacoma,like new,gas,110112,automatic,rwd,truck
+25690,2016,ram pickup 1500,x,gas,80464,automatic,4wd,pickup
+25690,2016,toyota 4runner,x,gas,124769,automatic,rwd,SUV
+25695,2019,ford mustang,x,gas,11491,automatic,rwd,coupe
+25777,2017,lexus es350,like new,gas,71525,automatic,fwd,sedan
+25799,2019,volkswagen golf alltrack,x,gas,13065,automatic,x,wagon
+25800,2020,jeep renegade limited sport,like new,gas,7900,automatic,x,other
+25900,2020,honda accord,like new,gas,18800,automatic,fwd,sedan
+25985,2018,honda pilot,x,gas,71685,automatic,fwd,SUV
+25989,2015,jeep wrangler unlimited,x,gas,81062,automatic,4wd,SUV
+25989,2013,bmw 6 series,x,gas,72038,automatic,rwd,sedan
+25990,2019,acura ilx premium pkg sedan 4d,good,gas,5120,other,fwd,sedan
+25990,2019,ram 1500 classic regular cab,good,gas,12302,other,x,pickup
+25990,2019,dodge charger sxt sedan 4d,good,gas,21079,other,x,sedan
+25990,2019,ram 1500 classic regular cab,good,gas,27709,other,x,pickup
+25990,2018,mitsubishi outlander phev gt,good,electric,13938,other,4wd,SUV
+25990,2018,volvo s60 t5 inscription sedan,good,diesel,22834,other,x,sedan
+25990,2017,toyota tacoma access cab sr,good,gas,22820,other,x,pickup
+25990,2017,infiniti qx60,excellent,gas,68000,automatic,4wd,SUV
+25990,2016,gmc sierra 1500 regular cab,good,gas,24688,other,x,pickup
+25990,2016,bmw 5 series,x,gas,75123,automatic,x,sedan
+25990,2016,toyota tacoma access cab sr5,good,other,79393,other,x,pickup
+25990,2016,x isuzu npr hd gas reg,good,gas,172373,automatic,rwd,truck
+25990,2015,lexus nx 300h sport utility 4d,good,other,55783,other,x,hatchback
+25990,2014,gmc sierra 1500 regular cab,good,gas,15575,other,x,pickup
+25990,2014,dodge challenger r/t classic,good,gas,37374,other,rwd,coupe
+25990,2014,chevrolet silverado 1500 regular,good,other,82140,automatic,4wd,pickup
+25990,2013,toyota tacoma double cab,good,other,64919,other,x,pickup
+25990,2013,ram 1500 quad cab sport pickup,good,gas,81852,other,x,pickup
+25990,2013,toyota tundra crewmax pickup 4d,good,gas,98879,other,x,pickup
+25990,2008,ram 2500 mega cab 4x4,like new,diesel,172000,automatic,4wd,truck
+25990,2006,chevrolet express cargo van,good,gas,73360,automatic,rwd,truck
+25995,2018,ford mustang,x,gas,40156,automatic,rwd,convertible
+25995,2015,chevrolet silverado 1500 lt crew cab 4wd,x,x,151681,automatic,4wd,pickup
+25995,2014,chevrolet silverado 1500 work truck 2wt crew cab long box 4w,x,x,91852,automatic,4wd,pickup
+25998,2019,ford transit passenger,x,gas,52460,automatic,rwd,van
+25998,2017,cadillac xt5,x,gas,80821,automatic,4wd,SUV
+26000,1999,ford f350,good,diesel,120000,automatic,rwd,pickup
+26194,2019,hyundai kona,x,gas,12093,other,4wd,SUV
+26365,2017,buick enclave,x,gas,42577,automatic,fwd,SUV
+26495,2017,mercedes-benz c-class,x,gas,27443,automatic,x,sedan
+26500,2014,gmc sierra 1500,x,x,162934,automatic,4wd,pickup
+26590,2020,honda civic si coupe 2d,good,gas,9954,other,fwd,coupe
+26590,2017,honda pilot lx sport utility 4d,good,gas,13836,other,x,other
+26590,2017,bmw 3 series 330i xdrive sedan,good,other,14358,other,x,sedan
+26590,2017,infiniti q70 3.7 sedan 4d,good,other,34159,automatic,x,sedan
+26690,2016,toyota tacoma,x,gas,142702,automatic,4wd,pickup
+26690,2015,infiniti qx80,x,gas,93854,automatic,4wd,SUV
+26875,1999,chevrolet corvette,x,gas,8902,automatic,x,convertible
+26900,2019,ford f150 regular cab xl,excellent,gas,8176,automatic,rwd,pickup
+26900,2016,dodge charger,x,gas,62069,automatic,rwd,sedan
+26900,2015,jeep wrangler,x,gas,110309,automatic,4wd,SUV
+26900,2014,jeep wrangler,like new,gas,64700,automatic,4wd,SUV
+26900,1994,nissan skyline gts,good,gas,59384,manual,rwd,coupe
+26959,2019,dodge charger,x,gas,40695,automatic,rwd,sedan
+26989,2013,nissan titan,x,gas,66224,automatic,4wd,pickup
+26990,2020,toyota tacoma access cab sr5,good,gas,8625,other,x,pickup
+26990,2018,bmw 3 series 330i xdrive sedan,good,gas,13088,automatic,x,sedan
+26990,2018,gmc acadia sle-2 sport utility,good,gas,26514,other,fwd,SUV
+26990,2018,bmw 3 series 330i xdrive sedan,good,gas,28260,other,x,sedan
+26990,2018,acura rdx technology and,good,gas,30386,other,fwd,other
+26990,2017,nissan titan crew cab sv pickup,good,gas,34365,other,x,pickup
+26990,2017,infiniti qx60 3.5 sport utility,good,gas,40529,automatic,x,SUV
+26990,2017,nissan titan single cab sv,good,gas,41335,other,4wd,pickup
+26990,2017,x genesis g80,x,gas,74668,automatic,rwd,sedan
+26990,2016,mazda mx-5 miata grand touring,good,gas,7512,other,rwd,other
+26990,2016,ford f150 regular cab xl pickup,good,gas,14230,other,x,pickup
+26990,2016,lexus nx 200t sport utility 4d,good,gas,31363,other,fwd,hatchback
+26990,2016,chevrolet express commercial cutaway,good,gas,75734,automatic,rwd,truck
+26990,2016,toyota tacoma,x,gas,102089,automatic,rwd,pickup
+26990,2016,ford econoline commercial cutaway,good,gas,105070,automatic,rwd,truck
+26990,2016,ford super duty f-750 straight frame,good,diesel,201035,automatic,rwd,truck
+26990,2015,lexus nx 200t sport utility 4d,good,gas,29738,other,fwd,hatchback
+26990,2015,x isuzu npr,good,diesel,102863,automatic,rwd,truck
+26990,2014,chevrolet silverado 1500 crew,good,gas,63129,automatic,x,pickup
+26990,2014,lexus ls 460 sedan 4d,good,other,96454,automatic,rwd,sedan
+26990,2008,chevrolet cc4500,good,gas,100921,automatic,4wd,truck
+26990,2008,ram 2500 mega cab 4x4,like new,diesel,172000,automatic,4wd,truck
+26990,1998,mitsubishi fuso fh211,good,diesel,166302,manual,rwd,truck
+26995,2018,dodge charger,x,gas,29396,automatic,4wd,sedan
+26995,2017,ford f-150,x,gas,114741,automatic,rwd,truck
+26995,2017,ford f-150 xl supercrew 5.5-ft. bed 4wd,x,x,142288,automatic,4wd,pickup
+26995,2014,ford f-150 xl supercrew 6.5-ft. bed 4wd,x,x,119981,automatic,4wd,pickup
+26998,2018,nissan murano,x,gas,25253,automatic,4wd,SUV
+27278,2017,infiniti q70 hybrid,x,hybrid,42358,automatic,rwd,sedan
+27295,2014,chevrolet silverado 1500,x,gas,129649,automatic,4wd,pickup
+27400,2001,lexus lx 470,x,gas,169000,automatic,4wd,SUV
+27490,2017,mercedes-benz c-class,x,gas,15391,automatic,rwd,sedan
+27490,2006,mitsubishi fuso fe145,good,diesel,96626,automatic,rwd,truck
+27495,2018,jeep grand cherokee,x,gas,70108,automatic,rwd,SUV
+27500,2018,acura tlx,good,gas,21115,automatic,fwd,sedan
+27500,2005,chevrolet corvette z51,like new,gas,40000,automatic,rwd,coupe
+27590,2019,chevrolet camaro lt coupe 2d,good,gas,18056,other,rwd,coupe
+27590,2018,alfa-romeo romeo giulia sedan 4d,good,gas,11007,other,x,sedan
+27590,2018,acura rdx sport utility 4d,good,gas,22873,other,x,SUV
+27590,2018,infiniti qx60 3.5 sport utility,good,gas,41119,automatic,x,SUV
+27590,2018,lincoln mkx reserve sport,good,gas,48039,other,fwd,other
+27590,2017,cadillac xt5 luxury sport,good,other,21360,other,fwd,SUV
+27590,2017,chevrolet colorado extended cab,good,gas,35943,other,4wd,pickup
+27590,2014,ram 1500 crew cab big horn,good,other,47811,other,4wd,pickup
+27590,2013,toyota tacoma access cab pickup,good,other,43937,other,4wd,pickup
+27590,2012,jeep wrangler unlimited sport,good,gas,52172,other,4wd,SUV
+27697,2018,ford explorer,x,gas,46640,automatic,fwd,SUV
+27699,2018,infiniti qx60,x,gas,67229,automatic,fwd,SUV
+27800,2018,chevrolet impala,like new,gas,16920,automatic,fwd,sedan
+27897,2013,chevrolet silverado 1500,x,gas,55033,other,rwd,truck
+27899,2018,lexus es,x,gas,41549,automatic,fwd,sedan
+27900,2014,ram 3500,x,gas,66788,automatic,rwd,pickup
+27900,2014,jeep wrangler,excellent,gas,117834,automatic,4wd,SUV
+27900,2014,chevrolet silverado 3500hd,good,diesel,170525,automatic,4wd,truck
+27900,2011,gmc sierra,excellent,diesel,215000,automatic,x,truck
+27977,2017,toyota tacoma,x,gas,39402,automatic,rwd,truck
+27988,2016,chevrolet silverado 1500,x,gas,62667,automatic,4wd,truck
+27989,2019,toyota rav4,x,gas,28169,automatic,fwd,SUV
+27989,2015,ram 1500,x,gas,101470,automatic,4wd,pickup
+27990,2020,honda civic sport touring,good,gas,7209,other,fwd,hatchback
+27990,2020,ford ranger supercab xl pickup,good,gas,10688,other,x,pickup
+27990,2020,infiniti qx60 pure sport utility,good,gas,31050,other,fwd,SUV
+27990,2019,ford mustang ecoboost coupe 2d,good,gas,11032,other,rwd,coupe
+27990,2018,alfa-romeo romeo stelvio sport utility,good,gas,18112,other,x,hatchback
+27990,2018,alfa-romeo romeo stelvio ti sport,good,other,28347,other,x,hatchback
+27990,2018,chrysler pacifica,x,gas,28576,automatic,fwd,van
+27990,2018,acura rdx technology pkg sport,good,gas,30791,other,x,other
+27990,2018,audi q5 premium sport utility 4d,good,gas,31033,other,x,other
+27990,2018,nissan frontier crew cab pro-4x,good,gas,37332,other,4wd,pickup
+27990,2017,lincoln continental select sedan,good,gas,19492,automatic,x,sedan
+27990,2017,chevrolet colorado extended cab,good,gas,22120,other,x,pickup
+27990,2017,infiniti qx60 3.5 sport utility,good,other,26355,other,fwd,other
+27990,2016,bmw 3 series 340i sedan 4d,good,gas,46057,other,rwd,sedan
+27990,2016,jeep wrangler unlimited willys,good,other,58916,other,4wd,SUV
+27990,2015,ford f150 supercrew cab xl,good,other,56080,other,x,pickup
+27990,2014,toyota tacoma access cab pickup,good,other,17805,other,x,pickup
+27990,2014,ram 1500 crew cab laramie pickup,good,gas,83987,other,x,pickup
+27990,2014,ram 2500 4x4,like new,diesel,2222222,automatic,4wd,truck
+27990,2013,x international 4300,good,diesel,117550,automatic,rwd,truck
+27990,2012,toyota tacoma double cab pickup,good,gas,67245,other,4wd,pickup
+27990,2012,gmc sierra 2500 hd extended cab,good,gas,68696,other,4wd,pickup
+27990,2011,mercedes-benz cl-class cl 550,good,gas,66944,automatic,x,coupe
+27990,2011,ford f-750,good,diesel,123622,automatic,rwd,truck
+27990,2008,ford econoline cargo van,good,gas,83459,automatic,rwd,truck
+27995,2018,honda pilot,x,gas,28037,automatic,fwd,SUV
+27995,2018,dodge durango,x,gas,70767,automatic,rwd,SUV
+27995,2014,ram 1500 sport crew cab lwb 4wd,x,x,86325,automatic,4wd,pickup
+27995,2013,ford f-150,good,gas,104253,automatic,4wd,truck
+27995,2011,gmc sierra,x,gas,114847,automatic,4wd,pickup
+27998,2008,porsche cayman,x,gas,69505,automatic,rwd,coupe
+28000,2018,acura tlx,excellent,gas,55000,automatic,fwd,sedan
+28000,2015,ford f-150,excellent,gas,88350,automatic,4wd,pickup
+28249,2016,toyota tundra double cab,x,gas,78000,automatic,x,pickup
+28299,2018,lexus is,x,gas,31608,automatic,fwd,sedan
+28300,2019,bmw 430 gran coupe,excellent,gas,16000,automatic,rwd,hatchback
+28490,2018,ford f-150,x,gas,73373,automatic,rwd,pickup
+28490,2008,mitsubishi fuso fe145,good,diesel,70643,automatic,rwd,truck
+28500,2019,gmc acadia,good,gas,43961,automatic,fwd,SUV
+28500,1966,x nova wagon,good,gas,86000,automatic,rwd,wagon
+28550,2016,ram pickup 1500,x,gas,61328,automatic,rwd,pickup
+28590,2019,volvo s60 t5 momentum sedan 4d,good,gas,18531,other,fwd,sedan
+28590,2019,nissan frontier crew cab sv,good,other,21939,other,fwd,pickup
+28590,2018,gmc acadia sle-2 sport utility,good,gas,20736,other,fwd,SUV
+28590,2018,gmc acadia sle-2 sport utility,good,gas,20736,other,fwd,other
+28590,2018,cadillac xt5 sport utility 4d,good,gas,27331,other,x,SUV
+28590,2018,ram 1500 quad cab express pickup,good,other,30047,other,x,pickup
+28590,2018,audi q5 premium sport utility 4d,good,gas,31033,other,x,SUV
+28590,2018,audi q5 premium sport utility 4d,good,gas,35036,other,x,SUV
+28590,2018,dodge charger gt sedan 4d,good,other,40762,other,x,sedan
+28590,2017,chevrolet silverado 1500 regular,good,gas,102,other,x,pickup
+28590,2017,jeep wrangler sport suv 2d,good,other,31783,other,4wd,other
+28590,2017,jeep wrangler sport suv 2d,good,gas,37218,other,4wd,other
+28590,2017,ram 1500 quad cab express pickup,good,other,41816,other,4wd,pickup
+28590,2017,dodge challenger r/t shaker,good,other,65817,other,rwd,coupe
+28590,2017,infiniti q60 3.0t premium coupe,good,gas,67004,other,x,coupe
+28590,2013,subaru impreza wrx sti sedan 4d,good,other,50764,other,x,sedan
+28620,2019,ram pickup 1500 classic,x,gas,37499,automatic,rwd,pickup
+28654,2019,honda cr-v,x,gas,4564,automatic,4wd,SUV
+28690,2015,lexus rc 350,x,gas,41913,automatic,4wd,coupe
+28699,2018,infiniti q50,x,gas,25578,automatic,4wd,sedan
+28750,2003,chevrolet silverado 2500,like new,diesel,20000,automatic,4wd,truck
+28788,2017,ford explorer,x,gas,37850,automatic,fwd,SUV
+28900,2017,audi q7,good,gas,94601,automatic,4wd,SUV
+28900,2016,chevrolet tahoe lt 4x4,like new,gas,136589,automatic,4wd,SUV
+28978,2018,ford explorer,x,gas,40616,automatic,4wd,SUV
+28978,2016,cadillac ats,x,gas,4885,automatic,rwd,coupe
+28989,2017,jaguar f-pace,x,diesel,70941,automatic,x,SUV
+28989,2016,rover lr4,x,gas,93717,automatic,4wd,SUV
+28989,2013,ford f-150,x,gas,91989,automatic,4wd,pickup
+28989,2013,ford f-150,x,gas,98595,automatic,4wd,pickup
+28990,2019,ford ranger supercab xl pickup,good,other,18341,other,x,pickup
+28990,2018,lincoln mkx select sport utility,good,gas,27343,other,x,SUV
+28990,2018,audi a6 2.0t premium sedan 4d,good,gas,30687,automatic,x,sedan
+28990,2018,infiniti qx60 3.5 sport utility,good,gas,32458,other,fwd,SUV
+28990,2018,lincoln mkx reserve sport,good,gas,34507,automatic,fwd,SUV
+28990,2018,audi q5 premium plus sport,good,other,51504,other,x,SUV
+28990,2017,gmc acadia slt-1 sport utility,good,gas,18041,other,fwd,SUV
+28990,2017,cadillac cts 2.0 luxury sedan 4d,good,other,20155,other,x,sedan
+28990,2017,audi a6 3.0t premium plus sedan,good,other,45787,other,x,sedan
+28990,2017,bmw 4 series 440i xdrive gran,good,gas,49355,automatic,x,coupe
+28990,2014,ford f150 super cab xlt pickup,good,other,36038,other,4wd,pickup
+28990,2008,ford super duty f-450 drw,good,gas,118078,automatic,rwd,truck
+28990,2006,x bentley continental gt,x,gas,148774,automatic,x,coupe
+28995,2017,buick enclave,good,gas,71160,automatic,rwd,SUV
+28998,2018,mercedes-benz c-class,x,electric,26908,automatic,x,sedan
+28999,1955,chevrolet 210,good,gas,1234,automatic,rwd,sedan
+29000,2019,toyota tacoma,excellent,gas,29500,automatic,4wd,pickup
+29000,2010,ford f-350,excellent,diesel,98000,automatic,4wd,pickup
+29278,2017,chevrolet silverado 1500,x,gas,55728,automatic,rwd,pickup
+29357,2019,audi a5,x,gas,35117,automatic,x,hatchback
+29499,2017,lexus rx,x,gas,65923,automatic,fwd,wagon
+29499,2016,gmc yukon,x,other,159138,automatic,rwd,SUV
+29500,2018,mercedes-benz benz,like new,gas,18000,manual,x,sedan
+29500,2017,jaguar f-pace,excellent,gas,68000,automatic,x,SUV
+29500,2016,ford mustang,x,gas,36772,automatic,rwd,coupe
+29590,2019,alfa-romeo romeo stelvio ti sport,good,other,60984,other,x,hatchback
+29590,2018,audi a6 2.0t premium sedan 4d,good,gas,13035,other,fwd,sedan
+29590,2018,acura mdx sport utility 4d,good,gas,28921,other,fwd,other
+29590,2018,lincoln continental select sedan,good,other,33047,automatic,x,sedan
+29590,2018,audi q5 premium sport utility 4d,good,gas,34476,other,x,SUV
+29590,2017,jaguar xf 20d premium sedan 4d,good,gas,15530,other,x,sedan
+29590,2017,bmw x3 xdrive35i sport utility,good,gas,26761,other,x,SUV
+29590,2017,lincoln continental select sedan,good,gas,35320,other,x,sedan
+29590,2017,ford expedition xlt sport,good,gas,70760,other,4wd,SUV
+29590,2015,chevrolet silverado 1500 double,good,other,43874,other,x,pickup
+29590,2014,ram 1500 quad cab laramie pickup,good,diesel,73040,other,4wd,pickup
+29590,2013,gmc sierra 1500 extended cab slt,good,gas,37888,other,x,pickup
+29600,2019,gmc savana,like new,gas,30052,automatic,rwd,van
+29699,2018,ford f-150,x,gas,79063,automatic,4wd,pickup
+29788,2016,chevrolet tahoe,x,gas,149525,automatic,4wd,SUV
+29875,2016,gmc canyon,x,diesel,64745,automatic,4wd,pickup
+29890,2017,infiniti qx70,x,gas,32913,automatic,x,SUV
+29890,2013,tesla model s,x,electric,61591,automatic,rwd,sedan
+29900,2019,ford f-150,like new,gas,23004,automatic,rwd,truck
+29900,2017,ford expedition platinum 4x4 gas,excellent,gas,72849,automatic,4wd,SUV
+29950,2014,gmc sierra 1500,excellent,gas,139029,automatic,4wd,truck
+29950,1998,pontiac firebird trans am ws6,x,gas,16429,automatic,rwd,hatchback
+29978,2015,ford f-250 super duty,x,gas,128558,automatic,4wd,pickup
+29980,2016,infiniti qx80,x,gas,113427,automatic,rwd,SUV
+29988,2007,gmc c8500,excellent,diesel,163063,automatic,rwd,truck
+29988,2000,x international 4900 dump truck,excellent,diesel,287240,manual,rwd,truck
+29989,2018,honda accord,x,gas,17942,automatic,fwd,sedan
+29989,2015,ford f-150,x,gas,68143,automatic,4wd,pickup
+29989,2015,chevrolet suburban,x,x,131993,automatic,rwd,SUV
+29990,2019,mazda mx-5 miata grand touring,good,gas,5247,other,rwd,other
+29990,2019,dodge challenger gt coupe 2d,good,gas,6600,other,rwd,coupe
+29990,2019,chevrolet camaro lt coupe 2d,good,gas,6727,other,rwd,coupe
+29990,2018,chevrolet colorado crew cab work,good,gas,11401,other,4wd,pickup
+29990,2018,audi a6 2.0t premium sedan 4d,good,gas,13035,other,fwd,sedan
+29990,2018,volvo s90 t5 momentum sedan 4d,good,gas,13859,other,x,sedan
+29990,2018,lexus nx 300 sport utility 4d,good,other,15923,other,x,hatchback
+29990,2018,audi q5 premium sport utility 4d,good,gas,22574,other,x,SUV
+29990,2018,audi q5 premium sport utility 4d,good,diesel,23243,other,x,other
+29990,2018,audi a6 2.0t premium plus sedan,good,other,24996,automatic,x,sedan
+29990,2018,alfa-romeo romeo stelvio ti sport,good,other,26978,other,x,hatchback
+29990,2018,acura mdx sport utility 4d,good,other,33727,other,x,SUV
+29990,2017,alfa-romeo romeo giulia ti sedan 4d,good,other,17703,other,rwd,sedan
+29990,2017,jeep wrangler sport suv 2d,good,gas,22947,other,4wd,other
+29990,2017,jeep wrangler sport suv 2d,good,gas,28680,other,4wd,other
+29990,2017,acura mdx sh-awd sport utility,good,gas,38311,automatic,x,other
+29990,2016,chevrolet colorado extended cab,good,gas,17302,other,4wd,pickup
+29990,2016,nissan frontier crew cab pro-4x,good,gas,24661,automatic,4wd,pickup
+29990,2016,ford f150 super cab xl pickup 4d,good,gas,44339,other,4wd,pickup
+29990,2015,gmc canyon extended cab sle,good,other,16701,other,4wd,pickup
+29990,2015,x isuzu npr hd reg,good,gas,91400,automatic,rwd,truck
+29990,2014,chevrolet silverado 1500 double,good,gas,26129,other,4wd,pickup
+29990,2014,x isuzu dsl reg at,good,diesel,132469,automatic,rwd,truck
+29990,2012,x international terrastar,good,diesel,39013,automatic,rwd,truck
+29990,2012,toyota tacoma double cab pickup,good,gas,43182,other,4wd,pickup
+29990,2011,ford super duty f-450 drw,good,diesel,137481,automatic,4wd,truck
+29990,2008,x workhorse w42,good,gas,60386,automatic,rwd,truck
+29990,2007,ford super duty f-750 straight frame,good,diesel,124669,automatic,rwd,truck
+29990,2006,x freightliner m line walk-in van,good,diesel,100509,automatic,rwd,truck
+29990,2003,ford super duty f-550 drw,good,diesel,54703,manual,4wd,truck
+29995,2016,jeep wrangler unlimited sport 4wd,x,x,65203,manual,4wd,SUV
+29995,2016,ram 1500,good,gas,135005,automatic,4wd,truck
+29995,2015,ford f-150,x,gas,89320,automatic,4wd,pickup
+29995,2013,ford f-150,x,gas,135329,automatic,4wd,pickup
+29998,2014,mercedes-benz cls,x,gas,57406,automatic,rwd,sedan
+30000,2011,chevrolet camaro 2ss convertible,excellent,gas,18000,manual,x,convertible
+30000,1966,ford fairlane 500,good,gas,123456,automatic,rwd,sedan
+30490,2018,bmw 4 series,x,gas,24588,automatic,rwd,sedan
+30590,2020,ford ranger supercab xl pickup,good,gas,10740,other,x,pickup
+30590,2019,toyota tacoma double cab sr5,good,gas,9045,other,x,pickup
+30590,2018,dodge challenger gt coupe 2d,good,gas,24790,other,x,coupe
+30590,2018,infiniti qx60 3.5 sport utility,good,gas,47107,other,x,SUV
+30590,2017,audi a6 3.0t premium plus sedan,good,gas,24238,automatic,x,sedan
+30590,2017,infiniti q60 3.0t premium coupe,good,gas,34415,other,x,coupe
+30590,2017,acura mdx sh-awd sport utility,good,other,44651,other,x,other
+30590,2016,toyota tacoma double cab sr5,good,other,30176,other,x,pickup
+30900,2015,chevrolet silverado 1500,good,gas,114800,automatic,4wd,truck
+30950,2014,ford f-450 super duty,x,gas,166326,automatic,4wd,pickup
+30985,2017,ram pickup 1500,x,gas,56116,automatic,4wd,pickup
+30990,2020,gmc acadia slt sport utility 4d,good,gas,35200,other,x,SUV
+30990,2019,ford ranger supercrew xl pickup,good,other,1834,other,x,pickup
+30990,2019,mazda mx-5 miata grand touring,good,gas,4936,other,rwd,other
+30990,2019,ford ranger supercrew xl pickup,good,gas,5468,other,x,pickup
+30990,2018,mercedes-benz metris passenger,good,gas,7896,other,rwd,van
+30990,2018,ford f150 super cab xlt pickup,good,other,23029,other,x,pickup
+30990,2018,lexus nx 300h sport utility 4d,good,hybrid,27205,automatic,x,hatchback
+30990,2018,acura mdx technology pkg sport,good,other,29342,other,x,other
+30990,2018,lincoln mkx reserve sport,good,other,30417,automatic,x,SUV
+30990,2018,acura mdx sh-awd sport utility,good,gas,34605,other,x,SUV
+30990,2017,alfa-romeo romeo giulia sedan 4d,good,gas,19835,other,rwd,sedan
+30990,2017,lexus rx 350 sport utility 4d,good,other,27130,other,fwd,SUV
+30990,2017,nissan frontier crew cab pro-4x,good,gas,31095,other,4wd,pickup
+30990,2017,toyota tundra double cab sr,good,gas,41124,other,x,pickup
+30990,2017,jeep wrangler unlimited sport,good,gas,43039,other,4wd,SUV
+30990,2017,toyota 4runner sr5 sport utility,good,gas,53811,other,x,other
+30990,2016,chevrolet colorado crew cab z71,good,other,34940,other,4wd,pickup
+30990,2016,chevrolet silverado 1500 double,good,gas,58116,other,x,pickup
+30990,2015,toyota tacoma double cab,good,gas,34375,other,x,pickup
+30990,2014,ford f150 supercrew cab fx4,good,other,67344,other,4wd,pickup
+30990,2013,toyota tacoma double cab,good,gas,26474,other,x,pickup
+30995,2016,lexus rx 350,x,gas,41797,automatic,fwd,SUV
+30998,2015,ford f-150,x,gas,123624,automatic,4wd,pickup
+31000,2006,x hummer h2,excellent,gas,43000,automatic,4wd,SUV
+31495,2019,jeep grand cherokee,x,gas,38485,automatic,rwd,SUV
+31500,2019,gmc savana,like new,gas,24585,automatic,rwd,van
+31506,2016,chevrolet silverado 3500 hd,x,gas,81755,automatic,rwd,truck
+31590,2020,mazda mx-5 miata club,good,gas,2195,other,rwd,other
+31590,2019,cadillac xt4 sport suv 4d,good,other,12102,other,fwd,hatchback
+31590,2018,bmw 3 series 340i xdrive sedan,good,gas,39421,automatic,x,sedan
+31590,2018,toyota 4runner sr5 sport utility,good,gas,62496,other,x,other
+31590,2017,lexus rx 350 sport utility 4d,good,gas,28185,other,fwd,SUV
+31590,2017,jeep wrangler unlimited sport,good,gas,30577,other,4wd,other
+31590,2017,jeep wrangler unlimited sport,good,gas,35391,other,4wd,SUV
+31590,2015,jeep wrangler unlimited sahara,good,gas,58118,other,4wd,SUV
+31590,2013,ford f150 supercrew cab fx4,good,other,68089,other,4wd,pickup
+31590,2012,dodge challenger srt8 392 coupe,good,gas,26461,other,rwd,coupe
+31690,2016,ford f-150,x,gas,86296,automatic,4wd,pickup
+31788,2015,ford f-150,x,gas,78041,automatic,rwd,pickup
+31820,2015,ford mustang,x,gas,44750,automatic,rwd,coupe
+31888,2015,gmc 1500 yukon slt,good,gas,109947,automatic,rwd,SUV
+31890,2017,lexus rc,x,gas,73372,automatic,rwd,coupe
+31900,2019,ford transit,like new,gas,29497,automatic,rwd,van
+31900,2019,ford transit 250,excellent,gas,29497,automatic,rwd,van
+31978,2019,ford f-150,x,gas,101256,automatic,4wd,pickup
+31989,2016,jeep wrangler unlimited,x,gas,67119,automatic,4wd,SUV
+31990,2020,mazda mx-5 miata grand touring,good,gas,2408,other,rwd,other
+31990,2020,hyundai santa fe 2.4 limited,good,gas,10064,other,fwd,SUV
+31990,2020,volvo s60 t5 momentum sedan 4d,good,gas,16594,other,fwd,sedan
+31990,2019,acura rdx sport utility 4d,good,gas,16370,other,fwd,SUV
+31990,2018,audi q5 premium sport utility 4d,good,gas,13781,other,x,SUV
+31990,2018,audi q5 premium sport utility 4d,good,gas,17105,other,x,SUV
+31990,2018,audi q5 premium sport utility 4d,good,gas,19179,other,x,other
+31990,2018,ram 1500 quad cab harvest pickup,good,gas,27426,other,4wd,pickup
+31990,2017,jeep wrangler sport s utility 2d,good,gas,891,other,4wd,other
+31990,2017,bmw 3 series 340i sedan 4d,good,gas,19366,automatic,rwd,sedan
+31990,2017,infiniti q60 3.0t premium coupe,good,other,26646,other,x,coupe
+31990,2017,gmc sierra 1500 double cab,good,gas,31496,automatic,4wd,pickup
+31990,2017,ram 1500 crew cab big horn,good,gas,35921,other,x,pickup
+31990,2016,chevrolet silverado 1500,x,x,107597,automatic,4wd,pickup
+31990,2014,gmc yukon xl 1500 denali sport,good,other,57899,other,x,SUV
+31990,2013,toyota tundra double cab pickup,good,gas,55068,other,4wd,pickup
+31990,2013,ford super duty f-250 srw,good,gas,101335,automatic,4wd,truck
+31990,2006,ford super duty f-550 drw,good,diesel,59429,automatic,4wd,truck
+31995,2017,lexus rx 350,excellent,gas,32715,automatic,4wd,SUV
+31995,2016,chevrolet silverado 1500 lt crew cab long box 4wd,x,gas,94526,automatic,4wd,pickup
+31995,2014,chevrolet silverado 1500 2lt crew cab long box 4wd,x,x,66738,automatic,4wd,pickup
+31995,2013,chevrolet silverado,x,diesel,63481,automatic,4wd,pickup
+32000,2013,gmc sierra denali,excellent,gas,95000,manual,4wd,truck
+32000,2008,chevrolet silverado 2500,good,diesel,109600,automatic,4wd,truck
+32478,2016,jeep wrangler unlimited,x,gas,61856,manual,4wd,SUV
+32490,2019,ford ranger,x,gas,20652,automatic,rwd,pickup
+32500,2019,ford f-150,like new,gas,7700,automatic,rwd,truck
+32500,2018,ford f-150,like new,gas,47000,automatic,rwd,truck
+32500,2014,chevrolet ss sedan,good,gas,80000,automatic,rwd,sedan
+32570,2018,jeep grand cherokee,x,gas,40794,automatic,4wd,SUV
+32590,2020,x genesis g70 2.0t sedan 4d,good,other,4171,other,x,sedan
+32590,2020,cadillac xt4 sport suv 4d,good,gas,14913,other,x,hatchback
+32590,2018,alfa-romeo romeo stelvio sport suv 4d,good,other,14863,other,x,hatchback
+32590,2018,bmw x3 xdrive30i sport utility,good,gas,28118,automatic,x,other
+32590,2017,lexus rx 350 sport utility 4d,good,gas,20425,other,fwd,SUV
+32590,2017,lexus rx 350 sport utility 4d,good,other,23572,other,fwd,SUV
+32590,2016,subaru wrx sti sedan 4d,good,other,21195,other,x,sedan
+32590,2015,mercedes-benz gla-class gla 45,good,gas,34811,other,x,other
+32590,2014,chevrolet silverado 2500 hd crew,good,other,98015,other,4wd,pickup
+32590,2013,lexus ls 460 sedan 4d,good,gas,30384,other,rwd,sedan
+32590,2013,lexus ls 460 l sedan 4d,good,gas,60271,automatic,x,sedan
+32591,2015,ford f-150,x,gas,84215,automatic,rwd,pickup
+32595,2017,toyota tacoma,x,gas,69355,automatic,4wd,pickup
+32650,2017,ford f-150,x,gas,61941,automatic,rwd,pickup
+32699,2014,toyota tundra,x,other,132655,automatic,4wd,pickup
+32700,2019,ford transit,like new,gas,13646,automatic,rwd,van
+32740,2015,chevrolet silverado 1500,x,gas,52832,automatic,4wd,pickup
+32800,2018,ford transit,excellent,gas,43479,automatic,rwd,van
+32900,2019,ford transit,like new,gas,6735,automatic,rwd,van
+32900,2015,gmc sierra,x,other,96029,automatic,4wd,pickup
+32900,2015,gmc yukon xl,x,other,100628,automatic,rwd,SUV
+32952,2019,ford f-150,x,gas,48335,automatic,rwd,pickup
+32990,2020,jeep wrangler sport suv 2d,good,gas,20205,other,4wd,SUV
+32990,2020,jeep wrangler sport suv 2d,good,gas,20581,other,4wd,SUV
+32990,2019,jeep wrangler sport suv 2d,good,other,1423,other,4wd,SUV
+32990,2019,dodge challenger r/t coupe 2d,good,gas,2676,other,rwd,coupe
+32990,2019,chevrolet silverado 1500 ld,good,other,6897,other,x,pickup
+32990,2018,ford f150 super cab xlt pickup,good,other,11360,other,x,pickup
+32990,2018,ford f150 super cab xlt pickup,good,gas,20558,other,x,pickup
+32990,2018,toyota highlander xle sport,good,gas,23971,other,x,other
+32990,2018,jaguar e-pace p250 s sport,good,other,26685,other,x,other
+32990,2018,ram 1500 quad cab harvest pickup,good,gas,29979,other,4wd,pickup
+32990,2018,jeep wrangler sahara (jk) sport,good,gas,30533,other,4wd,SUV
+32990,2018,acura mdx sh-awd w/technology,good,gas,31967,other,x,SUV
+32990,2018,acura mdx sh-awd w/technology,good,gas,31967,other,x,other
+32990,2017,ram 1500 crew cab big horn,good,other,10193,other,4wd,pickup
+32990,2017,jeep wrangler unlimited sahara,good,gas,24674,other,4wd,other
+32990,2017,acura mdx sh-awd sport utility,good,gas,29322,other,x,SUV
+32990,2017,jeep wrangler unlimited sport,good,gas,30041,other,4wd,other
+32990,2015,chevrolet camaro ss coupe 2d,good,gas,11531,other,rwd,coupe
+32990,2013,tesla model s signature,good,electric,62588,other,rwd,sedan
+32990,2013,tesla model s,x,electric,69961,automatic,rwd,sedan
+32990,2011,bmw z4 sdrive35is roadster 2d,good,other,45858,other,rwd,other
+32992,2018,honda pilot,x,gas,37139,automatic,4wd,SUV
+32995,2018,chevrolet silverado 1500 ls crew cab long box 4wd,x,x,82233,automatic,4wd,pickup
+32995,2017,toyota tundra,x,gas,158529,automatic,4wd,pickup
+32997,2018,lexus es,excellent,gas,21300,automatic,fwd,sedan
+32997,2008,x hummer h2,excellent,gas,143504,automatic,4wd,SUV
+33245,2016,ford f-150,x,gas,98421,automatic,4wd,pickup
+33250,2019,toyota 4runner,x,gas,41457,automatic,rwd,SUV
+33490,2017,chevrolet suburban,x,gas,106113,automatic,4wd,SUV
+33590,2020,acura rdx sport utility 4d,good,gas,13623,other,fwd,SUV
+33590,2020,chevrolet silverado 1500 double,good,other,15591,other,4wd,pickup
+33590,2020,chevrolet silverado 1500 double,good,gas,30457,other,x,pickup
+33590,2019,volvo s60 t6 r-design sedan 4d,good,gas,10742,other,x,sedan
+33590,2019,alfa-romeo romeo giulia ti sedan 4d,good,gas,12442,other,x,sedan
+33590,2017,cadillac xt5 platinum sport,good,gas,28891,other,x,other
+33590,2017,jeep wrangler unlimited sport,good,gas,37919,other,4wd,SUV
+33590,2017,ram 1500 crew cab laramie pickup,good,other,45464,other,x,pickup
+33590,2015,mercedes-benz e-class e 400,good,gas,23623,other,rwd,convertible
+33590,2014,toyota tundra crewmax sr5 pickup,good,other,55251,other,x,pickup
+33590,2014,gmc sierra 1500 crew cab slt,good,gas,57923,other,x,pickup
+33590,2013,lexus ls 460 sedan 4d,good,gas,33570,other,rwd,sedan
+33900,2019,gmc savana,like new,gas,24585,automatic,rwd,van
+33950,2011,ford f-250 super duty lariat cre,x,other,171524,automatic,4wd,pickup
+33952,2019,ford f-150,x,gas,32725,automatic,rwd,pickup
+33988,2006,x international 4300 bucket truck,excellent,diesel,100729,automatic,rwd,truck
+33989,2017,bmw x5,x,gas,47585,automatic,x,SUV
+33989,2016,jeep wrangler unlimited,x,gas,71490,automatic,4wd,SUV
+33990,2020,alfa-romeo romeo giulia sedan 4d,good,gas,9711,other,rwd,sedan
+33990,2020,jeep wrangler sport suv 2d,good,gas,9859,other,4wd,other
+33990,2020,infiniti qx50 luxe sport utility,good,other,19042,other,x,hatchback
+33990,2019,acura rdx sh-awd sport utility,good,gas,11902,other,x,SUV
+33990,2018,ford f150 super cab xl pickup 4d,good,other,13670,other,x,pickup
+33990,2018,ford mustang gt coupe 2d,good,gas,23720,other,rwd,coupe
+33990,2018,alfa-romeo romeo stelvio ti sport suv,good,gas,23753,other,x,hatchback
+33990,2018,gmc sierra 1500 double cab sle,good,gas,24299,other,4wd,pickup
+33990,2018,infiniti q60 3.0t luxe coupe 2d,good,other,24679,other,x,coupe
+33990,2018,ford f150 super cab lariat,good,other,26732,other,4wd,pickup
+33990,2018,jeep wrangler unlimited willys,good,gas,34636,other,4wd,other
+33990,2017,ford mustang gt coupe 2d,good,gas,9788,other,rwd,coupe
+33990,2017,ram 1500 crew cab tradesman,good,gas,17033,other,4wd,pickup
+33990,2017,jeep wrangler unlimited sahara,good,other,34152,other,4wd,SUV
+33990,2016,chevrolet express commercial cutaway,good,gas,12398,automatic,rwd,truck
+33990,2016,gmc sierra 1500 double cab sle,good,gas,33408,other,4wd,pickup
+33990,2016,chevrolet silverado 1500,x,x,117895,automatic,4wd,pickup
+33990,2014,ford super duty f-550 drw,good,diesel,136250,automatic,4wd,truck
+33990,2013,gmc sierra 1500 crew cab slt,good,other,34413,other,4wd,pickup
+33990,2012,ford super duty f-250 srw,good,diesel,49678,automatic,4wd,truck
+33990,2011,chevrolet corvette grand sport,good,gas,70976,other,rwd,other
+33990,2007,chevrolet cc4500,good,gas,77581,automatic,rwd,truck
+33990,2007,x hino 268,good,diesel,161693,automatic,rwd,truck
+33995,2017,ram pickup 1500,x,gas,83628,automatic,4wd,pickup
+34500,2019,ford transit,like new,gas,7646,automatic,rwd,van
+34500,2019,toyota highlander,excellent,gas,37800,automatic,fwd,SUV
+34590,2020,infiniti qx50 luxe sport utility,good,other,3542,other,fwd,hatchback
+34590,2020,cadillac xt4 sport suv 4d,good,gas,9624,other,x,hatchback
+34590,2020,mercedes-benz c-class c 300,good,gas,17061,other,rwd,sedan
+34590,2019,acura mdx sh-awd sport utility,good,other,27387,other,x,SUV
+34590,2018,ford f150 super cab xl pickup 4d,good,gas,20856,other,x,pickup
+34590,2017,toyota tacoma access cab trd,good,gas,20097,other,4wd,pickup
+34590,2016,chevrolet silverado 1500 double,good,gas,29499,other,4wd,pickup
+34590,2015,ford mustang gt premium,good,gas,30970,other,rwd,other
+34590,2015,gmc sierra 1500 crew cab sle,good,gas,35423,automatic,4wd,pickup
+34800,2019,ford transit,like new,gas,31020,automatic,rwd,van
+34800,2019,ford transit,excellent,gas,31020,automatic,rwd,van
+34895,2019,ram pickup 1500 classic,x,gas,62339,automatic,4wd,pickup
+34900,2020,nissan pathfinder,excellent,gas,15400,automatic,rwd,SUV
+34900,2019,dodge grand caravan handicap wheelchair rear entry,x,x,22194,automatic,fwd,other
+34900,2016,gmc sierra,x,other,80265,automatic,4wd,pickup
+34900,2015,cadillac escalade,x,other,107291,automatic,4wd,SUV
+34900,2013,ford f-150,x,other,130818,automatic,4wd,pickup
+34900,2013,ford f-350,x,diesel,195857,automatic,4wd,pickup
+34950,2016,nissan titan xd cummins platinum,x,diesel,158159,automatic,4wd,pickup
+34985,2018,audi q5,x,gas,51256,automatic,4wd,SUV
+34990,2020,jeep wrangler sport s utility 2d,good,other,131,other,4wd,other
+34990,2020,lexus nx 300 sport utility 4d,good,gas,1722,other,fwd,hatchback
+34990,2020,cadillac xt4 sport suv 4d,good,diesel,4174,other,x,hatchback
+34990,2020,lexus nx 300 sport utility 4d,good,gas,12161,other,fwd,hatchback
+34990,2020,ford f150 super cab xlt pickup,good,gas,12562,other,x,pickup
+34990,2019,infiniti q70 3.7 luxe sedan 4d,good,other,16505,other,x,sedan
+34990,2018,ford mustang gt premium,good,gas,18650,other,rwd,other
+34990,2018,ram 1500 crew cab slt pickup 4d,good,gas,20894,other,4wd,pickup
+34990,2018,ram 1500 quad cab big horn,good,other,22064,other,4wd,pickup
+34990,2018,jeep grand cherokee trailhawk,good,gas,37509,other,4wd,other
+34990,2017,chevrolet silverado 1500 crew,good,other,30559,other,4wd,pickup
+34990,2017,gmc sierra 1500 double cab sle,good,gas,31728,other,4wd,pickup
+34990,2017,ram 2500,good,gas,135740,automatic,4wd,truck
+34990,2001,ford super duty f-350 drw,good,diesel,70200,automatic,4wd,truck
+34995,2018,toyota highlander,x,gas,22025,automatic,4wd,SUV
+34997,2016,ford super duty f-250 srw,excellent,gas,122000,automatic,4wd,pickup
+34999,2019,ford mustang,x,gas,16265,manual,rwd,coupe
+35000,2019,toyota tacoma,excellent,gas,43000,automatic,4wd,truck
+35000,1978,toyota land cruiser,good,gas,1000000,manual,4wd,SUV
+35000,1966,ford mustang,excellent,gas,100000,manual,rwd,convertible
+35000,1953,ford f-100,excellent,gas,54000,manual,rwd,truck
+35400,2013,ford f-350,x,diesel,195857,automatic,4wd,pickup
+35500,2019,chevrolet silverado 4x4,like new,gas,7189,automatic,4wd,truck
+35500,1966,chevrolet impala,excellent,gas,9560,automatic,rwd,coupe
+35590,2020,lincoln corsair sport utility 4d,good,gas,1454,other,fwd,other
+35590,2019,ram 1500 crew cab big horn,good,gas,68032,other,4wd,pickup
+35590,2018,infiniti q60 3.0t sport coupe 2d,good,gas,12113,other,rwd,coupe
+35590,2018,ram 1500 crew cab big horn,good,other,22805,other,4wd,pickup
+35590,2017,ford f150 supercrew cab xlt,good,gas,36536,other,x,pickup
+35590,2017,lincoln navigator l select sport,good,gas,76216,automatic,4wd,SUV
+35590,2016,lexus ls 460 sedan 4d,good,gas,56295,other,x,sedan
+35590,2015,dodge challenger srt 392 coupe,good,gas,40626,other,rwd,coupe
+35590,2011,dodge challenger srt8 coupe 2d,good,gas,16796,other,rwd,coupe
+35590,2010,chevrolet corvette convertible,good,gas,31879,other,rwd,other
+35897,2016,gmc sierra 1500,x,gas,81139,other,4wd,truck
+35900,2020,ram 1500 big horn,good,gas,21028,automatic,rwd,pickup
+35900,2017,chevrolet silverado,x,other,69988,automatic,4wd,pickup
+35900,2015,jeep wrangler unlimited,good,gas,55475,automatic,4wd,SUV
+35900,2014,rover ,x,gas,94780,automatic,x,SUV
+35990,2020,infiniti q60 3.0t pure coupe 2d,good,gas,8677,other,rwd,coupe
+35990,2020,volvo s60 t6 inscription sedan,good,other,11878,other,x,sedan
+35990,2020,chevrolet silverado 1500 double,good,gas,28338,other,4wd,pickup
+35990,2020,toyota 4runner sr5 sport utility,good,gas,33556,other,4wd,SUV
+35990,2019,volvo s60 t6 r-design sedan 4d,good,other,15567,other,x,sedan
+35990,2019,bmw 5 series 530e xdrive,good,gas,19260,other,x,sedan
+35990,2018,mercedes-benz e-class e 300,good,gas,8211,automatic,rwd,sedan
+35990,2018,jaguar e-pace p250 se sport,good,gas,8490,other,x,other
+35990,2018,ford f150 super cab xlt pickup,good,gas,22812,other,x,pickup
+35990,2018,toyota 4runner sr5 sport utility,good,gas,29245,other,x,other
+35990,2017,mitsubishi fuso fe160,good,diesel,45925,automatic,rwd,truck
+35990,2016,dodge challenger r/t scat pack,good,other,18955,other,rwd,coupe
+35990,2016,ford f-150,x,gas,57838,automatic,4wd,pickup
+35990,2015,ford mustang gt premium coupe 2d,good,gas,4899,other,rwd,coupe
+35990,2014,ford super duty f-450 drw,good,gas,42213,automatic,4wd,truck
+35995,2017,chevrolet silverado 1500,good,gas,69815,automatic,rwd,truck
+36000,1936,ford slantback,excellent,gas,3200,automatic,rwd,sedan
+36400,2017,chevrolet silverado,x,other,69988,automatic,4wd,pickup
+36490,2018,ford e-series cutaway,good,gas,16535,automatic,rwd,truck
+36500,2001,x sterling l,excellent,diesel,215000,manual,rwd,truck
+36590,2020,gmc sierra 1500 double cab,good,gas,3592,other,4wd,pickup
+36590,2020,volvo s60 t6 r-design sedan 4d,good,gas,18506,other,x,sedan
+36590,2020,gmc acadia denali sport utility,good,gas,33026,other,x,SUV
+36590,2019,volvo s60 t6 r-design sedan 4d,good,gas,7618,other,x,sedan
+36590,2019,chevrolet silverado 1500 crew,good,gas,7619,other,x,pickup
+36590,2019,gmc sierra 1500 limited double,good,gas,14222,other,4wd,pickup
+36590,2019,infiniti q60 3.0t luxe coupe 2d,good,other,18605,other,x,coupe
+36590,2019,x genesis g70 3.3t dynamic edition,good,other,33278,other,rwd,sedan
+36590,2019,toyota 4runner sr5 sport utility,good,other,35204,other,4wd,SUV
+36590,2018,jaguar e-pace p300 r-dynamic s,good,other,5837,other,x,SUV
+36590,2018,jeep wrangler unlimited all new,good,diesel,15813,other,4wd,other
+36590,2018,acura mdx advance and,good,other,19139,automatic,fwd,SUV
+36590,2018,audi q5 prestige sport utility,good,gas,32409,other,x,SUV
+36590,2017,chevrolet camaro ss coupe 2d,good,gas,14020,other,rwd,coupe
+36590,2017,chevrolet tahoe lt sport utility,good,other,60476,other,x,SUV
+36700,2019,ford transit 250,excellent,gas,14985,automatic,rwd,van
+36950,2016,chevrolet silverado 3500hd cc,x,diesel,113203,automatic,4wd,other
+36990,2020,dodge challenger r/t coupe 2d,good,other,4269,other,rwd,coupe
+36990,2020,nissan frontier crew cab pro-4x,good,gas,4282,other,4wd,pickup
+36990,2019,volvo s60 t6 inscription sedan,good,gas,8141,other,x,sedan
+36990,2018,jeep wrangler unlimited all new,good,other,5933,other,4wd,other
+36990,2018,ford f150 supercrew cab xlt,good,gas,10170,other,x,pickup
+36990,2018,toyota 4runner sr5 sport utility,good,gas,21415,other,4wd,other
+36990,2018,gmc sierra 1500 double cab sle,good,gas,23424,other,4wd,pickup
+36990,2017,ford f150 supercrew cab xlt,good,other,15443,automatic,4wd,pickup
+36990,2017,infiniti q60 red sport 400 coupe,good,gas,16080,other,x,coupe
+36990,2017,bmw x5 xdrive35d sport utility,good,gas,28244,automatic,x,SUV
+36990,2016,gmc sierra 2500 hd double cab,good,gas,23190,other,4wd,pickup
+36990,2015,chevrolet tahoe lt sport utility,good,other,51677,other,x,other
+36995,2015,chevrolet tahoe,good,gas,97917,automatic,rwd,SUV
+37500,2020,infiniti qx 50 luxe,like new,gas,4230,manual,fwd,SUV
+37500,1967,x 1967 chevelle,excellent,gas,26000,automatic,rwd,coupe
+37590,2020,dodge challenger r/t coupe 2d,good,gas,1937,other,rwd,coupe
+37590,2019,ford f150 supercrew cab xl,good,gas,8663,other,x,pickup
+37590,2019,toyota 4runner sr5 sport utility,good,gas,11863,other,4wd,SUV
+37590,2019,acura mdx advance pkg sport,good,other,30356,other,x,other
+37590,2015,toyota tundra crewmax 1794,good,diesel,62718,automatic,x,pickup
+37900,2020,chevrolet silverado 1500,like new,gas,5622,automatic,rwd,truck
+37990,2019,ford mustang gt coupe 2d,good,gas,337,other,rwd,coupe
+37990,2018,tesla model 3 mid range sedan 4d,good,electric,25934,other,rwd,sedan
+37990,2016,chevrolet camaro ss coupe 2d,good,gas,9704,other,rwd,coupe
+37990,2016,dodge challenger r/t scat pack,good,gas,12193,other,rwd,coupe
+37990,2016,toyota tundra double cab sr,good,gas,22870,other,4wd,pickup
+37990,2010,chevrolet corvette grand sport,good,other,56302,other,rwd,other
+38000,2020,chevrolet colorado crew cab lt,like new,diesel,8932,automatic,rwd,pickup
+38300,2020,ford transit,like new,gas,7540,automatic,rwd,van
+38590,2020,jaguar e-pace p250 sport utility,good,other,1372,other,x,SUV
+38590,2020,lincoln continental sedan 4d,good,gas,1772,other,fwd,sedan
+38590,2020,lincoln corsair sport utility 4d,good,gas,6330,other,x,other
+38590,2019,volvo s60 t8 r-design sedan 4d,good,gas,14054,automatic,x,sedan
+38590,2019,acura mdx sh-awd w/technology,good,other,14906,other,x,other
+38590,2019,ford mustang gt coupe 2d,good,other,17057,other,rwd,coupe
+38590,2019,acura rdx sh-awd a-spec pkg,good,gas,28086,other,x,other
+38590,2015,ford f150 supercrew cab lariat,good,other,41804,other,4wd,pickup
+38590,2014,mercedes-benz c-class c 63 amg,good,gas,39558,automatic,rwd,coupe
+38590,2011,chevrolet corvette grand sport,good,gas,30237,other,rwd,other
+38634,2016,gmc yukon,x,gas,85662,automatic,rwd,SUV
+38900,2015,ford f-250,x,diesel,175711,automatic,4wd,pickup
+38990,2020,lincoln continental sedan 4d,good,gas,1772,other,fwd,sedan
+38990,2020,acura mdx sport utility 4d,good,other,2512,other,fwd,SUV
+38990,2020,infiniti qx60 luxe sport utility,good,gas,5279,other,fwd,other
+38990,2020,ford f150 supercrew cab xlt,good,gas,12231,other,x,pickup
+38990,2020,acura rdx advance pkg sport,good,gas,14028,other,fwd,SUV
+38990,2020,audi q5 45 tfsi premium plus,good,gas,19067,other,x,SUV
+38990,2019,toyota tundra crewmax sr5 pickup,good,gas,15520,other,x,pickup
+38990,2017,jeep wrangler unlimited rubicon,good,gas,20676,other,4wd,other
+38990,2016,mitsubishi fuso fe180,good,diesel,33474,automatic,rwd,truck
+38990,2013,chevrolet express commercial cutaway,good,gas,134000,automatic,rwd,truck
+38998,2017,nissan titan xd,excellent,diesel,72000,automatic,4wd,truck
+39500,2019,honda passport elite,like new,gas,9069,automatic,4wd,SUV
+39500,2015,ford f350 super duty kingranch,like new,diesel,265835,automatic,4wd,truck
+39500,2008,ford f-650,like new,diesel,13158,manual,rwd,truck
+39588,2009,x freightliner m2,excellent,diesel,217812,automatic,rwd,truck
+39590,2020,ford mustang gt coupe 2d,good,gas,728,other,rwd,coupe
+39590,2020,ford mustang gt premium coupe 2d,good,gas,1419,other,rwd,coupe
+39590,2020,ford mustang gt coupe 2d,good,gas,1988,other,rwd,coupe
+39590,2020,toyota 4runner sr5 sport utility,good,gas,3110,other,4wd,SUV
+39590,2020,bmw x3 sdrive30i sport utility,good,other,8396,other,rwd,SUV
+39590,2020,chevrolet silverado 1500 crew,good,gas,19160,other,x,pickup
+39590,2019,acura mdx sh-awd w/technology,good,gas,8919,other,x,other
+39590,2019,chevrolet silverado 1500 crew,good,gas,21014,other,4wd,pickup
+39590,2019,ram 1500 crew cab big horn,good,gas,22154,other,4wd,pickup
+39590,2018,jeep wrangler unlimited all new,good,gas,21893,other,4wd,SUV
+39590,2018,bmw x5 xdrive35d sport utility,good,other,31904,automatic,x,SUV
+39590,2018,toyota 4runner limited sport,good,gas,34199,other,4wd,other
+39590,2017,chevrolet camaro ss coupe 2d,good,gas,10496,other,rwd,coupe
+39590,2017,bmw x5 xdrive35d sport utility,good,other,29355,other,x,other
+39888,2019,honda civic type r,like new,gas,9528,manual,x,hatchback
+39950,2020,jeep wrangler,like new,gas,2600,automatic,4wd,SUV
+39950,2015,x international 4300,x,diesel,118964,other,x,other
+39950,2013,x freightliner m2 106,excellent,diesel,223131,automatic,rwd,truck
+39989,2016,ram 2500,x,gas,67277,automatic,4wd,pickup
+39990,2020,acura mdx sh-awd sport utility,good,gas,1237,other,x,other
+39990,2020,infiniti qx60 luxe sport utility,good,gas,6500,automatic,x,other
+39990,2020,lincoln corsair reserve sport,good,gas,7469,other,fwd,other
+39990,2019,nissan 370z nismo coupe 2d,good,gas,8373,other,rwd,coupe
+39990,2019,x genesis g70 3.3t advanced sedan,good,other,11717,other,rwd,sedan
+39990,2019,jaguar e-pace p300 r-dynamic se,good,other,17961,other,x,SUV
+39990,2019,ram 1500 crew cab big horn,good,gas,19381,other,4wd,pickup
+39990,2018,toyota 4runner trd pro 4x4,like new,gas,44000,automatic,4wd,SUV
+39990,2017,ford f-650 sd,good,gas,68655,automatic,rwd,truck
+39990,2016,x blue bird all american,good,diesel,65368,automatic,rwd,bus
+39990,2009,x freightliner m-line walk-in van,good,diesel,35429,automatic,rwd,truck
+39995,1999,dodge viper rt 10 removable top,x,gas,15897,manual,rwd,convertible
+40000,2017,ford f-150,like new,gas,44000,automatic,rwd,truck
+40000,2017,chevrolet tahoe,like new,gas,68000,automatic,rwd,SUV
+40000,1990,x chevelot,excellent,gas,29260,automatic,x,pickup
+40590,2020,chevrolet silverado 1500 crew,good,other,357,other,x,pickup
+40590,2020,bmw 3 series 330i xdrive sedan,good,gas,1588,other,x,sedan
+40590,2020,chevrolet silverado 1500 double,good,gas,19910,other,4wd,pickup
+40590,2019,ford f250 super duty regular cab,good,other,9313,other,4wd,pickup
+40590,2019,ram 1500 crew cab big horn,good,gas,16931,other,4wd,pickup
+40590,2018,lexus rx 350l sport utility 4d,good,gas,9173,other,x,other
+40590,2018,jeep wrangler unlimited all new,good,gas,22092,other,4wd,SUV
+40888,2020,jeep gladiator,like new,gas,27955,automatic,4wd,SUV
+40900,2021,toyota tacoma 4wd,good,gas,1582,automatic,4wd,truck
+40988,2020,jeep gladiator,like new,gas,27955,automatic,4wd,SUV
+40990,2020,bmw 5 series 530i sedan 4d,good,gas,16929,other,rwd,sedan
+40990,2019,ford f150 supercrew cab xlt,good,gas,13564,other,4wd,pickup
+40990,2018,lexus rx 350l sport utility 4d,good,other,13742,other,x,SUV
+40990,2018,toyota tundra crewmax sr5 pickup,good,gas,25331,other,x,pickup
+40990,2017,jeep wrangler unlimited rubicon,good,other,30092,other,4wd,other
+40990,2017,lincoln navigator l select sport,good,other,31843,automatic,4wd,SUV
+41000,2019,mini t camper van,excellent,gas,29288,automatic,fwd,van
+41590,2020,bmw 5 series 530i sedan 4d,good,gas,16929,other,rwd,sedan
+41590,2020,acura mdx sh-awd w/technology,good,gas,20003,other,x,SUV
+41590,2020,audi a6 45 tfsi premium plus,good,gas,27160,other,x,sedan
+41590,2020,buick enclave avenir sport,good,gas,29010,other,fwd,SUV
+41990,2020,infiniti qx60 luxe sport utility,good,gas,7544,other,x,other
+41990,2020,chevrolet silverado 1500 double,good,gas,12880,automatic,4wd,pickup
+41990,2019,chevrolet silverado 1500 double,good,gas,10079,other,4wd,pickup
+41990,2019,toyota 4runner limited,good,gas,32326,other,x,SUV
+41990,2018,bmw x5 xdrive50i sport utility,good,gas,42896,automatic,x,other
+41995,2017,ford f-350 superduty dually 4x4,x,other,280463,automatic,4wd,pickup
+42590,2020,jaguar e-pace p250 se sport,good,other,7764,other,x,other
+42590,2017,lincoln navigator l reserve,good,gas,62776,other,4wd,SUV
+42990,2020,acura mdx technology pkg sport,good,other,3207,other,fwd,other
+43500,2020,ford f150 xlt,new,gas,13500,automatic,rwd,pickup
+43590,2020,acura mdx sh-awd w/technology,good,gas,12012,other,x,other
+43590,2017,lincoln navigator l select sport,good,gas,28475,automatic,4wd,other
+43590,2016,audi s7 sedan 4d,good,gas,52366,other,x,sedan
+43897,2016,gmc yukon xl,x,gas,83978,other,4wd,SUV
+43990,2020,acura mdx sh-awd w/technology,good,gas,1944,other,x,SUV
+43990,2020,jaguar e-pace p250 se sport,good,gas,8157,other,x,other
+43990,2020,ford f150 supercrew cab lariat,good,other,31609,other,x,pickup
+43990,2019,jeep wrangler unlimited sahara,good,gas,4362,other,4wd,SUV
+44590,2019,infiniti q60 red sport 400 coupe,good,gas,7396,other,x,coupe
+44950,2015,ford f-450 crew cab dump truck 6,x,gas,23505,other,x,other
+44977,2017,gmc yukon xl,x,x,55102,automatic,4wd,SUV
+44990,2015,ram 5500,good,diesel,80733,automatic,4wd,truck
+44990,2012,ford super duty f-550 drw,good,diesel,52307,automatic,4wd,truck
+45000,2017,chevrolet silverado,excellent,gas,92000,automatic,4wd,truck
+45000,2007,chevrolet corvette,like new,gas,18000,manual,rwd,convertible
+45000,2004,x hummer h2,like new,gas,48000,automatic,4wd,SUV
+45300,2018,ram 3500 big horn,excellent,diesel,34125,automatic,4wd,truck
+45500,1955,chevrolet belair,excellent,gas,15000,automatic,rwd,coupe
+45590,2020,acura mdx advance pkg sport,good,gas,3687,other,fwd,SUV
+45590,2020,acura mdx sh-awd w/advance pkg,good,gas,21711,other,x,other
+45900,2017,x maserati levante,x,gas,36083,automatic,x,SUV
+45950,2014,gmc sierra 2500hd denali,excellent,diesel,154289,automatic,4wd,truck
+45989,2017,cadillac ats-v sedan,x,gas,26886,automatic,rwd,sedan
+45990,2018,mercedes-benz e-class e 400,good,other,29520,other,x,coupe
+46194,2020,ram 1500,x,gas,9814,automatic,4wd,truck
+46875,2015,chevrolet corvette,x,gas,29337,manual,x,coupe
+46990,2020,ford f150 supercrew cab lariat,good,gas,13935,other,4wd,pickup
+46990,2020,gmc yukon slt sport utility 4d,good,gas,28552,other,x,other
+46990,2016,ram 4500,good,diesel,17619,automatic,rwd,truck
+46990,2014,chevrolet corvette stingray,good,gas,16966,other,rwd,other
+47590,2020,gmc yukon slt sport utility 4d,good,gas,26215,other,x,SUV
+47990,2020,gmc yukon slt sport utility 4d,good,gas,29827,other,x,SUV
+47990,2014,ford super duty f-550 drw,good,diesel,39253,automatic,4wd,truck
+47997,2018,lexus gx,excellent,gas,50144,automatic,4wd,SUV
+47999,2013,ford super duty f-250 srw,excellent,diesel,37088,automatic,4wd,pickup
+48000,2002,mercedes-benz g500 g-wagon,excellent,gas,131054,automatic,4wd,SUV
+48200,2018,chevrolet silverado,excellent,gas,33467,automatic,4wd,pickup
+48900,2018,chevrolet silverado 2500 hd ltz,like new,diesel,43034,automatic,4wd,truck
+48990,2019,nissan armada,good,gas,21412,automatic,rwd,SUV
+49500,2018,bmw x6 xdrive50i,excellent,gas,52000,automatic,4wd,coupe
+49590,2020,mercedes-benz e-class e 350,good,other,4616,other,x,sedan
+49590,2020,ford f250 super duty crew cab xl,good,other,6033,other,4wd,pickup
+49897,2021,toyota tundra,x,gas,15965,other,4wd,truck
+49900,2019,lexus rx 450h,new,hybrid,1900,automatic,4wd,SUV
+49900,2019,lexus rx 450h,excellent,hybrid,1900,automatic,4wd,SUV
+49900,1936,chevrolet ,excellent,gas,1000,automatic,rwd,coupe
+49975,1937,ford ,excellent,gas,13025,automatic,rwd,coupe
+49990,2020,cadillac xt5 sport suv 4d,good,gas,4322,other,x,SUV
+49990,2020,cadillac xt5 sport suv 4d,good,gas,4322,other,x,other
+49990,2020,gmc yukon slt sport utility 4d,good,other,31166,other,4wd,SUV
+49990,2018,bmw x5 xdrive50i sport utility,good,gas,17083,automatic,x,other
+49990,2015,ford super duty f-550 drw,good,gas,41631,automatic,4wd,truck
+49990,2015,ford super duty f-550 drw,good,diesel,152701,automatic,4wd,truck
+49990,2013,ford super duty f-550 drw,good,diesel,98689,automatic,4wd,truck
+50000,2019,toyota tundra,like new,gas,20010,automatic,4wd,truck
+50990,2017,mercedes-benz s-class,x,gas,68643,automatic,x,sedan
+51990,2020,gmc yukon slt sport utility 4d,good,other,33829,other,4wd,SUV
+51990,2018,cadillac escalade esv premium,good,other,72367,automatic,4wd,SUV
+51990,2013,ram 5500,good,diesel,129633,other,rwd,truck
+52590,2020,mercedes-benz e-class e 350,good,other,13573,other,x,sedan
+52990,2014,ford super duty f-550 drw,good,diesel,15886,automatic,4wd,truck
+52997,2017,rover sport,excellent,gas,58947,automatic,4wd,SUV
+53990,2012,x international terrastar,good,diesel,63550,automatic,rwd,truck
+54900,2016,chevrolet corvette,x,gas,5100,automatic,rwd,coupe
+55000,2019,chevrolet silverado,like new,gas,58000,automatic,4wd,truck
+55000,2013,ford f450 super duty,excellent,diesel,167000,automatic,4wd,truck
+55000,2002,x freightliner fl60,excellent,diesel,110000,automatic,x,truck
+55000,2001,ford excursion,excellent,gas,88000,automatic,4wd,SUV
+55000,2000,x freightliner,excellent,diesel,87000,automatic,4wd,truck
+56000,2015,mercedes-benz ,x,other,3995,automatic,fwd,other
+56990,2018,cadillac escalade esv platinum,good,other,58874,automatic,4wd,other
+57000,2017,x maserati,x,other,14637,automatic,fwd,other
+57590,2018,cadillac escalade esv luxury,good,gas,28453,other,4wd,SUV
+57850,2016,chevrolet corvette,x,gas,1281,automatic,x,coupe
+57990,2020,mercedes-benz e-class e 450,good,other,6502,other,x,sedan
+58000,2019,gmc yukon denali,x,gas,40000,automatic,x,SUV
+58989,2015,tesla model s,x,electric,23906,automatic,x,sedan
+58995,2018,chevrolet camaro,excellent,gas,10626,automatic,rwd,coupe
+59000,2018,ford f-150 raptor,excellent,gas,79000,automatic,4wd,truck
+59900,2017,chevrolet ss sedan,x,gas,3050,automatic,rwd,sedan
+59990,2019,audi q8 premium sport utility 4d,good,gas,8930,automatic,x,other
+59990,2017,ford super duty f-550 drw,good,diesel,31337,automatic,4wd,truck
+60990,2019,audi q8 premium sport utility 4d,good,gas,8798,automatic,x,other
+62977,2017,chevrolet corvette,x,gas,1006,automatic,rwd,coupe
+62990,2020,mercedes-benz e-class e 450,good,gas,12145,other,rwd,coupe
+63990,2019,audi q8 premium sport utility 4d,good,other,20126,automatic,x,other
+63990,2017,x freightliner m2 106 medium duty,good,diesel,28400,automatic,rwd,truck
+64000,2015,chevrolet ,x,other,1749,automatic,fwd,other
+65000,2017,chevrolet ,x,other,2651,automatic,fwd,other
+69000,2020,ford ,x,other,181,manual,fwd,other
+69850,2017,chevrolet corvette,x,gas,2813,automatic,rwd,convertible
+72900,2021,chevrolet tahoe,good,gas,19129,automatic,4wd,SUV
+75500,2020,ram limited 3500,excellent,diesel,26100,automatic,4wd,pickup
+78000,2020,cadillac escalade,like new,gas,4300,automatic,fwd,SUV
+80000,2018,x kenworth t680,excellent,diesel,395937,manual,x,truck
+85500,2010,ferrari ,x,other,14548,automatic,fwd,other
+98900,2001,ferrari 360 modena,good,gas,20187,automatic,rwd,convertible
+99950,2021,chevrolet corvette stingray spor,x,gas,510,automatic,rwd,coupe
+100000,2018,dodge ,x,other,959,automatic,fwd,other
+104000,2018,dodge ,x,other,483,automatic,fwd,other
+104900,2020,bmw m805i,excellent,gas,9000,automatic,4wd,sedan
+130000,2019,chevrolet corvette,like new,gas,5000,automatic,rwd,coupe
+140000,2015,jeep renegade,like new,gas,49658,other,fwd,SUV
