@@ -1,0 +1,204 @@
+<html lang="en"><head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>My Text to Image</title>
+ <style>
+  :root {
+      --primary-color: #4a90e2;
+      --secondary-color: #f5f7fa;
+      --text-color: #333;
+      --secondary-text-color: #888;
+      --border-radius: 8px;
+  }
+  body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: var(--secondary-color);
+      color: var(--text-color);
+      display: flex;
+      height: 100vh;
+  }
+  #image-section {
+      width: 75%;
+      background-color: #fff;
+      overflow-y: auto;
+      padding: 2rem;
+      box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+  }
+  .image-group {
+      margin-bottom: 2rem;
+  }
+  .image-group h2 {
+      color: var(--primary-color);
+      border-bottom: 1px solid var(--primary-color);
+      padding-bottom: 0.5rem;
+  }
+  .image-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+  }
+  .config-grid {
+      text-align: center;
+      color: var(--secondary-text-color);
+      padding-top: 0.2rem;
+      font-size: 0.75rem;
+  }
+  .generated-image {
+      width: 100%;
+      height: auto;
+      border-radius: var(--border-radius);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  #form-section {
+      width: 25%;
+      padding: 2rem;
+      overflow-y: auto;
+  }
+  h1 {
+      margin-top: 0;
+      color: var(--primary-color);
+  }
+  form {
+      display: flex;
+      flex-direction: column;
+  }
+  label {
+      margin-top: 1rem;
+      margin-bottom: 0.5rem;
+      font-weight: bold;
+  }
+  input[type="text"], input[type="number"], input[type="password"], select, textarea {
+      padding: 0.5rem;
+      border: 1px solid #ddd;
+      border-radius: var(--border-radius);
+      font-size: 1rem;
+      font-family: inherit;
+  }
+  textarea {
+      resize: vertical;
+  }
+  input[type="range"] {
+      width: 100%;
+  }
+  button {
+      margin-top: 1.5rem;
+      padding: 0.75rem;
+      background-color: var(--primary-color);
+      color: white;
+      border: none;
+      border-radius: var(--border-radius);
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+  }
+  button:hover {
+      background-color: #3a7bc8;
+  }
+ </style>
+</head>
+<body>
+<div id="image-section"></div>
+<div id="form-section">
+ <h1>Image Generator</h1>
+ <form id="image-form">
+
+  <label for="prompt">Prompt</label>
+  <textarea id="prompt" name="prompt" maxlength="400" rows="3" required="" placeholder="Describe your image..."></textarea>
+
+  <label for="negative-prompt">Negative Prompt (Optional)</label>
+  <textarea id="negative-prompt" name="negative_prompt" maxlength="400" rows="3" placeholder="What to avoid..."></textarea>
+
+  <label for="number-of-images">Number of Images: <span id="image-count">4</span></label>
+  <input type="range" id="number-of-images" name="number_of_images" min="1" max="8" value="4" oninput="document.getElementById('image-count').textContent = this.value">
+
+  <label for="aspect-ratio">Aspect Ratio</label>
+  <select id="aspect-ratio" name="aspect_ratio">
+   <option value="1:1">1:1 (Square)</option>
+   <option value="9:16">9:16 (Portrait)</option>
+   <option value="16:9">16:9 (Landscape)</option>
+   <option value="4:3">4:3</option>
+   <option value="3:4">3:4</option>
+  </select>
+
+  <label for="guidance-scale">Guidance Scale: <span id="guidance-value">11</span></label>
+  <input type="range" id="guidance-scale" name="guidance_scale" min="0" max="21" value="11" oninput="document.getElementById('guidance-value').textContent = this.value">
+
+  <label for="seed">Seed (optional)</label>
+  <input type="number" id="seed" name="seed" placeholder="Leave blank for random">
+
+  <label for="safety-filter-level">Safety Filter Level</label>
+  <select id="safety-filter-level" name="safety_filter_level">
+   <option value="block_most">Block Most</option>
+   <option value="block_some">Block Some</option>
+   <option value="block_few">Block Few</option>
+   <option value="block_fewest">Block Fewest</option>
+  </select>
+
+  <label for="person-generation">Person Generation</label>
+  <select id="person-generation" name="person_generation">
+   <option value="allow_adult">Allow Adult</option>
+   <option value="dont_allow">Don't Allow</option>
+   <option value="allow_all">Allow All</option>
+  </select>
+
+  <label for="password">Password</label>
+  <input type="password" id="password" name="password" required="">
+
+  <button type="submit">Generate Image</button>
+ </form>
+</div>
+
+<script>
+ document.getElementById('image-form').addEventListener('submit', function(e) {
+     e.preventDefault();
+     const formData = new FormData(this);
+
+     fetch('YOUR_API_ENDPOINT', {
+         method: 'POST',
+         body: formData
+     })
+     .then(response => response.json())
+     .then(data => {
+         if (Array.isArray(data.image_urls)) {
+             const imageSection = document.getElementById('image-section');
+             const imageGroup = document.createElement('div');
+             imageGroup.className = 'image-group';
+
+             const dateHeader = document.createElement('h2');
+             dateHeader.textContent = formData.get("prompt");
+             imageGroup.appendChild(dateHeader);
+
+             const imageGrid = document.createElement('div');
+             imageGrid.className = 'image-grid';
+
+             data.image_urls.forEach(url => {
+                 const img = document.createElement('img');
+                 img.src = url;
+                 img.alt = 'Generated Image';
+                 img.className = 'generated-image';
+                 imageGrid.appendChild(img);
+             });
+
+             const configGrid = document.createElement('div');
+             configGrid.className = 'config-grid';
+             for (const key of formData.keys()) {
+                if (formData.get(key) && key != 'password') {
+                   configGrid.textContent += key + ": " + formData.get(key)+ ". ";
+                }
+             }
+
+             imageGroup.appendChild(imageGrid);
+             imageGroup.appendChild(configGrid);
+             imageSection.insertBefore(imageGroup, imageSection.firstChild);
+         } else {
+             console.error('Expected an array of image URLs');
+         }
+     })
+     .catch(error => console.error('Error:', error));
+ });
+</script>
+
+</body>
+</html>
