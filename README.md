@@ -1,3 +1,3 @@
-# Expert In Cloud Courses Files
+# Courses Files
 
-This repository contains a collection of files and resources designed to assist with teaching and educational activities in Expert In Cloud.
+This repository contains a collection of files and resources designed to assist me in sharing tutorials related to cloud computing.
